@@ -1,0 +1,43 @@
+# Title: Silhouette of DeWitt Clinton
+## Highlight: False
+## Accession
+### Number: 50.602.461
+### Year: 50.602.461
+## Public Domain: False
+## Images
+## Constituents
+### Name: Jarvis F. Hankes
+### ID: 93352
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125415)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q94416577)
+## Department: Drawings and Prints
+## Object Name: Cut paper; ephemera
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Hankes, Jarvis F.
+#### Display Name: Jarvis F. Hankes
+### Bio: American, Pittsford, Oswego County, New York 1799–after 1852
+### Dates Active
+#### Begin: 1799
+#### End: 1852
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q94416577)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125415)
+## Dates
+### Object: 1820–52
+### Begin: 1820
+### End: 1852
+## Medium: Cut paper, gray wash
+## Size
+### Dimensions: Sheet: 11 in. × 8 7/16 in. (28 × 21.5 cm)
+## Credit Line: The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950
+## Geography
+## Classification: Cut Paper
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

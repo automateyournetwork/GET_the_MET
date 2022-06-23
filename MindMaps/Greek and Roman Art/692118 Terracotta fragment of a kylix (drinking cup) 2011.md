@@ -1,0 +1,44 @@
+# Title: Terracotta fragment of a kylix (drinking cup)
+## Highlight: False
+## Accession
+### Number: 2011.604.1.3140
+### Year: 2011.604.1.3140
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/gr/original/DVB02855_1_ff.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/gr/web-large/DVB02855_1_ff.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/gr/original/DVB02855_2_ff.jpg)
+## Constituents
+### Name: Attributed as Related to the Thalia Painter
+### ID: 49238
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500059074)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q90070025)
+## Department: Greek and Roman Art
+## Object Name: Kylix fragment
+## Culture: Greek, Attic
+## History
+### Period: Archaic
+## Artist
+### Name
+#### Prefix: Attributed as Related to the
+#### Suffix: [DvB]
+#### Alpha Sort: Thalia Painter
+#### Display Name: Thalia Painter
+### Dates Active
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q90070025)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500059074)
+## Dates
+### Object: 510–500 B.C.
+### Begin: -500
+### End: -450
+## Medium: Terracotta
+## Size
+## Credit Line: Gift of Dietrich von Bothmer, Distinguished Research Curator, Greek and Roman Art, 2011
+## Geography
+## Classification: Vases
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

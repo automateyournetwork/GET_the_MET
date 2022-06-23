@@ -1,0 +1,40 @@
+# Title: Helmet Mask (Ngontang)
+## Highlight: False
+## Accession
+### Number: 1980.559
+### Year: 1980.559
+## Public Domain: False
+## Images
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Mask
+## Culture: Fang peoples
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: First half of 20th century
+### Begin: 1900
+### End: 1960
+## Medium: Wood, pigment, kaolin
+## Size
+### Dimensions: H. 15 1/4 x W. 10 x D. 9 3/4 in. (38.7 x 25.4 x 24.8 cm)
+## Credit Line: Gift of Herman and Mollie Schildkrout, 1980
+## Geography
+### Country: Gabon
+## Classification: Wood-Sculpture
+## Metadata Date: 2021-06-12T04:40:16.533Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Faces
+#### Ceremonial Objects
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300251798)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300234117)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

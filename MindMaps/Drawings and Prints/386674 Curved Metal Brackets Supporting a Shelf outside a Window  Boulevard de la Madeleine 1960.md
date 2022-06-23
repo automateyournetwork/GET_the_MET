@@ -1,0 +1,39 @@
+# Title: Curved Metal Brackets Supporting a Shelf outside a Window, Boulevard de la Madeleine
+## Highlight: False
+## Accession
+### Number: 60.632.153(4)
+### Year: 60.632.153(4)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP806811.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP806811.jpg)
+## Constituents
+### Name: Richardson Ellson &amp; Co.
+### ID: 91414
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing ; Ornament and architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Richardson Ellson & Co.
+#### Display Name: Richardson Ellson & Co.
+### Bio: British
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1880
+### Begin: 1875
+### End: 1885
+## Medium: Graphite
+## Size
+### Dimensions: plate: 4 x 3 1/16 in. (10.2 x 7.7 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

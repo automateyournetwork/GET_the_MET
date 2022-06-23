@@ -1,0 +1,51 @@
+# Title: Saint John the Evangelist
+## Highlight: False
+## Accession
+### Number: 60.634.65
+### Year: 60.634.65
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP822192.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP822192.jpg)
+## Constituents
+### Name: Andrea Schiavone (Andrea Meldola)
+### ID: 162393
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000550)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q495060)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Schiavone, Andrea (Andrea Meldola)
+#### Display Name: Andrea Schiavone (Andrea Meldola)
+### Bio: Italian, Zadar (Zara) ca. 1510?–1563 Venice
+### Nationality: Italian
+### Dates Active
+#### Begin: 1510
+#### End: 1563
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q495060)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000550)
+## Dates
+### Begin: 1510
+### End: 1563
+## Medium: Etching in yellowy green ink, with white gouache and yellow wash
+## Size
+### Dimensions: sheet: 8 11/16 x 4 5/8 in. (22 x 11.7 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Saint John the Evangelist
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/ia/901001171)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

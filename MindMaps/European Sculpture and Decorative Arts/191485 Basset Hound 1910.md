@@ -1,0 +1,52 @@
+# Title: Basset Hound
+## Highlight: False
+## Accession
+### Number: 10.108.6
+### Year: 10.108.6
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/7795.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/7795.jpg)
+## Constituents
+### Name: Antoine-Louis Barye
+### ID: 161656
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007044)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q451489)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Statuette
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Barye, Antoine-Louis
+#### Display Name: Antoine-Louis Barye
+### Bio: French, Paris 1795–1875 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1795
+#### End: 1875
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q451489)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007044)
+## Dates
+### Object: 19th century
+### Begin: 1800
+### End: 1899
+## Medium: Bronze
+## Size
+### Dimensions: Overall: 6 1/2 × 12 × 4 in. (16.5 × 30.5 × 10.2 cm)
+## Credit Line: Rogers Fund, 1910
+## Geography
+## Classification: Sculpture-Bronze
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dogs
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300265714)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

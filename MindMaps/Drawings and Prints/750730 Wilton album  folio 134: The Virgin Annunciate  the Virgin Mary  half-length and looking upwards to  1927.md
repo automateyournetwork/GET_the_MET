@@ -1,0 +1,43 @@
+# Title: Wilton album, folio 134: The Virgin Annunciate, the Virgin Mary, half-length and looking upwards to the right at the Holy Spirit in the form of a dove, from 'Santini'
+## Highlight: False
+## Accession
+### Number: 27.78.1(376)
+### Year: 27.78.1(376)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Agostino Carracci
+### ID: 164172
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115349)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q316269)
+## Department: Drawings and Prints
+## Object Name: Print, album
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Carracci, Agostino
+#### Display Name: Agostino Carracci
+### Bio: Italian, Bologna 1557–1602 Parma
+### Dates Active
+#### Begin: 1557
+#### End: 1602
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q316269)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115349)
+## Dates
+### Object: 1581
+### Begin: 1576
+### End: 1586
+## Medium: Engraving
+## Size
+### Dimensions: Sheet (Trimmed): 3 3/8 × 2 13/16 in. (8.6 × 7.2 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1927
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

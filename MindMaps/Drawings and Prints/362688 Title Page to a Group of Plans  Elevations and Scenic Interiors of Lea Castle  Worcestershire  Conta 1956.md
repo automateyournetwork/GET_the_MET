@@ -1,0 +1,56 @@
+# Title: Title Page to a Group of Plans, Elevations and Scenic Interiors of Lea Castle, Worcestershire, Containing a View of New Front to the Ice House
+## Highlight: False
+## Accession
+### Number: 56.601(1)
+### Year: 56.601(1)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP805386.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP805386.jpg)
+## Constituents
+### Name: Attributed to John Carter
+### ID: 91018
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015256)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6225341)
+## Department: Drawings and Prints
+## Object Name: Drawing ; Ornament and Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Attributed to
+#### Alpha Sort: Carter, John
+#### Display Name: John Carter
+### Bio: British, London 1748–1817 London
+### Nationality: British
+### Dates Active
+#### Begin: 1748
+#### End: 1817
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6225341)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015256)
+## Dates
+### Object: 1816
+### Begin: 1816
+### End: 1816
+## Medium: Watercolor
+## Size
+### Dimensions: sheet: 11 x 14 in. (27.9 x 35.6 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Arches
+#### Columns
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300001062)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300001571)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

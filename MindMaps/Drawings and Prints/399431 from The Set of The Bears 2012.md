@@ -1,0 +1,58 @@
+# Title: from The Set of The Bears
+## Highlight: False
+## Accession
+### Number: 2012.136.669.3
+### Year: 2012.136.669.3
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP828266.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP828266.jpg)
+## Constituents
+### Name: Marcus de Bye
+### ID: 104329
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500030908)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6758551)
+### Name: After Marcus Gheeraerts the Elder
+### ID: 70989
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500020030)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q132078)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: de Bye, Marcus
+#### Display Name: Marcus de Bye
+### Bio: Dutch, The Hague 1639–after 1688
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1639
+#### End: 1639
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6758551)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500030908)
+## Dates
+### Object: ca. 1664
+### Begin: 1659
+### End: 1669
+## Medium: Etching
+## Size
+### Dimensions: sheet: 4 7/16 x 5 9/16 in. (11.3 x 14.2 cm)
+## Credit Line: Bequest of Phyllis Massar, 2011
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Bears
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266516)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

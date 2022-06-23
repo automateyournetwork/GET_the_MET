@@ -1,0 +1,57 @@
+# Title: The birth of Jupiter in the centre between Rhea at the left and the midwife on the right, another woman standing at left, from the 'Theatrum Pictorium'
+## Highlight: False
+## Accession
+### Number: 49.95.2576
+### Year: 49.95.2576
+## Public Domain: False
+## Images
+## Constituents
+### Name: Theodor van Kessel
+### ID: 76268
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025285)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26838166)
+### Name: Intermediary draughtsman David Teniers the Younger
+### ID: 162520
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500001443)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q335022)
+### Name: After Andrea Schiavone (Andrea Meldola)
+### ID: 162393
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000550)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q495060)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Theatrum Pictorium
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Kessel, Theodor van
+#### Display Name: Theodor van Kessel
+### Bio: Dutch, 1620–1660
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1620
+#### End: 1660
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26838166)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025285)
+## Dates
+### Object: ca. 1656–60
+### Begin: 1651
+### End: 1661
+## Medium: Etching
+## Size
+### Dimensions: Sheet: 8 15/16 × 6 7/16 in. (22.7 × 16.4 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

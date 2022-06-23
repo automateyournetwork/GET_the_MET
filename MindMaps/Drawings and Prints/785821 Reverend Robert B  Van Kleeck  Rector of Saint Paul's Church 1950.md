@@ -1,0 +1,44 @@
+# Title: Reverend Robert B. Van Kleeck, Rector of Saint Paul's Church
+## Highlight: False
+## Accession
+### Number: 50.602.842
+### Year: 50.602.842
+## Public Domain: False
+## Images
+## Constituents
+### Name: Auguste Edouart
+### ID: 161861
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500119964)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2870949)
+## Department: Drawings and Prints
+## Object Name: Cut paper
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Edouart, Auguste
+#### Display Name: Auguste Edouart
+### Bio: French, 1789–1861
+### Dates Active
+#### Begin: 1789
+#### End: 1861
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2870949)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500119964)
+## Dates
+### Object: 1841
+### Begin: 1841
+### End: 1841
+## Medium: Cut paper silhouette
+## Size
+### Dimensions: Image: 7 3/4 × 6 1/16 in. (19.7 × 15.4 cm)
+Sheet: 11 × 8 in. (28 × 20.3 cm)
+## Credit Line: Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950
+## Geography
+## Classification: Cut Paper
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

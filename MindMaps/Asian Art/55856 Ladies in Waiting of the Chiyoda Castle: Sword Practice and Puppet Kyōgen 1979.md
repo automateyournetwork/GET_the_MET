@@ -1,0 +1,57 @@
+# Title: Ladies in Waiting of the Chiyoda Castle: Sword Practice and Puppet Kyōgen
+## Highlight: False
+## Accession
+### Number: JP3555
+### Year: JP3555
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/DP149399.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/DP149399.jpg)
+## Constituents
+### Name: Yōshū (Hashimoto) Chikanobu
+### ID: 12845
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500335317)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3087294)
+## Department: Asian Art
+## Object Name: Print
+## Culture: Japan
+## History
+### Period: Meiji period (1868–1912)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Yōshū (Hashimoto) Chikanobu
+#### Display Name: Yōshū (Hashimoto) Chikanobu
+### Bio: Japanese, 1838–1912
+### Nationality: Japanese
+### Dates Active
+#### Begin: 1838
+#### End: 1912
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3087294)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500335317)
+## Dates
+### Object: 1895
+### Begin: 1895
+### End: 1895
+## Medium: Triptych from an album of woodblock prints; ink and color on paper
+## Size
+### Dimensions: 13 7/8 x 9 1/4 in. (35.2 x 23.5 cm)
+## Credit Line: Gift of Mrs. W. Walton Butterworth, 1979
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Swords
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300037048)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

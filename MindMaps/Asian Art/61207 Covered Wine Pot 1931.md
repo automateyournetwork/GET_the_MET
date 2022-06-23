@@ -1,0 +1,38 @@
+# Title: Covered Wine Pot
+## Highlight: False
+## Accession
+### Number: 31.49.6a, b
+### Year: 31.49.6a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/31_49_6.JPG)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/31_49_6.JPG)
+## Constituents
+## Department: Asian Art
+## Object Name: Covered wine pot
+## Culture: China
+## History
+### Period: Ming dynasty (1368–1644)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Begin: 1368
+### End: 1644
+## Medium: Bronze, gold, silver
+## Size
+### Dimensions: H. 8 3/4 in. (22.2 cm); L. 10 1/2 in. (26.7 cm)
+## Credit Line: Gift of George Coe Graves, 1931
+## Geography
+## Classification: Metalwork
+## Metadata Date: 2021-06-22T04:40:18.937Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Animals
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249525)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

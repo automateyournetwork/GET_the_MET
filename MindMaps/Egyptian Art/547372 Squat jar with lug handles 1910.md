@@ -1,0 +1,32 @@
+# Title: Squat jar with lug handles
+## Highlight: False
+## Accession
+### Number: 10.176.135
+### Year: 10.176.135
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Vessel, lug handles, squat
+## History
+### Period: Predynastic, Naqada II
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 3500–3300 B.C.
+### Begin: -3500
+### End: -3500
+## Medium: Limestone
+## Size
+### Dimensions: H: 3.2 cm (1 1/4 in.); diam: 5.2 cm (2 1/16 in.)
+## Credit Line: Rogers Fund, 1910
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 101

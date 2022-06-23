@@ -1,0 +1,63 @@
+# Title: Sheet 5 of figures for Chinese shadow puppets
+## Highlight: False
+## Accession
+### Number: 1978.643.4(5)
+### Year: 1978.643.4(5)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP875738.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP875738.jpg)
+## Constituents
+### Name: Possibly Juan Llorens
+### ID: 70651
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Prefix: Possibly
+#### Alpha Sort: Llorens, Juan
+#### Display Name: Juan Llorens
+### Bio: Spanish, active Barcelona, ca. 1855–70
+### Dates Active
+#### Begin: 1800
+#### End: 1900
+### URLs
+## Dates
+### Object: ca. 1850–70
+### Begin: 1845
+### End: 1855
+## Medium: Woodcut
+## Size
+### Dimensions: Sheet: 12 13/16 × 18 1/8 in. (32.5 × 46 cm)
+## Credit Line: Max G. Wildnauer Fund, 1978
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Lions
+#### Puppets
+#### Buffalos
+#### Camels
+#### Elephants
+#### Tigers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310388)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300138750)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250108)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250139)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250160)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249063)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

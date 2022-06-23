@@ -1,0 +1,55 @@
+# Title: Prince Charles Stuart
+## Highlight: False
+## Accession
+### Number: 24.80.43
+### Year: 24.80.43
+## Public Domain: False
+## Images
+## Constituents
+### Name: Josiah Wedgwood and Sons
+### ID: 162701
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500269607)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q595544)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Cameo medallion
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Wedgwood and Sons, Josiah
+#### Display Name: Josiah Wedgwood and Sons
+### Bio: British, Etruria, Staffordshire, 1759–present
+### Dates Active
+#### Begin: 1759
+#### End: 9999
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q595544)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500269607)
+## Dates
+### Object: late 18th–early 19th century
+### Begin: 1785
+### End: 1815
+## Medium: Jasper dip
+## Size
+### Dimensions: Diameter: 1 3/4 in. (4.4 cm)
+## Credit Line: Bequest of Mary Clark Thompson, 1923
+## Geography
+## Classification: Ceramics-Pottery
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Princes
+#### Men
+#### Profiles
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025482)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300123319)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

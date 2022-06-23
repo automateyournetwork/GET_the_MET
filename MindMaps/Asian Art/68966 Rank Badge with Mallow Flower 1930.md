@@ -1,0 +1,42 @@
+# Title: Rank Badge with Mallow Flower
+## Highlight: False
+## Accession
+### Number: 30.75.1020
+### Year: 30.75.1020
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/DP-14760-001.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/DP-14760-001.jpg)
+## Constituents
+## Department: Asian Art
+## Object Name: Rank badge
+## Culture: China
+## History
+### Period: Qing dynasty (1644–1911)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: early 19th century
+### Begin: 1800
+### End: 1833
+## Medium: Silk and metallic thread embroidery on plainweave silk
+## Size
+### Dimensions: 9 3/4 x 11 1/2 in. (24.77 x 29.21 cm)
+## Credit Line: Bequest of William Christian Paul, 1929
+## Geography
+## Classification: Textiles-Embroidered
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Bats
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310335)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

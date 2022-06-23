@@ -1,0 +1,55 @@
+# Title: Christ on the Cross, with the Virgin and Saint John
+## Highlight: False
+## Accession
+### Number: 31.54.119
+### Year: 31.54.119
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP813493.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP813493.jpg)
+## Constituents
+### Name: Anonymous, 15th century
+### ID: 88815
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, 15th century
+#### Display Name: Anonymous, 15th century
+### Dates Active
+#### Begin: 1400
+#### End: 1500
+### URLs
+## Dates
+### Object: 15th century
+### Begin: 1400
+### End: 1500
+## Medium: Woodcut
+## Size
+### Dimensions: sheet: 9 7/16 x 6 15/16 in. (24 x 17.7 cm)
+## Credit Line: Bequest of James Clark McGuire, 1930
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Cross
+#### Saints
+#### Christ
+#### Virgin Mary
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300235443)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300150555)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901000087)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901000032)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

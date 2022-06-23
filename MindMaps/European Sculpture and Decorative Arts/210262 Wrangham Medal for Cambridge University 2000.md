@@ -1,0 +1,63 @@
+# Title: Wrangham Medal for Cambridge University
+## Highlight: False
+## Accession
+### Number: 2000.224.25
+### Year: 2000.224.25
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP100431.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP100431.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP100432.jpg)
+## Constituents
+### Name: Medalist: William Wyon
+### ID: 165100
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500117324)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4102532)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Medal
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Medalist:
+#### Alpha Sort: Wyon, William
+#### Display Name: William Wyon
+### Bio: British, Birmingham 1795–1851 Brighton
+### Nationality: British
+### Dates Active
+#### Begin: 1795
+#### End: 1851
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4102532)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500117324)
+## Dates
+### Object: 1842
+### Begin: 1842
+### End: 1842
+## Medium: Gold
+## Size
+### Dimensions: Diameter: 5 13/16 in. (148 mm)
+## Credit Line: Gift of Assunta Sommella Peluso, Ada Peluso, and Romano I. Peluso, in memory of Ignazio Peluso, 2000
+## Geography
+## Classification: Medals and Plaquettes
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Women
+#### Harps
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300042047)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

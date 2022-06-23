@@ -1,0 +1,43 @@
+# Title: [Contact Sheet: 8 Frames of Hermann and Elisabeth Boeschenstein and Isabelle Evans at the Old Lyme Country Club, Connecticut]
+## Highlight: False
+## Accession
+### Number: 2020.241.27
+### Year: 2020.241.27
+## Public Domain: False
+## Images
+## Constituents
+### Name: Walker Evans
+### ID: 161869
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Evans, Walker
+#### Display Name: Walker Evans
+### Bio: American, St. Louis, Missouri 1903–1975 New Haven, Connecticut
+### Dates Active
+#### Begin: 1903
+#### End: 1975
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+## Dates
+### Object: 1967
+### Begin: 1967
+### End: 1967
+## Medium: Gelatin silver print
+## Size
+### Dimensions: Sheet: 10 in. × 5 3/16 in. (25.4 × 13.1 cm)
+## Credit Line: Funds from various donors, 2020
+## Geography
+## Classification: Photographs
+## Metadata Date: 2021-09-18T04:35:34.043Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,41 @@
+# Title: Medal Showing the Recapture of Prague and Charles Prince of Lorraine
+## Highlight: False
+## Accession
+### Number: 22.122.47
+### Year: 22.122.47
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/aa/original/22.122.47_001nov2014.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/aa/web-large/22.122.47_001nov2014.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/aa/original/22.122.47_002nov2014.jpg)
+## Constituents
+## Department: Arms and Armor
+## Object Name: Medal
+## Culture: Austrian
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 1744
+### Begin: 1744
+### End: 1744
+## Medium: Bronze
+## Size
+### Dimensions: Diam 1 11/16 in. (4.3 cm); thickness 3/16 in. (0.5 cm); Wt. 1.3 oz. (36.9 g)
+## Credit Line: Gift of Bashford Dean, 1922
+## Geography
+### Type: Country of Origin
+### Country: Austria
+## Classification: Miscellaneous-Coins and Medals
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

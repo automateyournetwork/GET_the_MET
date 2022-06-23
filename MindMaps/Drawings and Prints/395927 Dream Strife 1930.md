@@ -1,0 +1,49 @@
+# Title: Dream Strife
+## Highlight: False
+## Accession
+### Number: 30.6.6
+### Year: 30.6.6
+## Public Domain: False
+## Images
+## Constituents
+### Name: Arthur B. Davies
+### ID: 161812
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013464)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q708502)
+### Name: George C. Miller
+### ID: 165615
+### Role: Printer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500032306)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Davies, Arthur B.
+#### Display Name: Arthur B. Davies
+### Bio: American, Utica, New York 1862–1928 Florence
+### Nationality: American
+### Dates Active
+#### Begin: 1862
+#### End: 1928
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q708502)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013464)
+## Dates
+### Object: 1923
+### Begin: 1923
+### End: 1923
+## Medium: Transfer lithograph; first state of two
+## Size
+### Dimensions: sheet: 12 5/8 x 18 3/16 in. (32.1 x 46.2 cm)
+## Credit Line: Gift of Mrs. Arthur B. Davies, 1930
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

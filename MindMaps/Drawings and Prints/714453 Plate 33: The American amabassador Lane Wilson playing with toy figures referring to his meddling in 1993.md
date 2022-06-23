@@ -1,0 +1,66 @@
+# Title: Plate 33: The American amabassador Lane Wilson playing with toy figures referring to his meddling in the affairs of Mexico, from the portfolio 'Estampas de la revolución Mexicana' (prints of the Mexican Revolution)
+## Highlight: False
+## Accession
+### Number: 1993.1133.34
+### Year: 1993.1133.34
+## Public Domain: False
+## Images
+## Constituents
+### Name: Leopoldo Méndez
+### ID: 78679
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500111715)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q711906)
+### Name: Taller de Gráfica Popular
+### ID: 102997
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2390547)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Méndez, Leopoldo
+#### Display Name: Leopoldo Méndez
+### Bio: Mexican, 1902–1969
+### Dates Active
+#### Begin: 1902
+#### End: 1969
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q711906)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500111715)
+## Dates
+### Object: 1947
+### Begin: 1947
+### End: 1947
+## Medium: Linocut
+## Size
+### Dimensions: Sheet: 15 3/4 × 10 5/8 in. (40 × 27 cm)
+Image: 11 5/8 × 8 1/4 in. (29.5 × 21 cm)
+## Credit Line: Gift of Norman S. Rothschild, 1993
+## Geography
+### Type: Published in
+### Country: Mexico
+## Classification: Prints
+## Rights and Reproduction: © 2022 Artists Rights Society (ARS), New York
+## Metadata Date: 2022-01-04T04:40:20.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Satire
+#### Historical Figures
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300055934)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300386296)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q97768209)
+## Timeline Work: False

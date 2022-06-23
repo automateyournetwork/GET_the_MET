@@ -1,0 +1,47 @@
+# Title: Design for a Carpet
+## Highlight: False
+## Accession
+### Number: 1985.198.1
+### Year: 1985.198.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Gunta Stölzl
+### ID: 147153
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500048725)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q73085)
+### Gender: Female
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Stolzl, Gunta
+#### Display Name: Gunta Stölzl
+### Bio: German, Munich 1897–1983 Zurich, Switzerland
+### Nationality: German
+### Dates Active
+#### Begin: 1897
+#### End: 1983
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q73085)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500048725)
+## Dates
+### Object: 1923
+### Begin: 1923
+### End: 1923
+## Medium: Graphite on paper
+## Size
+### Dimensions: 8 1/2 × 11 1/8 in. (21.6 × 28.3 cm)
+## Credit Line: Gift of Jack Lenor Larsen Incorporated, 1985
+## Geography
+## Classification: Drawings
+## Rights and Reproduction: © 2022 Artists Rights Society (ARS), New York
+## Metadata Date: 2022-01-04T04:40:20.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

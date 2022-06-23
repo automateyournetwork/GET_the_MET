@@ -1,0 +1,56 @@
+# Title: Lanelay; [Untitled]
+## Highlight: False
+## Accession
+### Number: 2005.100.382 (61a, b)
+### Year: 2005.100.382 (61a, b)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ph/original/DP143529.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ph/web-large/DP143529.jpg)
+## Constituents
+### Name: John Dillwyn Llewelyn
+### ID: 55157
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500029384)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3403542)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Llewelyn, John Dillwyn
+#### Display Name: John Dillwyn Llewelyn
+### Bio: British, Swansea, Wales 1810–1882 Swansea, Wales
+### Nationality: British, Welsh
+### Dates Active
+#### Begin: 1810
+#### End: 1882
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3403542)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500029384)
+## Dates
+### Object: 1853–56
+### Begin: 1853
+### End: 1856
+## Medium: Salted paper print; albumen silver print
+## Size
+### Dimensions: Image: 14.7 × 11.1 cm (5 13/16 × 4 3/8 in.)
+Image: 8.1 × 11.6 cm (3 3/16 × 4 9/16 in.)
+## Credit Line: Gilman Collection, Gift of The Howard Gilman Foundation, 2005
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Houses
+#### Waterfalls
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300005433)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008736)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

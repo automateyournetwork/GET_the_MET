@@ -1,0 +1,59 @@
+# Title: Vignette on page 67 of Volume I, from Lettres d'Hèloïse et d'Abailard.  Edition ornée de huit Figures gravées par les meilleurs artistes de Paris, d'après les dessins et sous la direction de Moreau le Jeune.  A Paris chez J.B. Fournier le jeune et fils, rue Hautefeuille, No. 27. De l'imprimerie de Didot le Jeune. L'an quatrième
+## Highlight: False
+## Accession
+### Number: 66.559.108
+### Year: 66.559.108
+## Public Domain: False
+## Images
+## Constituents
+### Name: Jean-Baptiste-Blaise Simonet
+### ID: 91745
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500103475)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q30018224)
+### Name: After Jean Michel Moreau the Younger
+### ID: 163775
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028967)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q321972)
+### Name: Didot, le Jeune
+### ID: 83861
+### Role: Printer
+### URLs
+### Name: J. B. Fournier le jeune et fils
+### ID: 106080
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Lettres d'Hèloïse et d'Abailard.  Edition ornée de huit Figures gravées par les meilleurs artistes de Paris, d'après les dessins et sous la direction de Moreau le Jeune.  A Paris chez J.B. Fournier le jeune et fils, rue Hautefeuille, No. 27. De l'imprimerie de Didot le Jeune. L'an quatrième
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Simonet, Jean-Baptiste-Blaise
+#### Display Name: Jean-Baptiste-Blaise Simonet
+### Bio: French, Paris 1742–after 1813
+### Nationality: French
+### Dates Active
+#### Begin: 1742
+#### End: 1842
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q30018224)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500103475)
+## Dates
+### Object: 1795
+### Begin: 1795
+### End: 1795
+## Medium: Etching and engraving; second state of four (Bocher)
+## Size
+### Dimensions: Sheet: 10 13/16 × 7 11/16 in. (27.5 × 19.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

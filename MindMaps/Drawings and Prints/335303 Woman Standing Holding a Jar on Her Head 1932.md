@@ -1,0 +1,51 @@
+# Title: Woman Standing Holding a Jar on Her Head
+## Highlight: False
+## Accession
+### Number: 32.12.2.19
+### Year: 32.12.2.19
+## Public Domain: False
+## Images
+## Constituents
+### Name: Giovanni Antonio Faldoni
+### ID: 70311
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006603)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q27493848)
+### Name: After Parmigianino (Girolamo Francesco Maria Mazzola)
+### ID: 162205
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500029049)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q9348)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: From an album assembled by Zanetti
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Faldoni, Giovanni Antonio
+#### Display Name: Giovanni Antonio Faldoni
+### Bio: Italian, ca. 1690–ca. 1770
+### Nationality: Italian
+### Dates Active
+#### Begin: 1690
+#### End: 1770
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q27493848)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006603)
+## Dates
+### Object: 1724
+### Begin: 1724
+### End: 1724
+## Medium: Etching and engraving
+## Size
+### Dimensions: 6 7/16 x 3 11/16 in.  (16.4 x 9.4 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1932
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

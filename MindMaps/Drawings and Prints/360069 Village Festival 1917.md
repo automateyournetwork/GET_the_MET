@@ -1,0 +1,44 @@
+# Title: Village Festival
+## Highlight: False
+## Accession
+### Number: 17.50.15-340
+### Year: 17.50.15-340
+## Public Domain: False
+## Images
+## Constituents
+### Name: Cornelis Dusart
+### ID: 163865
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500002441)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1133546)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Dusart, Cornelis
+#### Display Name: Cornelis Dusart
+### Bio: Dutch, Haarlem 1660–1704 Haarlem
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1660
+#### End: 1704
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1133546)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500002441)
+## Dates
+### Object: 1685
+### Begin: 1685
+### End: 1685
+## Medium: Etching
+## Size
+### Dimensions: 9 1/4 x 13 in. (23.5 x 33 cm)
+## Credit Line: Purchase, Joseph Pulitzer Bequest, 1917
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,31 @@
+# Title: Barkcloth Panel (Masi Kesa)
+## Highlight: False
+## Accession
+### Number: 1990.333.10
+### Year: 1990.333.10
+## Public Domain: False
+## Images
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Panel
+## Culture: Fijian
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: mid to late 19th century
+### Begin: 1800
+### End: 2000
+## Medium: Barkcloth, pigment
+## Size
+### Dimensions: W. 8 ft. 9 1/2 in. × L. 9 ft. 1/2 in. (268 × 275.6 cm)
+## Credit Line: Gift of Adelaide and Edmund Carpenter, 1990
+## Geography
+### Country: Fiji
+## Classification: Barkcloth
+## Metadata Date: 2022-01-25T04:43:45.507Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

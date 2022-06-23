@@ -1,0 +1,55 @@
+# Title: Cushion with Susanna and the Elders
+## Highlight: False
+## Accession
+### Number: 64.101.1286
+### Year: 64.101.1286
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP7850.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP7850.jpg)
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Cushion cover
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: first quarter 17th century
+### Begin: 1600
+### End: 1625
+## Medium: Silk and metal thread on canvas
+## Size
+### Dimensions: H. 7 1/4 x W. 10 1/4 inches (18.4 x 26.0 cm)
+## Credit Line: Gift of Irwin Untermyer, 1964
+## Geography
+## Classification: Textiles-Embroidered
+## Metadata Date: 2022-01-21T04:40:41.503Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Female Nudes
+#### Butterflies
+#### Flowers
+#### Birds
+#### Rabbits
+#### Snakes
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300417320)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250218)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250870)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

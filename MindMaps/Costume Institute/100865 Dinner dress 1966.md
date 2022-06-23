@@ -1,0 +1,53 @@
+# Title: Dinner dress
+## Highlight: False
+## Accession
+### Number: C.I.66.13.1
+### Year: C.I.66.13.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Mark Mooring
+### ID: 25931
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q70634381)
+### Name: Bergdorf Goodman
+### ID: 20215
+### Role: Department Store
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524655)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q793430)
+## Department: Costume Institute
+## Object Name: Dinner dress
+## Culture: American
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Mooring Mark
+#### Display Name: Mark Mooring
+### Bio: American
+### Nationality: American
+### Dates Active
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q70634381)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1949
+### Begin: 1949
+### End: 1949
+## Medium: silk
+## Size
+## Credit Line: Gift of Mrs. A. Moore Montgomery, 1966
+## Geography
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

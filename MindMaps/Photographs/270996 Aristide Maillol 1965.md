@@ -1,0 +1,44 @@
+# Title: Aristide Maillol
+## Highlight: False
+## Accession
+### Number: 65.554.5
+### Year: 65.554.5
+## Public Domain: False
+## Images
+## Constituents
+### Name: Josef Breitenbach
+### ID: 55804
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500037093)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1704370)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Breitenbach, Josef
+#### Display Name: Josef Breitenbach
+### Bio: American, born Germany, Munich 1896–1984 New York
+### Nationality: American, born Germany
+### Dates Active
+#### Begin: 1896
+#### End: 1984
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1704370)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500037093)
+## Dates
+### Object: ca. 1933
+### Begin: 1931
+### End: 1935
+## Medium: Gelatin silver print
+## Size
+## Credit Line: Purchase, Mrs. Louis S. Gimbel Jr. and Arthur M. Bullowa Gifts, 1965
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: ©The Josef Breitenbach Trust, New York
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

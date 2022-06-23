@@ -1,0 +1,54 @@
+# Title: Black Horse Tethered in a Stable
+## Highlight: False
+## Accession
+### Number: 20.17.8
+### Year: 20.17.8
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP837365.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP837365.jpg)
+## Constituents
+### Name: Théodore Gericault
+### ID: 164229
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115562)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q184212)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Etudes de Chevaux
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Gericault, Théodore
+#### Display Name: Théodore Gericault
+### Bio: French, Rouen 1791–1824 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1791
+#### End: 1824
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q184212)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115562)
+## Dates
+### Object: 1822
+### Begin: 1822
+### End: 1822
+## Medium: Lithograph
+## Size
+### Dimensions: sheet: 16 5/8 x 21 5/16 in. (42.3 x 54.1 cm)
+plate: 12 15/16 x 15 7/8 in. (32.8 x 40.4 cm)
+## Credit Line: Rogers Fund, 1920
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Horses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250148)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

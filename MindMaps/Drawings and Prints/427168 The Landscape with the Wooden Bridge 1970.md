@@ -1,0 +1,63 @@
+# Title: The Landscape with the Wooden Bridge
+## Highlight: False
+## Accession
+### Number: 1970.599.3
+### Year: 1970.599.3
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP837594.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP837594.jpg)
+## Constituents
+### Name: Allart van Everdingen
+### ID: 163530
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115159)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q539036)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Everdingen, Allart van
+#### Display Name: Allart van Everdingen
+### Bio: Dutch, Alkmaar 1621–1675 Amsterdam
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1621
+#### End: 1675
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q539036)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115159)
+## Dates
+### Begin: 1621
+### End: 1675
+## Medium: Engraving; fourth state of four
+## Size
+### Dimensions: Sheet: 6 1/2 × 7 5/8 in. (16.5 × 19.3 cm)
+## Credit Line: Purchase, Harris Brisbane Dick Fund, Rogers Fund, Joseph Pulitzer Bequest, and Gift of Henry Walters, by exchange, 1970
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-05-07T12:02:24.56Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Animals
+#### Bridges
+#### Men
+#### Landscapes
+#### Trees
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249525)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300386855)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132294)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132410)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

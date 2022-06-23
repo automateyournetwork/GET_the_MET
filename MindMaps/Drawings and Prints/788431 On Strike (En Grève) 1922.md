@@ -1,0 +1,49 @@
+# Title: On Strike (En Grève)
+## Highlight: False
+## Accession
+### Number: 22.87.1(20)
+### Year: 22.87.1(20)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Théophile-Alexandre Steinlen
+### ID: 162469
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500017451)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q706041)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Steinlen, Théophile-Alexandre
+#### Display Name: Théophile-Alexandre Steinlen
+### Bio: French (born Switzerland), Lausanne 1859–1923 Paris
+### Dates Active
+#### Begin: 1859
+#### End: 1923
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q706041)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500017451)
+## Dates
+### Object: 1898
+### Begin: 1898
+### End: 1898
+## Medium: Gillotage
+## Size
+### Dimensions: Sheet: 12 1/2 × 17 5/8 in. (31.7 × 44.7 cm)
+## Credit Line: Gift of Fitz Roy Carrington, 1922
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-01-19T04:40:56.547Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

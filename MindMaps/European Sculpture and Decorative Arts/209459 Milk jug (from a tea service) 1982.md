@@ -1,0 +1,51 @@
+# Title: Milk jug (from a tea service)
+## Highlight: False
+## Accession
+### Number: 1982.60.170a, b
+### Year: 1982.60.170a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/ES6562.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/ES6562.jpg)
+## Constituents
+### Name: Imperial Porcelain Manufactory, St. Petersburg
+### ID: 35211
+### Role: Manufactory
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500331504)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Milk jug
+## History
+## Artist
+### Role: Manufactory
+### Name
+#### Alpha Sort: Imperial Porcelain Manufactory, St. Petersburg
+#### Display Name: Imperial Porcelain Manufactory, St. Petersburg
+### Bio: Russian, 1744–present
+### Nationality: Russian
+### Dates Active
+#### Begin: 1744
+#### End: 9999
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500331504)
+## Dates
+### Object: ca. 1775
+### Begin: 1770
+### End: 1780
+## Medium: Hard-paste porcelain
+## Size
+### Dimensions: Height: 4 1/8 in. (10.5 cm)
+## Credit Line: The Jack and Belle Linsky Collection, 1982
+## Geography
+## Classification: Ceramics-Porcelain
+## Metadata Date: 2021-06-29T04:39:38.347Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Putti
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250465)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 538

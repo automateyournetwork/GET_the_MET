@@ -1,0 +1,33 @@
+# Title: Hand Cannon Used as Wall Piece
+## Highlight: False
+## Accession
+### Number: 36.25.2123
+### Year: 36.25.2123
+## Public Domain: False
+## Images
+## Constituents
+## Department: Arms and Armor
+## Object Name: Hand cannon
+## Culture: Japanese
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 19th century
+### Begin: 1801
+### End: 1900
+## Medium: Iron
+## Size
+### Dimensions: L. 42 1/4 in. (107.3 cm); Wt. 17 7/8 lb. (8.1 kg)
+## Credit Line: Bequest of George C. Stone, 1935
+## Geography
+### Type: Country of Origin
+### State: Harima
+### Country: Japan
+## Classification: Firearms-Hand Cannon
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,41 @@
+# Title: [Musicians in Blackface Playing Outdoors, Shoeburyness, Essex, England]
+## Highlight: False
+## Accession
+### Number: 2010.565
+### Year: 2010.565
+## Public Domain: False
+## Images
+## Constituents
+### Name: Unknown
+### ID: 169986
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Unknown
+#### Display Name: Unknown
+### Dates Active
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+## Dates
+### Object: 1868
+### Begin: 1868
+### End: 1868
+## Medium: Albumen silver print
+## Size
+### Dimensions: Image: 13.4 x 20.7 cm (5 1/4 x 8 1/8 in.)
+Mount: 22.7 x 29.1 cm (8 15/16 x 11 7/16 in.)
+## Credit Line: Purchase, Rotech Healthcare Inc. Gift, 2010
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-07-16T04:33:07.313Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,46 @@
+# Title: [Album of Picture Press Clippings Titled "Pictures of the Time: 1925–1935"
+## Highlight: False
+## Accession
+### Number: 1994.250.88.1–.36
+### Year: 1994.250.88.1–.36
+## Public Domain: False
+## Images
+## Constituents
+### Name: Assembled by Walker Evans
+### ID: 161869
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+## Department: Photographs
+## Object Name: Album
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Assembled by
+#### Alpha Sort: Evans, Walker
+#### Display Name: Walker Evans
+### Bio: American, St. Louis, Missouri 1903–1975 New Haven, Connecticut
+### Nationality: American
+### Dates Active
+#### Begin: 1903
+#### End: 1975
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+## Dates
+### Object: 1925–35
+### Begin: 1925
+### End: 1935
+## Medium: Photomechanical prints
+## Size
+### Dimensions: Sheet: 16 1/16 × 10 9/16 in. (40.8 × 26.8 cm)
+## Credit Line: Walker Evans Archive, 1994
+## Geography
+## Classification: Albums
+## Rights and Reproduction: © Walker Evans Archive, The Metropolitan Museum of Art
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

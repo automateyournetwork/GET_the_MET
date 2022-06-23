@@ -1,0 +1,37 @@
+# Title: Document Sealings With the Throne Name of Thutmose III
+## Highlight: False
+## Accession
+### Number: 12.180.441
+### Year: 12.180.441
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Sealing, Thutmose III, Menkheperre
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18
+### Reign: reign of Amenhotep III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1390–1353 B.C.
+### Begin: -1390
+### End: -1390
+## Medium: Sun-dried mud
+## Size
+### Dimensions: H. 2.1 cm (13/16 in.); w. 1.7 cm (11/16 in.); maximum th. 1 cm (3/8 in.)
+## Credit Line: Rogers Fund, 1911, 1912
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Malqata
+### Locale: Southern rubbish mounds
+## Excavation: MMA excavations, 1910–12
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

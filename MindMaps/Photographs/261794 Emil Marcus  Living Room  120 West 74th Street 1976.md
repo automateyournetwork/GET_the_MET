@@ -1,0 +1,37 @@
+# Title: Emil Marcus, Living Room, 120 West 74th Street
+## Highlight: False
+## Accession
+### Number: 1976.600.7
+### Year: 1976.600.7
+## Public Domain: False
+## Images
+## Constituents
+### Name: Julius Goldschmidt
+### ID: 56046
+### Role: Artist
+### URLs
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Goldschmidt, Julius
+#### Display Name: Julius Goldschmidt
+### Bio: American
+### Nationality: American
+### Dates Active
+### URLs
+## Dates
+### Object: 1895
+### Begin: 1895
+### End: 1895
+## Medium: Albumen silver print
+## Size
+## Credit Line: Gift of Peter Oldenburg, 1976
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

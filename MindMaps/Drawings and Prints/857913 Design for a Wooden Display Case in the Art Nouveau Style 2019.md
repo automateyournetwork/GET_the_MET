@@ -1,0 +1,56 @@
+# Title: Design for a Wooden Display Case in the Art Nouveau Style
+## Highlight: False
+## Accession
+### Number: 2019.204.13
+### Year: 2019.204.13
+## Public Domain: False
+## Images
+## Constituents
+### Name: Georges de Feure
+### ID: 161877
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005733)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1921617)
+### Name: Edward Colonna
+### ID: 165604
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500100840)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3579781)
+## Department: Drawings and Prints
+## Object Name: Drawing Ornament & Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Feure, Georges de
+#### Display Name: Georges de Feure
+### Bio: French, Paris 1868–1943 Paris
+### Dates Active
+#### Begin: 1868
+#### End: 1943
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1921617)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005733)
+## Dates
+### Object: 1900
+### Begin: 1900
+### End: 1900
+## Medium: Graphite and Watercolor
+## Size
+### Dimensions: Sheet: 11 7/16 × 8 7/16 in. (29 × 21.4 cm)
+Mount: 13 3/4 in. × 11 1/4 in. (35 × 28.5 cm)
+## Credit Line: Purchase, Ian Woodner Family Collection Fund, 2019
+## Geography
+## Classification: Drawings
+## Metadata Date: 2022-03-04T10:34:46.977Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Cabinets
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300038888)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

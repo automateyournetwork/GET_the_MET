@@ -1,0 +1,28 @@
+# Title: Main Street, Danbury, Connecticut
+## Highlight: False
+## Accession
+### Number: 1994.264.107.35
+### Year: 1994.264.107.35
+## Public Domain: False
+## Images
+## Constituents
+## Department: Photographs
+## Object Name: Postcard
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 1900s–1930s
+### Begin: 1900
+### End: 1939
+## Medium: Photomechanical print
+## Size
+## Credit Line: Walker Evans Archive, 1994
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

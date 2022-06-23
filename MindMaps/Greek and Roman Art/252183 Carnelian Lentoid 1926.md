@@ -1,0 +1,32 @@
+# Title: Carnelian Lentoid
+## Highlight: False
+## Accession
+### Number: 26.31.233
+### Year: 26.31.233
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Seal, lentoid
+## Culture: Minoan
+## History
+### Period: Late Minoan I
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1600–1450 B.C.
+### Begin: -1600
+### End: -1450
+## Medium: Carnelian
+## Size
+### Dimensions: H.: 5/8 in. (1.6 cm)
+## Credit Line: Bequest of Richard B. Seager, 1926
+## Geography
+## Classification: Gems
+## Metadata Date: 2021-07-07T04:42:57.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 151

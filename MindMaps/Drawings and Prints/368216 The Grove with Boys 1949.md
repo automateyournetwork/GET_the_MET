@@ -1,0 +1,62 @@
+# Title: The Grove with Boys
+## Highlight: False
+## Accession
+### Number: 49.21.27
+### Year: 49.21.27
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP824252.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP824252.jpg)
+## Constituents
+### Name: Johann Christoph Erhard
+### ID: 163883
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012017)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1693016)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Erhard, Johann Christoph
+#### Display Name: Johann Christoph Erhard
+### Bio: German, Nuremberg 1795–1822 Rome
+### Nationality: German
+### Dates Active
+#### Begin: 1795
+#### End: 1822
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1693016)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012017)
+## Dates
+### Object: 1817
+### Begin: 1817
+### End: 1817
+## Medium: Etching; second state
+## Size
+### Dimensions: plate: 6 5/8 x 8 1/2 in. 
+sheet: 8 1/2 x 11 1/4 in.
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Buildings
+#### Boys
+#### Mountains
+#### Trees
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300004789)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300247598)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008795)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132410)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,39 @@
+# Title: Glass Fragment
+## Highlight: False
+## Accession
+### Number: 30.73.263
+### Year: 30.73.263
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/md/original/sf30-73-263ats1.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/md/web-large/sf30-73-263ats1.jpg)
+## Constituents
+## Department: Medieval Art
+## Object Name: Fragment
+## Culture: French
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 1200–1215
+### Begin: 1200
+### End: 1215
+## Medium: Pot-metal glass, vitreous paint
+## Size
+### Dimensions: Overall: 3 3/4 x 2 3/8 in. (9.6 x 6 cm)
+## Credit Line: Gift of George D. Pratt, 1930
+## Geography
+## Classification: Glass-Stained
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 304

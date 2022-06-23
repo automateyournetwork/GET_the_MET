@@ -1,0 +1,44 @@
+# Title: Five dancing or fighting cupids
+## Highlight: False
+## Accession
+### Number: 59.570.301
+### Year: 59.570.301
+## Public Domain: False
+## Images
+## Constituents
+### Name: Attributed to Giulio Bonasone
+### ID: 78120
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004569)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1527962)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Attributed to
+#### Alpha Sort: Bonasone, Giulio
+#### Display Name: Giulio Bonasone
+### Bio: Italian, active Rome and Bologna, 1531–after 1576
+### Dates Active
+#### Begin: 1510
+#### End: 1576
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1527962)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004569)
+## Dates
+### Object: 1530–1560
+### Begin: 1530
+### End: 1560
+## Medium: Engraving
+## Size
+### Dimensions: 4 7/16 × 6 3/4 in. (11.3 × 17.1 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

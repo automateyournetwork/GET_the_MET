@@ -1,0 +1,29 @@
+# Title: Tile fragment
+## Highlight: False
+## Accession
+### Number: 26.199.84
+### Year: 26.199.84
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Tile fragment
+## Culture: East Greek/Sardis, Lydian
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Begin: -900
+### End: -30
+## Medium: Terracotta
+## Size
+### Dimensions: Overall: 3 3/8 x 4 3/8 in. (8.6 x 11.1 cm)
+## Credit Line: Gift of The American Society for the Excavation of Sardis, 1926
+## Geography
+## Classification: Terracottas
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,56 @@
+# Title: The Coiffure
+## Highlight: False
+## Accession
+### Number: 16.2.3
+### Year: 16.2.3
+## Public Domain: False
+## Images
+## Constituents
+### Name: Mary Cassatt
+### ID: 161757
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012368)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q173223)
+### Gender: Female
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Cassatt, Mary
+#### Display Name: Mary Cassatt
+### Bio: American, Pittsburgh, Pennsylvania 1844–1926 Le Mesnil-Théribus, Oise
+### Nationality: American
+### Dates Active
+#### Begin: 1844
+#### End: 1926
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q173223)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012368)
+## Dates
+### Object: 1890–91
+### Begin: 1890
+### End: 1891
+## Medium: Drypoint and aquatint, printed in color from three plates; fifth state of five (Mathews & Shapiro)
+## Size
+### Dimensions: plate: 14 1/4 x 10 1/2 in. (36.2 x 26.7 cm)
+sheet: 17 1/8 x 11 5/8 in. (43.5 x 29.5 cm)
+## Credit Line: Gift of Paul J. Sachs, 1916
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-12-03T04:38:59.333Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Female Nudes
+#### Mirrors
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300037682)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

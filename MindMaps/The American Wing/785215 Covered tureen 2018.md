@@ -1,0 +1,43 @@
+# Title: Covered tureen
+## Highlight: False
+## Accession
+### Number: 2018.933.26a, b
+### Year: 2018.933.26a, b
+## Public Domain: False
+## Images
+## Constituents
+### Name: G. Baruch Weil
+### ID: 206631
+### Role: Manufacturer
+### URLs
+### Name: Airé &amp; Cie, Paris
+### ID: 206632
+### Role: Retailer
+### URLs
+## Department: The American Wing
+## Object Name: Tureen
+## Culture: French
+## History
+## Artist
+### Role: Manufacturer
+### Name
+#### Alpha Sort: G. Baruch Weil
+#### Display Name: G. Baruch Weil
+### Bio: 1799–1828 Paris, France
+### Dates Active
+#### Begin: 1799
+#### End: 1828
+### URLs
+## Dates
+### Object: ca. 1801–04
+### Begin: 1796
+### End: 1809
+## Medium: Porcelain
+## Size
+### Dimensions: 3 1/2 × 8 1/2 in. (8.9 × 21.6 cm)
+## Credit Line: Gift of Page Williams Dwyer, 2018
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,41 @@
+# Title: Sword Guard (Tsuba)
+## Highlight: False
+## Accession
+### Number: 33.40.57
+### Year: 33.40.57
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/aa/original/33.40.57_001mar2014.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/aa/web-large/33.40.57_001mar2014.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/aa/original/33.40.57_002mar2014.jpg)
+## Constituents
+## Department: Arms and Armor
+## Object Name: Sword guard (Tsuba)
+## Culture: Japanese
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 19th century
+### Begin: 1801
+### End: 1900
+## Medium: Iron, silver, gold, copper
+## Size
+### Dimensions: H. 3 1/4 in. (8.3 cm); W. 3  in. (7.6 cm); thickness 1/4 in. (0.6 cm); Wt. 6.1 oz. (172.9 g)
+## Credit Line: Bequest of Edward G. Kennedy, 1932
+## Geography
+### Type: Country of Origin
+### Country: Japan
+## Classification: Sword Furniture-Tsuba
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

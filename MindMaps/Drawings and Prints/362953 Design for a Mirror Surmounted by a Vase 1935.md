@@ -1,0 +1,61 @@
+# Title: Design for a Mirror Surmounted by a Vase
+## Highlight: False
+## Accession
+### Number: 35.73.8
+### Year: 35.73.8
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP806051.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP806051.jpg)
+## Constituents
+### Name: John Yenn
+### ID: 165093
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500020836)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6265144)
+## Department: Drawings and Prints
+## Object Name: Drawing ; Ornament and Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Yenn, John
+#### Display Name: John Yenn
+### Bio: British, London (?) 1750–1821 London
+### Nationality: British
+### Dates Active
+#### Begin: 1750
+#### End: 1821
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6265144)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500020836)
+## Dates
+### Object: late 18th–early 19th century
+### Begin: 1770
+### End: 1821
+## Medium: Pen and ink, brush and wash, watercolor
+## Size
+### Dimensions: sheet: 11 3/4 x 7 5/8 in. (29.8 x 19.4 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1935
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-09-04T04:36:34.737Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Animals
+#### Garlands
+#### Mirrors
+#### Vases
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249525)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300167386)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300037682)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132254)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

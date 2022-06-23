@@ -1,0 +1,57 @@
+# Title: Armchair (one of four) (part of a set)
+## Highlight: False
+## Accession
+### Number: 57.65.4
+### Year: 57.65.4
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/SF57_65_4.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/SF57_65_4.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/167885.jpg)
+## Constituents
+### Name: Louis Delanois
+### ID: 163872
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500071271)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3261678)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Armchair
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Delanois, Louis
+#### Display Name: Louis Delanois
+### Bio: French, 1731–1792
+### Nationality: French
+### Dates Active
+#### Begin: 1731
+#### End: 1792
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3261678)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500071271)
+## Dates
+### Object: ca. 1770
+### Begin: 1765
+### End: 1775
+## Medium: Carved and gilded mahogany, modern silk damask
+## Size
+### Dimensions: Overall: 43 7/8 × 28 1/2 × 24 in. (111.4 × 72.4 × 61 cm)
+## Credit Line: Fletcher Fund, 1957
+## Geography
+## Classification: Woodwork-Furniture
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Human Figures
+#### Camels
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300404114)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250139)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 528

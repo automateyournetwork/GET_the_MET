@@ -1,0 +1,41 @@
+# Title: Battle Ax of Baki
+## Highlight: False
+## Accession
+### Number: 35.3.56
+### Year: 35.3.56
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/DP112587.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/DP112587.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Ax, Baki
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18, early
+### Reign: reign of Thutmose I–early sole Thutmose III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1504–1447 B.C.
+### Begin: -1504
+### End: -1447
+## Medium: Bronze or copper alloy, wood (with modern restoration), modern rawhide
+## Size
+### Dimensions: L. as restored 55.5 cm (21 7/8 in); w. 16.5 cm (6 1/2 in)
+L. of blade 13.6 cm (5 3/8 in); w. 9.8 cm (3 7/8 in); th. 1 cm (3/8 in)
+## Credit Line: Rogers Fund, 1935
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Asasif
+### Locale: Tomb of Neferkhawet (MMA 729), east chamber
+## Locus: Burial of Baki (III), in coffin, mummy's right
+## Excavation: MMA excavations, 1935–36
+## Metadata Date: 2021-04-04T04:57:29.037Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

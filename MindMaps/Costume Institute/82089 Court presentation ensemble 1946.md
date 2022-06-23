@@ -1,0 +1,45 @@
+# Title: Court presentation ensemble
+## Highlight: False
+## Accession
+### Number: C.I.46.4.3a–e
+### Year: C.I.46.4.3a–e
+## Public Domain: False
+## Images
+## Constituents
+### Name: Elsa Schiaparelli
+### ID: 20157
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500121780)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q464023)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Court Presentation Ensemble
+## Culture: French
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Schiaparelli Elsa
+#### Display Name: Elsa Schiaparelli
+### Bio: Italian, 1890–1973
+### Nationality: Italian
+### Dates Active
+#### Begin: 1890
+#### End: 1973
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q464023)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500121780)
+## Dates
+### Object: fall 1938
+### Begin: 1938
+### End: 1938
+## Medium: silk, feathers
+## Size
+## Credit Line: Gift of Mrs. Harrison Williams, Lady Mendl, and Mrs. Ector Munn, 1946
+## Geography
+## Metadata Date: 2021-11-09T04:35:24.483Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: True

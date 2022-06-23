@@ -1,0 +1,55 @@
+# Title: The Tennis Player
+## Highlight: False
+## Accession
+### Number: 2019.592.267
+### Year: 2019.592.267
+## Public Domain: False
+## Images
+## Constituents
+### Name: Lill Tschudi
+### ID: 89052
+### Role: Artist
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16016303)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Tschudi, Lill
+#### Display Name: Lill Tschudi
+### Bio: Swiss, Schwanden 1911–2004 Schwanden
+### Dates Active
+#### Begin: 1911
+#### End: 2004
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16016303)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1938
+### Begin: 1938
+### End: 1938
+## Medium: Linocut
+## Size
+### Dimensions: Sheet: 7 in. × 8 1/2 in. (17.8 × 21.6 cm)
+## Credit Line: Purchase, Leslie and Johanna Garfield Gift, Lila Acheson Wallace, Charles and Jessie Price, and David T Schiff Gifts, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, Dolores Valvidia Hurlburt Bequest, Peco Foundation and Friends of Drawings and Prints Gifts, and funds from various donors, 2019
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-09-10T04:36:41.9Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Tennis
+#### Athletes
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300222793)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300236025)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

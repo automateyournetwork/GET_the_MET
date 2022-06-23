@@ -1,0 +1,59 @@
+# Title: Two Female Nudes; Seated Male Nude (after Michelangelo?); Three Equestrian Figures (from Sketchbook)
+## Highlight: False
+## Accession
+### Number: 53.182.26 recto
+### Year: 53.182.26 recto
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/ADA3153.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/ADA3153.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ad/original/266436.jpg)
+## Constituents
+### Name: Thomas Sully
+### ID: 162494
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006873)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q786545)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Sully, Thomas
+#### Display Name: Thomas Sully
+### Bio: American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania
+### Nationality: American
+### Dates Active
+#### Begin: 1783
+#### End: 1872
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q786545)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006873)
+## Dates
+### Object: 1810–20
+### Begin: 1810
+### End: 1820
+## Medium: Pen, iron-gaul ink and graphite on off-white laid paper
+## Size
+### Dimensions: 8 13/16 x 11 1/2 in. (22.4 x 29.2 cm)
+## Credit Line: Rogers Fund, 1953
+## Geography
+## Metadata Date: 2021-04-27T04:42:00.93Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Male Nudes
+#### Female Nudes
+#### Horse Riding
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249313)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

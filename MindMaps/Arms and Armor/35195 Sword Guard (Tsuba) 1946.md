@@ -1,0 +1,35 @@
+# Title: Sword Guard (Tsuba)
+## Highlight: False
+## Accession
+### Number: 46.122.10
+### Year: 46.122.10
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/aa/original/46.122.10_001apr2014.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/aa/web-large/46.122.10_001apr2014.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/aa/original/46.122.10_002apr2014.jpg)
+## Constituents
+## Department: Arms and Armor
+## Object Name: Sword guard (Tsuba)
+## Culture: Japanese
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 16th century
+### Begin: 1501
+### End: 1600
+## Medium: Iron, gold, copper
+## Size
+### Dimensions: Diam. 3 1/2 in. (8.9 cm); thickness 1/4 in. (0.6 cm); Wt. 5.2 oz. (147.4 g)
+## Credit Line: Funds from various donors, 1946
+## Geography
+### Type: Country of Origin
+### Country: Japan
+## Classification: Sword Furniture-Tsuba
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,61 @@
+# Title: M. Vitruvius per Iocundum solito castigatior factus cum figuris et tabula vt iam legi et intelligi possit
+## Highlight: False
+## Accession
+### Number: 41.100.222
+### Year: 41.100.222
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/sf41_100_222-131v.JPG)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/sf41_100_222-131v.JPG)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/mm34602.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/sf41_100_222-tp.JPG)
+## Constituents
+### Name: Marcus Pollio Vitruvius
+### ID: 75886
+### Role: Author
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q47163)
+### Name: Edited and Illustrated by Fra Giovanni Giocondo da Verona
+### ID: 164041
+### Role: Editor
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018565)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5585)
+### Name: Giovanni Taccuino
+### ID: 83567
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Book ; Ornament and architecture
+## History
+## Artist
+### Role: Author
+### Name
+#### Alpha Sort: Vitruvius, Marcus
+#### Display Name: Marcus Pollio Vitruvius
+### Bio: Roman, active late 1st century B.C.
+### Nationality: Italian
+### Dates Active
+#### Begin: -0100
+#### End: 0001
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q47163)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1511
+### Begin: 1511
+### End: 1511
+## Medium: Printed book with woodcut illustrations
+## Size
+### Dimensions: 12 3/4 x 8 3/4 x 1 1/8 in. (32.4 x 22.2 x 2.8 cm)
+## Credit Line: Bequest of W. Gedney Beatty, 1941
+## Geography
+### Type: Published in
+### City: Venice
+### Country: Italy
+## Classification: Books
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

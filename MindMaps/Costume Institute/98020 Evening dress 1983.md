@@ -1,0 +1,49 @@
+# Title: Evening dress
+## Highlight: False
+## Accession
+### Number: 1983.284.4
+### Year: 1983.284.4
+## Public Domain: False
+## Images
+## Constituents
+### Name: Valentino
+### ID: 20168
+### Role: Designer
+### URLs
+### Name: Boutique Valentino
+### ID: 27162
+### Role: Secondary Line
+### URLs
+## Department: Costume Institute
+## Object Name: Evening dress
+## Culture: Italian
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Valentino
+#### Display Name: Valentino
+### Bio: Italian, born 1932
+### Nationality: Italian
+### Dates Active
+#### Begin: 1932
+#### End: 9999
+### URLs
+## Dates
+### Object: ca. 1968
+### Begin: 1963
+### End: 1973
+## Medium: silk
+## Size
+## Credit Line: Anonymous Gift, 1983
+## Geography
+## Metadata Date: 2020-11-21T04:34:11.18Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

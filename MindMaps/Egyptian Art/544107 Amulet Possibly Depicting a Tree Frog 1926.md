@@ -1,0 +1,43 @@
+# Title: Amulet Possibly Depicting a Tree Frog
+## Highlight: False
+## Accession
+### Number: 26.7.1028
+### Year: 26.7.1028
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/26.7.1028_rp.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/26.7.1028_rp.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/26.7.1028_lp.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/26.7.1028_top.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulet, tree frog (?)
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18–20
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1550–1070 B.C.
+### Begin: -1555
+### End: -1070
+## Medium: Faience
+## Size
+### Dimensions: H. 1.1 cm (7/16 in.); L. 1.5 cm (9/16 in.); W. 1.1 cm (7/16 in.)
+## Credit Line: Purchase, Edward S. Harkness Gift, 1926
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2022-02-08T04:39:20.45Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Frogs
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250018)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 122

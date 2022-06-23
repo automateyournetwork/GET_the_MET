@@ -1,0 +1,45 @@
+# Title: Canopic jar with jackal head
+## Highlight: False
+## Accession
+### Number: 00.4.7a, b
+### Year: 00.4.7a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_7a_ b_EGDP030842.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/LC-00_4_7a_ b_EGDP030842.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_7a_ b_EGDP030843.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_7a_ b_EGDP030844.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_7a_ b_EGDP030845.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_6a_ b_EGDP030846.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/LC-00_4_6a_ b_EGDP030847.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Canopic jar
+## History
+### Period: Late Period
+### Dynasty: Dynasty 27–30?
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 664–332 B.C.
+### Begin: -664
+### End: -332
+## Medium: Pottery, paint
+## Size
+### Dimensions: H. 17.9 × Diam. 9.5 cm (7 1/16 × 3 3/4 in.)
+## Credit Line: Gift of the Egypt Exploration Fund, 1900
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Northern Upper Egypt
+### Sub-Region: Abydos
+### Locale: Cemetery D
+## Locus: Tomb D33
+## Excavation: Egypt Exploration Fund excavations, 1899–1900
+## Metadata Date: 2021-06-11T04:39:55.907Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 130

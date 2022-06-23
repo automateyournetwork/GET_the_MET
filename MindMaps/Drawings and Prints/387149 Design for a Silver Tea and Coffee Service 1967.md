@@ -1,0 +1,47 @@
+# Title: Design for a Silver Tea and Coffee Service
+## Highlight: False
+## Accession
+### Number: 67.511.58bis
+### Year: 67.511.58bis
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anonymous, Czech, early 20th century
+### ID: 101701
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Czech, 20th century early
+#### Display Name: Anonymous, Czech, early 20th century
+### Nationality: Czech
+### Dates Active
+#### Begin: 1900
+#### End: 1950
+### URLs
+## Dates
+### Object: early 20th century
+### Begin: 1900
+### End: 1925
+## Medium: Graphite, ink and gouache on beige paper
+## Size
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-04-28T04:40:29.443Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Coffeepots
+#### Teapots
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300072215)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300043022)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

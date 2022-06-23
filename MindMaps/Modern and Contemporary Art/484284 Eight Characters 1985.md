@@ -1,0 +1,45 @@
+# Title: Eight Characters
+## Highlight: False
+## Accession
+### Number: 1985.452.11
+### Year: 1985.452.11
+## Public Domain: False
+## Images
+## Constituents
+### Name: José Luis Cuevas
+### ID: 143518
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500021586)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q475650)
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Cuevas, José Luis
+#### Display Name: José Luis Cuevas
+### Bio: Mexican, Mexico City 1934–2017 Mexico City
+### Nationality: Mexican
+### Dates Active
+#### Begin: 1934
+#### End: 2017
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q475650)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500021586)
+## Dates
+### Object: 1978
+### Begin: 1978
+### End: 1978
+## Medium: Ink on graph paper
+## Size
+### Dimensions: H. 18-3/4, W. 22-1/2 inches
+(47.6 x 57.2 cm.)
+## Credit Line: Gift of J. M. Tasende, 1985
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-04-24T04:43:21.25Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

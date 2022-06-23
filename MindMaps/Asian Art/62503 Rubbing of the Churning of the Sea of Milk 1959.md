@@ -1,0 +1,38 @@
+# Title: Rubbing of the Churning of the Sea of Milk
+## Highlight: False
+## Accession
+### Number: 59.17.11
+### Year: 59.17.11
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/59_17_11.JPG)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/59_17_11.JPG)
+## Constituents
+## Department: Asian Art
+## Object Name: Rubbing
+## Culture: Cambodia
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 20th century
+### Begin: 1900
+### End: 1999
+## Medium: Ink on paper
+## Size
+### Dimensions: H. 22 3/4 in. (57.8 cm); W. 44 1/2 in. (113 cm)
+## Credit Line: Gift of Mr. Jean Laur, Curator of Angkor, 1959
+## Geography
+## Classification: Rubbing
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Fish
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266085)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

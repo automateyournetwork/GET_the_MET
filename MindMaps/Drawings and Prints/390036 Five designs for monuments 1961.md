@@ -1,0 +1,34 @@
+# Title: Five designs for monuments
+## Highlight: False
+## Accession
+### Number: 61.636.42
+### Year: 61.636.42
+## Public Domain: False
+## Images
+## Constituents
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 19th century
+### Begin: 1800
+### End: 1900
+## Size
+### Dimensions: sheet: 7 11/16 x 9 1/4 in. (19.5 x 23.5 cm)
+## Credit Line: Gift of Janos Scholz, 1961
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Monuments
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300006958)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

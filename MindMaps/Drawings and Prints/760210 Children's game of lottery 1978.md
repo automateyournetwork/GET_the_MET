@@ -1,0 +1,60 @@
+# Title: Children's game of lottery
+## Highlight: False
+## Accession
+### Number: 1978.643.24(3)
+### Year: 1978.643.24(3)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP875604.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP875604.jpg)
+## Constituents
+### Name: José Noguera
+### ID: 88025
+### Role: Artist
+### URLs
+### Name: Juan Llorens
+### ID: 70651
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Noguera, José
+#### Display Name: José Noguera
+### Bio: Spanish, 19th century
+### Dates Active
+#### Begin: 1800
+#### End: 1900
+### URLs
+## Dates
+### Object: 1861
+### Begin: 1861
+### End: 1861
+## Medium: Wood engraving
+## Size
+### Dimensions: Sheet: 17 11/16 × 12 3/8 in. (45 × 31.5 cm)
+## Credit Line: Max G. Wildnauer Fund, 1978
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Women
+#### Horses
+#### Carriages
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250148)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300185335)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

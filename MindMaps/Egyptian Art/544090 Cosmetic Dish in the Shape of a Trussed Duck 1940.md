@@ -1,0 +1,48 @@
+# Title: Cosmetic Dish in the Shape of a Trussed Duck
+## Highlight: False
+## Accession
+### Number: 40.2.2a, b
+### Year: 40.2.2a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/40.2.2ab_front.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/40.2.2ab_front.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/40.2.2ab_back.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/DT226148.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Cosmetic dish, duck
+## History
+### Period: New Kingdom, Amarna Period
+### Dynasty: Dynasty 18
+### Reign: reign of Akhenaten–Tutankhamun
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1353–1327 B.C.
+### Begin: -1353
+### End: -1327
+## Medium: Hippopotamus ivory (tinted)
+## Size
+### Dimensions: Part A: l. 9.5 cm (3 3/4 in); w. 4.6 cm (1 13/16 in); th. 1.8 cm (11/16 in)
+Part B: l. 7.3 cm (2 7/8 in); w. 4 cm (1 9/16 in); th. 1.2 cm (1/2 in)
+## Credit Line: Rogers Fund, 1940
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2021-04-04T04:57:29.037Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Ducks
+#### Cosmetic Containers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250047)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300197583)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 121

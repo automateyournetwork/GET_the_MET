@@ -1,0 +1,55 @@
+# Title: Large Sailing Vessel and Rowing Boat
+## Highlight: False
+## Accession
+### Number: 26.72.192
+### Year: 26.72.192
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP825229.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP825229.jpg)
+## Constituents
+### Name: Reinier Nooms, called Zeeman
+### ID: 95659
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000615)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1936604)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Zeeman, Reinier Nooms
+#### Display Name: Reinier Nooms, called Zeeman
+### Bio: Dutch, Amsterdam ca. 1623–1664 Amsterdam
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1623
+#### End: 1664
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1936604)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000615)
+## Dates
+### Object: 17th century
+### Begin: 1635
+### End: 1670
+## Medium: Etching; state I
+## Size
+### Dimensions: sheet: 8 3/8 x 12 1/16 in. (21.3 x 30.7 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1926
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Boats
+#### Ships
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300178749)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300082981)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

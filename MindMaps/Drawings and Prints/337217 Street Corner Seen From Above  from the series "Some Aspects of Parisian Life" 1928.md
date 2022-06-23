@@ -1,0 +1,58 @@
+# Title: Street Corner Seen From Above, from the series "Some Aspects of Parisian Life"
+## Highlight: False
+## Accession
+### Number: 28.50.4(13)
+### Year: 28.50.4(13)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Pierre Bonnard
+### ID: 161697
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115555)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26408)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Quelques aspects de la vie de Paris (Some Aspects of Parisian Life)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bonnard, Pierre
+#### Display Name: Pierre Bonnard
+### Bio: French, Fontenay-aux-Roses 1867–1947 Le Cannet
+### Nationality: French
+### Dates Active
+#### Begin: 1867
+#### End: 1947
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26408)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115555)
+## Dates
+### Object: 1896–97
+### Begin: 1896
+### End: 1897
+## Medium: Lithograph
+## Size
+### Dimensions: Sheet: 20 13/16 x 15 3/8 in. (52.8 x 39 cm)
+Image: 14 1/2 x 8 1/4 in. (36.8 x 21 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1928
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-09-09T04:35:05.57Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Paris
+#### Buildings
+#### Streets
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/tgn/7008038)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300004789)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008247)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

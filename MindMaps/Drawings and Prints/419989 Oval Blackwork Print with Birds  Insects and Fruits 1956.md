@@ -1,0 +1,63 @@
+# Title: Oval Blackwork Print with Birds, Insects and Fruits
+## Highlight: False
+## Accession
+### Number: 56.500.114
+### Year: 56.500.114
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP827196.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP827196.jpg)
+## Constituents
+### Name: Claes Jansz. Visscher
+### ID: 74608
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015243)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1094674)
+### Name: After Hertzog von Brin
+### ID: 105708
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500082423)
+## Department: Drawings and Prints
+## Object Name: Prints Ornament & Architecture
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Alpha Sort: Visscher, Claes Jansz.
+#### Display Name: Claes Jansz. Visscher
+### Bio: Dutch, Amsterdam 1586–1652 Amsterdam
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1586
+#### End: 1652
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1094674)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015243)
+## Dates
+### Object: ca. 1620
+### Begin: 1600
+### End: 1620
+## Medium: Blackwork
+## Size
+### Dimensions: Plate: 2 x 1 9/16 in. (5.1 x 4 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Fruit
+#### Insects
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300011868)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310470)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: True

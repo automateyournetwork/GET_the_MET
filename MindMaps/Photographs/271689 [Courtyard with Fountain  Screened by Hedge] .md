@@ -1,0 +1,44 @@
+# Title: [Courtyard with Fountain, Screened by Hedge]
+## Highlight: False
+## Accession
+### Number: X.693
+### Year: X.693
+## Public Domain: False
+## Images
+## Constituents
+### Name: José Ortiz-Echagüe
+### ID: 55553
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003334)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q559168)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Ortiz-Echagüe, José
+#### Display Name: José Ortiz-Echagüe
+### Bio: Spanish, Guadalajara 1886–1982 Madrid
+### Nationality: Spanish
+### Dates Active
+#### Begin: 1886
+#### End: 1982
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q559168)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003334)
+## Dates
+### Object: ca. 1960
+### Begin: 1958
+### End: 1962
+## Medium: Direct carbon print (Fresson process)
+## Size
+### Dimensions: 17.1 x 21.3 cm. (6  3/4  x 8  3/8  in.)
+## Credit Line: Museum Accession
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

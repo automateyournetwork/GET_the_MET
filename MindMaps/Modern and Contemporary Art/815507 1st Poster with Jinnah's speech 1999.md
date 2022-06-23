@@ -1,0 +1,46 @@
+# Title: 1st Poster with Jinnah's speech
+## Highlight: False
+## Accession
+### Number: 2019.403.7
+### Year: 2019.403.7
+## Public Domain: False
+## Images
+## Constituents
+### Name: Lala Rukh
+### ID: 204529
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500123125)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q35803143)
+### Gender: Female
+## Department: Modern and Contemporary Art
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Rukh, Lala
+#### Display Name: Lala Rukh
+### Bio: Pakistani, Lahore 1948–2017 Lahore
+### Dates Active
+#### Begin: 1948
+#### End: 2017
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q35803143)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500123125)
+## Dates
+### Object: 1982
+### Begin: 1982
+### End: 1982
+## Medium: Lithograph
+## Size
+### Dimensions: 31 1/16 × 21 5/8 in. (78.9 × 55 cm)
+## Credit Line: Gift of the Estate of Lala Rukh, 2019
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-07-14T04:32:35.16Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## [Wikipedia](https://www.wikidata.org/wiki/Q96756929)
+## Timeline Work: False

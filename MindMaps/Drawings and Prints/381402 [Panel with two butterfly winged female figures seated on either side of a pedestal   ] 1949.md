@@ -1,0 +1,54 @@
+# Title: [Panel with two butterfly winged female figures seated on either side of a pedestal...]
+## Highlight: False
+## Accession
+### Number: 49.50.432
+### Year: 49.50.432
+## Public Domain: False
+## Images
+## Constituents
+### Name: Ascribed to Nicolas Loir
+### ID: 84417
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500016423)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3340535)
+### Name: Published by Pierre Mariette le fils
+### ID: 77663
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500073206)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q21638159)
+## Department: Drawings and Prints
+## Object Name: Book
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Ascribed to
+#### Alpha Sort: Loir, Nicolas
+#### Display Name: Nicolas Loir
+### Bio: French, 1624–1679
+### Nationality: French
+### Dates Active
+#### Begin: 1624
+#### End: 1679
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3340535)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500016423)
+## Dates
+### Object: 1640–79
+### Begin: 1640
+### End: 1679
+## Medium: Etching
+## Size
+### Dimensions: Overall: 11 7/16 x 15 7/8 x 9/16 in. (29 x 40.4 x 1.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+### Type: Published in
+### City: Paris
+### Country: France
+## Classification: Books
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

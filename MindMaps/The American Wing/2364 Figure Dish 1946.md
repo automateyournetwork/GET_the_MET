@@ -1,0 +1,53 @@
+# Title: Figure Dish
+## Highlight: False
+## Accession
+### Number: 46.140.740a, b
+### Year: 46.140.740a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/DP241771.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/DP241771.jpg)
+## Constituents
+### Name: McKee and Brothers
+### ID: 1412
+### Role: Maker
+### URLs
+## Department: The American Wing
+## Object Name: Dish
+## Culture: American
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: McKee and Brothers
+#### Display Name: McKee and Brothers
+### Bio: 1856–89
+### Dates Active
+#### Begin: 1856
+#### End: 1889
+### URLs
+## Dates
+### Object: 1880–90
+### Begin: 1880
+### End: 1890
+## Medium: Pressed white opaque glass
+## Size
+### Dimensions: 4 1/2 x 4 3/16 x 5 5/16 in. (11.4 x 10.6 x 13.5 cm)
+## Credit Line: Gift of Mrs. Emily Winthrop Miles, 1946
+## Geography
+### Type: Made in
+### City: Pittsburgh
+### State: Pennsylvania
+### Country: United States
+### Region: Mid-Atlantic
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Swans
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250103)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 774

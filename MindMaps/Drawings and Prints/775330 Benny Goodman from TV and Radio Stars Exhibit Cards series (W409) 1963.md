@@ -1,0 +1,41 @@
+# Title: Benny Goodman from TV and Radio Stars Exhibit Cards series (W409)
+## Highlight: False
+## Accession
+### Number: 63.350.614.409.46
+### Year: 63.350.614.409.46
+## Public Domain: False
+## Images
+## Constituents
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1935–40
+### Begin: 1935
+### End: 1950
+## Medium: Commercial color photolithograph
+## Size
+### Dimensions: Sheet: 5 3/8 × 3 5/16 in. (13.6 × 8.4 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Portraits
+#### Musicians
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025666)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,37 @@
+# Title: Miniature Dress
+## Highlight: False
+## Accession
+### Number: 1979.206.633
+### Year: 1979.206.633
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ao/original/DP216932.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ao/web-large/DP216932.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ao/original/DP215440.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ao/original/1979-206-633front.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ao/original/1979-206-633back.jpg)
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Miniature dress
+## Culture: Ica
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 12th–13th century
+### Begin: 1100
+### End: 1300
+## Medium: Cotton, feathers
+## Size
+### Dimensions: H. 6 3/4  x  W. 8 1/8 in. (20.3 x 17.1cm)
+## Credit Line: The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979
+## Geography
+### Country: Peru
+### Region: Ica Valley
+## Classification: Textiles-Featherwork
+## Metadata Date: 2021-06-12T04:40:16.533Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,32 @@
+# Title: Terracotta statuette of a woman
+## Highlight: False
+## Accession
+### Number: 30.11.7
+### Year: 30.11.7
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Statuette of standing woman
+## Culture: Greek, probably Rhodian
+## History
+### Period: Late Classical
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 4th century B.C.
+### Begin: -399
+### End: -300
+## Medium: Terracotta
+## Size
+### Dimensions: 8 7/8in. (22.5cm)
+## Credit Line: Fletcher Fund, 1930
+## Geography
+## Classification: Terracottas
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 159

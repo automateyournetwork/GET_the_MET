@@ -1,0 +1,46 @@
+# Title: Lead figure of a warrior with a helmet and shield
+## Highlight: False
+## Accession
+### Number: 24.195.67
+### Year: 24.195.67
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/gr/original/DP118305.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/gr/web-large/DP118305.jpg)
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Statuette of a warrior, 10
+## Culture: Greek, Laconian
+## History
+### Period: Archaic
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 6th–5th century B.C.
+### Begin: -599
+### End: -400
+## Medium: Lead
+## Size
+### Dimensions: Height: 2 1/8 in. (5.3 cm)
+## Credit Line: Gift of A. J. B. Wace, 1924
+## Geography
+## Classification: Miscellaneous-Lead
+## Metadata Date: 2021-07-07T04:42:57.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Helmets
+#### Shields
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300036794)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300036869)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 171

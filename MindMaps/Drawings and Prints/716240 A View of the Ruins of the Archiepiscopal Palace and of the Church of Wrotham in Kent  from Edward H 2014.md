@@ -1,0 +1,60 @@
+# Title: A View of the Ruins of the Archiepiscopal Palace and of the Church of Wrotham in Kent, from Edward Hasted's, The History and Topographical Survey of the County of Kent, vols. 1-3
+## Highlight: False
+## Accession
+### Number: 2014.599.21
+### Year: 2014.599.21
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP-12696-058.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP-12696-058.jpg)
+## Constituents
+### Name: Etched by John Bayly
+### ID: 2104
+### Role: Artist
+### URLs
+### Name: After Eleanora Johnson
+### ID: 179942
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Etched by
+#### Alpha Sort: Bayly, John
+#### Display Name: John Bayly
+### Bio: British, active 1755–82
+### Dates Active
+#### Begin: 1755
+#### End: 1782
+### URLs
+## Dates
+### Object: 1777–90
+### Begin: 1777
+### End: 1790
+## Medium: Etching and engraving
+## Size
+### Dimensions: Book: 17 5/16 × 11 × 13/16 in. (44 × 28 × 2 cm)
+Sheet: 16 15/16 × 10 5/8 in. (43 × 27 cm)
+Plate: 10 1/16 × 14 in. (25.5 × 35.5 cm)
+## Credit Line: Gift of Bonnie and Manuel Schonhorn, 2014
+## Geography
+## Classification: Books
+## Metadata Date: 2021-06-19T04:40:12.81Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Palaces
+#### Churches
+#### Ruins
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300005734)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300007466)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008057)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

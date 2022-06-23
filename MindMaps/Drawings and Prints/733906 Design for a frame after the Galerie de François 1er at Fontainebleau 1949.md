@@ -1,0 +1,45 @@
+# Title: Design for a frame after the Galerie de François 1er at Fontainebleau
+## Highlight: False
+## Accession
+### Number: 49.20.8(7)
+### Year: 49.20.8(7)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Jacques Androuet Du Cerceau
+### ID: 163649
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500008202)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q781934)
+## Department: Drawings and Prints
+## Object Name: Print
+Ornament & Architecture
+## History
+## Portfolio: Compartiments de Fontainebleau, de grand format (deuxième suite)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Du Cerceau, Jacques Androuet
+#### Display Name: Jacques Androuet Du Cerceau
+### Bio: French, Paris 1510/12–1585 Annecy
+### Dates Active
+#### Begin: 1510
+#### End: 1585
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q781934)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500008202)
+## Dates
+### Object: 1542–45
+### Begin: 1542
+### End: 1545
+## Medium: Etching; second state of three
+## Size
+### Dimensions: Sheet (trimmed): 6 1/8 × 8 7/8 in. (15.6 × 22.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,41 @@
+# Title: Priest's Robe (Shichijō)
+## Highlight: False
+## Accession
+### Number: 19.93.28
+### Year: 19.93.28
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/44023.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/44023.jpg)
+## Constituents
+## Department: Asian Art
+## Object Name: Robe, Priest's
+## Culture: Japan
+## History
+### Period: Momoyama period (1573–1615)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Begin: 1573
+### End: 1592
+## Medium: Silk
+## Size
+### Dimensions: 43 x 85 in. (109.22 x 215.90 cm)
+## Credit Line: Purchase, Joseph Pulitzer Bequest, 1919
+## Geography
+## Classification: Textiles-Costumes
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Robes
+#### Leaves
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300209852)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300011892)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

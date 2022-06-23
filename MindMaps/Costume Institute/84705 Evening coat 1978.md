@@ -1,0 +1,45 @@
+# Title: Evening coat
+## Highlight: False
+## Accession
+### Number: 1978.337.2
+### Year: 1978.337.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Elsa Schiaparelli
+### ID: 20157
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500121780)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q464023)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Evening coat
+## Culture: French
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Schiaparelli Elsa
+#### Display Name: Elsa Schiaparelli
+### Bio: Italian, 1890–1973
+### Nationality: Italian
+### Dates Active
+#### Begin: 1890
+#### End: 1973
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q464023)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500121780)
+## Dates
+### Object: summer 1939
+### Begin: 1939
+### End: 1939
+## Medium: silk, cotton
+## Size
+## Credit Line: Gift of the Estate of Mrs. Julia M. Weldon from Mary McDougall, 1978
+## Geography
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,45 @@
+# Title: Certification by the Comptrollers Office, Albany, State of New York of Expenses Incurred by Solomon Van Rensselaer for the Military Escort that attended the Remains of General Richard Mongomery – $700.00 already paid, $51.71 balance due
+## Highlight: False
+## Accession
+### Number: 54.90.1481
+### Year: 54.90.1481
+## Public Domain: False
+## Images
+## Constituents
+### Name: Relates to General Richard Montgomery
+### ID: 94365
+### Role: Subject
+### URLs
+### Name: Relates to Soloman Van Rensselaer
+### ID: 180828
+### Role: Subject
+### URLs
+## Department: Drawings and Prints
+## Object Name: Manuscript
+## History
+## Artist
+### Role: Subject
+### Name
+#### Prefix: Relates to
+#### Alpha Sort: Montgomery, Richard
+#### Display Name: General Richard Montgomery
+### Bio: American, born Ireland 1736–1775 Quebec
+### Nationality: American
+### Dates Active
+#### Begin: 1736
+#### End: 1775
+### URLs
+## Dates
+### Object: January 20, 1819
+### Begin: 1819
+### End: 1819
+## Medium: Pen and ink on paper
+## Size
+### Dimensions: Sheet: 12 5/8 × 7 11/16 in. (32 × 19.5 cm)
+## Credit Line: The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954
+## Geography
+## Classification: Manuscripts
+## Metadata Date: 2020-08-11T04:33:25.007Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

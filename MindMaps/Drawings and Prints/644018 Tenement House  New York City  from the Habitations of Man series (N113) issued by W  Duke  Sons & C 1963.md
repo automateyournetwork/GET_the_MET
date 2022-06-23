@@ -1,0 +1,60 @@
+# Title: Tenement House, New York City, from the Habitations of Man series (N113) issued by W. Duke, Sons & Co. to promote Honest Long Cut Smoking and Chewing Tobacco
+## Highlight: False
+## Accession
+### Number: 63.350.206.113.14
+### Year: 63.350.206.113.14
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DPB873260.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DPB873260.jpg)
+## Constituents
+### Name: Original lithograph by The Giles Company
+### ID: 104484
+### Role: Artist
+### URLs
+### Name: Issued by W. Duke, Sons &amp; Co.
+### ID: 105670
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q66734555)
+### Name: , a branch of the American Tobacco Company
+### ID: 104502
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q467075)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Original lithograph by
+#### Alpha Sort: The Giles Company
+#### Display Name: The Giles Company
+### Bio: New York, NY
+### Dates Active
+#### Begin: 1800
+#### End: 1900
+### URLs
+## Dates
+### Object: 1890
+### Begin: 1890
+### End: 1890
+## Medium: Commercial color lithograph
+## Size
+### Dimensions: Sheet: 4 1/8 × 2 1/2 in. (10.5 × 6.4 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-09-15T04:35:25.313Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### New York City
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/tgn/7007567)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

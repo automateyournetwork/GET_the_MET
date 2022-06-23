@@ -1,0 +1,45 @@
+# Title: Dans l'Intimité de Personnages Illustres (title); Album de Photographies (cover title)
+## Highlight: False
+## Accession
+### Number: 58.580.49–.50
+### Year: 58.580.49–.50
+## Public Domain: False
+## Images
+## Constituents
+### Name: Pierre-Marie Lizerolles
+### ID: 178996
+### Role: Artist
+### URLs
+### Name: J. M. Dufrénoy
+### ID: 178995
+### Role: Artist
+### URLs
+### Name: Editions Maurice Devries
+### ID: 178997
+### Role: Publisher
+### URLs
+## Department: Photographs
+## Object Name: Albums
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Lizerolles, Pierre-Marie
+#### Display Name: Pierre-Marie Lizerolles
+### Bio: French, active 19th century
+### Nationality: French
+### Dates Active
+### URLs
+## Dates
+### Object: 1945 (?)
+### Begin: 1945
+### End: 1945
+## Medium: Collotypes
+## Size
+## Credit Line: Gift of Louise Bechtel, 1958
+## Geography
+## Classification: Books
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

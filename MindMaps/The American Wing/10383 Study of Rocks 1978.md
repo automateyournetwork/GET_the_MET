@@ -1,0 +1,53 @@
+# Title: Study of Rocks
+## Highlight: False
+## Accession
+### Number: 1978.499.1 recto
+### Year: 1978.499.1 recto
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/ap1978.499.1 recto.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/ap1978.499.1 recto.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ad/original/224533.jpg)
+## Constituents
+### Name: John William Casilear
+### ID: 163341
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013823)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2700128)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Casilear, John William
+#### Display Name: John William Casilear
+### Bio: American, New York 1811–1893 Saratoga Springs, New York
+### Nationality: American
+### Dates Active
+#### Begin: 1811
+#### End: 1893
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2700128)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013823)
+## Dates
+### Object: ca. 1850–60
+### Begin: 1850
+### End: 1860
+## Medium: Graphite on off-white Bristol board
+## Size
+### Dimensions: 10 7/8 x 13 15/16 in. (27.6 x 35.4 cm)
+## Credit Line: Morris K. Jesup Fund, 1978
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Landscapes
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132294)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,53 @@
+# Title: I Just Kept Pecking At It
+## Highlight: False
+## Accession
+### Number: 2014.290.14
+### Year: 2014.290.14
+## Public Domain: False
+## Images
+## Constituents
+### Name: Patrick Oliphant
+### ID: 104205
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500065521)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2056546)
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Oliphant, Patrick
+#### Display Name: Patrick Oliphant
+### Bio: American, born Adelaide, Australia, 1935
+### Nationality: American, born Australia
+### Dates Active
+#### Begin: 1935
+#### End: 9999
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2056546)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500065521)
+## Dates
+### Object: November 10, 1989
+### Begin: 1989
+### End: 1989
+## Medium: Pen and India ink with black chalk
+## Size
+### Dimensions: Sheet: 11 1/16 in. × 17 in. (28.1 × 43.2 cm)
+## Credit Line: Gift of Susan C. Conway and Patrick Oliphant, 2014
+## Geography
+## Classification: Drawings
+## Metadata Date: 2022-01-19T04:40:56.547Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Architecture
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300263552)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

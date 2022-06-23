@@ -1,0 +1,43 @@
+# Title: Lower Egypt, Thebes, and The Pyramids
+## Highlight: False
+## Accession
+### Number: 1991.1073.90
+### Year: 1991.1073.90
+## Public Domain: False
+## Images
+## Constituents
+### Name: Francis Frith
+### ID: 55053
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005649)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q978878)
+## Department: Photographs
+## Object Name: Photographically illustrated book
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Frith, Francis
+#### Display Name: Francis Frith
+### Bio: British, Chesterfield, Derbyshire 1822–1898 Cannes, France
+### Nationality: British
+### Dates Active
+#### Begin: 1822
+#### End: 1898
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q978878)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005649)
+## Dates
+### Object: 1860s
+### Begin: 1860
+### End: 1869
+## Medium: Albumen silver prints
+## Size
+## Credit Line: Rogers Fund, 1908, transferred from the Library
+## Geography
+## Classification: Books
+## Metadata Date: 2020-08-13T04:32:41.717Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

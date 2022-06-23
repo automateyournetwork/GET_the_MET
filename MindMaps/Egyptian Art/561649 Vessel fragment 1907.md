@@ -1,0 +1,34 @@
+# Title: Vessel fragment
+## Highlight: False
+## Accession
+### Number: 07.228.245
+### Year: 07.228.245
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Vessel fragment, "Tell Basta Treasure"
+## History
+### Period: Third Intermediate Period
+### Dynasty: Dynasty 21–22
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1070–712 B.C.
+### Begin: -1070
+### End: -1070
+## Medium: Silver
+## Size
+### Dimensions: H. 2.8 × W. 3.8 cm (1 1/8 × 1 1/2 in.)
+## Credit Line: Rogers Fund, 1907
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Eastern Delta
+### Sub-Region: Tell Basta (Bubastis)
+## Metadata Date: 2020-03-06T04:43:28.61Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,68 @@
+# Title: Oeuvres Complètes. Tome I-II
+## Highlight: False
+## Accession
+### Number: 34.23.1.1-.2
+### Year: 34.23.1.1-.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Written by Pierre Jean de Béranger
+### ID: 71882
+### Role: Author
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524810)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q324998)
+### Name: Published by Perrotin
+### ID: 71883
+### Role: Publisher
+### URLs
+### Name: Designed by Charles-François Daubigny
+### ID: 161806
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115164)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q252357)
+### Name: Designed by Tony Johannot
+### ID: 69082
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2442652)
+### Name: Designed by François-Joseph-Aimé de Lemud
+### ID: 69099
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500022794)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2828094)
+## Department: Drawings and Prints
+## Object Name: Book
+## History
+## Artist
+### Role: Author
+### Name
+#### Prefix: Written by
+#### Alpha Sort: Béranger, Pierre Jean de
+#### Display Name: Pierre Jean de Béranger
+### Bio: French, Paris 1780–1857 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1780
+#### End: 1857
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q324998)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524810)
+## Dates
+### Object: 1847
+### Begin: 1847
+### End: 1847
+## Size
+## Credit Line: Harris Brisbane Dick Fund, 1934
+## Geography
+### Type: Published in
+### City: Paris
+### Country: France
+## Classification: Books
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

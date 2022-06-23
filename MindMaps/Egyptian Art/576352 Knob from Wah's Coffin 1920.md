@@ -1,0 +1,46 @@
+# Title: Knob from Wah's Coffin
+## Highlight: False
+## Accession
+### Number: 20.3.202c
+### Year: 20.3.202c
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/20.3.202c.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/20.3.202c.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Coffin knob, Wah
+## History
+### Period: Middle Kingdom
+### Dynasty: Dynasty 12
+### Reign: reign of Amenemhat I, early
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1981–1975 B.C.
+### Begin: -1981
+### End: -1981
+## Medium: Coniferous wood (spruce, cedar?), plaster
+## Size
+### Dimensions: l. 9 cm (3 9/16 in); w. 9 cm (3 9/16 in); h. 6.1 cm (2 3/8 in)
+## Credit Line: Rogers Fund and Edward S. Harkness Gift, 1920
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Southern Asasif
+### Locale: Tomb of Wah (MMA 1102)
+## Excavation: MMA excavations, 1920
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Coffins
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300197585)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 105

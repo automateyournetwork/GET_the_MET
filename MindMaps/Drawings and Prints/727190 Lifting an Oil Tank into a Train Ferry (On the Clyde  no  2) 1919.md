@@ -1,0 +1,57 @@
+# Title: Lifting an Oil Tank into a Train Ferry (On the Clyde, no. 2)
+## Highlight: False
+## Accession
+### Number: 19.46.2
+### Year: 19.46.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Sir Muirhead Bone
+### ID: 166277
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000110)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5581681)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bone, Muirhead, Sir
+#### Display Name: Sir Muirhead Bone
+### Bio: British, Glasgow, Scotland 1876–1953 Oxford
+### Dates Active
+#### Begin: 1876
+#### End: 1953
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5581681)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000110)
+## Dates
+### Object: 1917–18
+### Begin: 1917
+### End: 1918
+## Medium: Lithograph
+## Size
+### Dimensions: Image: 18 1/2 × 14 1/16 in. (47 × 35.7 cm)
+Sheet: 23 15/16 × 15 7/8 in. (60.8 × 40.3 cm)
+## Credit Line: Gift of the artist, 1919
+## Geography
+## Classification: Prints
+## Rights and Reproduction: © 2022 Artists Rights Society (ARS), New York
+## Metadata Date: 2022-01-04T04:40:20.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Factories
+#### Working
+#### Human Figures
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300006232)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300412186)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300404114)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

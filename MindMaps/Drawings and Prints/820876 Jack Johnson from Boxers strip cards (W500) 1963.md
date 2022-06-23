@@ -1,0 +1,29 @@
+# Title: Jack Johnson from Boxers strip cards (W500)
+## Highlight: False
+## Accession
+### Number: 63.350.535.500.135
+### Year: 63.350.535.500.135
+## Public Domain: False
+## Images
+## Constituents
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1910
+### Begin: 1905
+### End: 1915
+## Medium: Commercial color photolithograph
+## Size
+### Dimensions: Sheet: 2 3/8 × 1 7/16 in. (6.1 × 3.6 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

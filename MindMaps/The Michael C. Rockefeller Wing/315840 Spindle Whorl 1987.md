@@ -1,0 +1,35 @@
+# Title: Spindle Whorl
+## Highlight: False
+## Accession
+### Number: 1987.394.765
+### Year: 1987.394.765
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ao/original/1987.394.765.JPG)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ao/web-large/1987.394.765.JPG)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ao/original/vs1987_394_765a.jpg)
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Spindle whorl
+## Culture: Mexican
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 9th–15th century
+### Begin: 800
+### End: 1500
+## Medium: Ceramic
+## Size
+### Dimensions: Diameter 3/4 in. (1.9 cm)
+## Credit Line: Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986
+## Geography
+### Country: Mexico
+### Region: Mesoamerica
+## Classification: Ceramics-Implements
+## Metadata Date: 2020-04-03T04:45:31.093Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

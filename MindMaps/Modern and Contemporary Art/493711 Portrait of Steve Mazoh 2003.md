@@ -1,0 +1,53 @@
+# Title: Portrait of Steve Mazoh
+## Highlight: False
+## Accession
+### Number: 2003.603.12
+### Year: 2003.603.12
+## Public Domain: False
+## Images
+## Constituents
+### Name: David Hockney
+### ID: 166290
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500017273)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q159907)
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Hockney, David
+#### Display Name: David Hockney
+### Bio: British, born Bradford, 1937
+### Nationality: British
+### Dates Active
+#### Begin: 1937
+#### End: 2037
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q159907)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500017273)
+## Dates
+### Object: 1980
+### Begin: 1980
+### End: 1980
+## Medium: Colored crayons on two joined sheets of paper, collaged
+## Size
+### Dimensions: 22 3/8 x 19 5/8 in. (56.8 x 49.8 cm)
+## Credit Line: Gift of Stephen Mazoh, 2003
+## Geography
+## Classification: Drawings
+## Metadata Date: 2022-01-05T04:39:24.56Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

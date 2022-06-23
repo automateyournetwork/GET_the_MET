@@ -1,0 +1,55 @@
+# Title: Houses in the Courtyard, from the series "Some Aspects of Parisian Life"
+## Highlight: False
+## Accession
+### Number: 28.50.4(4)
+### Year: 28.50.4(4)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Pierre Bonnard
+### ID: 161697
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115555)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26408)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Quelques aspects de la vie de Paris (Some Aspects of Parisian Life)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bonnard, Pierre
+#### Display Name: Pierre Bonnard
+### Bio: French, Fontenay-aux-Roses 1867–1947 Le Cannet
+### Nationality: French
+### Dates Active
+#### Begin: 1867
+#### End: 1947
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26408)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115555)
+## Dates
+### Object: 1895–96
+### Begin: 1895
+### End: 1896
+## Medium: Lithograph in four colors on cream wove paper
+## Size
+### Dimensions: image: 13 9/16 x 10 1/8 in. (34.5 x 25.7 cm)
+sheet: 20 7/8 x 15 9/16 in. (53 x 39.5 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1928
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-09-08T04:38:03.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Paris
+#### Houses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/tgn/7008038)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300005433)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

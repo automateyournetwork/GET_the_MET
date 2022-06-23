@@ -1,0 +1,32 @@
+# Title: Shield (Targe)
+## Highlight: False
+## Accession
+### Number: 29.158.587
+### Year: 29.158.587
+## Public Domain: False
+## Images
+## Constituents
+## Department: Arms and Armor
+## Object Name: Shield (Targe)
+## Culture: Spanish
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: late 15th century
+### Begin: 1451
+### End: 1500
+## Medium: Wood, iron, gesso, pigment
+## Size
+### Dimensions: H. 35 1/2 in. (90.2 cm); W. 33 in. (83.8 cm); D. 4 1/2 in. (11.4 cm)
+## Credit Line: Bashford Dean Memorial Collection, Funds from various donors, 1929
+## Geography
+### Type: Country of Origin
+### Country: Spain
+## Classification: Shields
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,43 @@
+# Title: Pair of Sword-Grip Ornaments (Menuki)
+## Highlight: False
+## Accession
+### Number: 38.55.14a, b
+### Year: 38.55.14a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/aa/original/LC-38_55_14a_b-001.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/aa/web-large/LC-38_55_14a_b-001.jpg)
+## Constituents
+## Department: Arms and Armor
+## Object Name: Pair of sword-grip ornaments (Menuki)
+## Culture: Japanese
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 18th century
+### Begin: 1701
+### End: 1800
+## Medium: Gold
+## Size
+### Dimensions: Menuki (a); L. 7/8 in. (2.2 cm); Wt. 0.3 oz. (8.5 g); menuki (b); L. 7/8 in. (2.2 cm); Wt. 0.4 oz. (11.3 g)
+## Credit Line: Purchase, Joseph Pulitzer Bequest, 1938
+## Geography
+### Type: Country of Origin
+### Country: Japan
+## Classification: Sword Furniture-Menuki
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Lions
+#### Drums
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310388)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300041729)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

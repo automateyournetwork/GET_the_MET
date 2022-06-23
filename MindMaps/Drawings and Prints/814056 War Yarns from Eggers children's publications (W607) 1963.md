@@ -1,0 +1,29 @@
+# Title: War Yarns from Eggers children's publications (W607)
+## Highlight: False
+## Accession
+### Number: 63.350.536.607.4
+### Year: 63.350.536.607.4
+## Public Domain: False
+## Images
+## Constituents
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 1919
+### Begin: 1919
+### End: 1919
+## Medium: Commercial color photolithograph
+## Size
+### Dimensions: Sheet: 2 9/16 × 1 9/16 in. (6.5 × 4 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

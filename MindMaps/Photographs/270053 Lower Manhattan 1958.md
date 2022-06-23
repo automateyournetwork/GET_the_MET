@@ -1,0 +1,62 @@
+# Title: Lower Manhattan
+## Highlight: False
+## Accession
+### Number: 58.577.30
+### Year: 58.577.30
+## Public Domain: False
+## Images
+## Constituents
+### Name: Alfred Stieglitz
+### ID: 162479
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024301)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q313055)
+## Department: Photographs
+## Object Name: Photomechanical print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Stieglitz, Alfred
+#### Display Name: Alfred Stieglitz
+### Bio: American, Hoboken, New Jersey 1864–1946 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1864
+#### End: 1946
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q313055)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024301)
+## Dates
+### Object: 1910, printed 1911
+### Begin: 1910
+### End: 1910
+## Medium: Photogravure
+## Size
+### Dimensions: 16.0 x 19.8 cm. (6  5/16  x 7  13/16  in.)
+## Credit Line: Gift of J. B. Neumann, 1958
+## Geography
+## Classification: Photographs
+## Metadata Date: 2022-01-21T04:40:41.503Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Cities
+#### New York City
+#### Buildings
+#### Rivers
+#### Boats
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008389)
+#### [AAT URL](http://vocab.getty.edu/page/tgn/7007567)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300004789)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008707)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300178749)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

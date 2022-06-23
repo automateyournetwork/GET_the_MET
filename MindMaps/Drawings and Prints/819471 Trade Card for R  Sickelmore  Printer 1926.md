@@ -1,0 +1,41 @@
+# Title: Trade Card for R. Sickelmore, Printer
+## Highlight: False
+## Accession
+### Number: 26.28.288
+### Year: 26.28.288
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP885112.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP885112.jpg)
+## Constituents
+### Name: Richard Sickelmore
+### ID: 206761
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print, Trade Card
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Sickelmore, Richard
+#### Display Name: Richard Sickelmore
+### Bio: British, 19th Century
+### Dates Active
+#### Begin: 1800
+#### End: 1900
+### URLs
+## Dates
+### Object: 19th century
+### Begin: 1800
+### End: 1900
+## Medium: Engraving
+## Size
+### Dimensions: Sheet: 4 7/16 in. × 6 in. (11.3 × 15.3 cm)
+## Credit Line: Gift of Bella C. Landauer, 1926
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

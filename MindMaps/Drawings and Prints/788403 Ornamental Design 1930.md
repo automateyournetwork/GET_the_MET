@@ -1,0 +1,41 @@
+# Title: Ornamental Design
+## Highlight: False
+## Accession
+### Number: 30.54.63
+### Year: 30.54.63
+## Public Domain: False
+## Images
+## Constituents
+### Name: Jacques Hurtu
+### ID: 105054
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500101508)
+## Department: Drawings and Prints
+## Object Name: Print, Ornament & Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Hurtu, Jacques
+#### Display Name: Jacques Hurtu
+### Bio: French (active 1584–1635)
+### Dates Active
+#### Begin: 1584
+#### End: 1635
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500101508)
+## Dates
+### Object: 1619
+### Begin: 1619
+### End: 1619
+## Medium: Blackwork and engraving
+## Size
+### Dimensions: Sheet (Trimmed): 2 13/16 × 2 5/8 in. (7.1 × 6.7 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1930
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

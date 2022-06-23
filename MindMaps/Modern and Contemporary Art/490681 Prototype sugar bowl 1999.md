@@ -1,0 +1,49 @@
+# Title: Prototype sugar bowl
+## Highlight: False
+## Accession
+### Number: 1999.27.4ab
+### Year: 1999.27.4ab
+## Public Domain: False
+## Images
+## Constituents
+### Name: Eliel Saarinen
+### ID: 146635
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500027014)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q312028)
+### Name: International Silver Co., Wilcox Silver Plate Co. Division (Meriden, Connecticut)
+### ID: 147645
+### Role: Manufacturer
+### URLs
+## Department: Modern and Contemporary Art
+## Object Name: Prototype sugar bowl
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Saarinen, Eliel
+#### Display Name: Eliel Saarinen
+### Bio: American (born Finland), Rantasalmi 1873–1950 Bloomfield Hills, Michigan
+### Nationality: American
+### Dates Active
+#### Begin: 1873
+#### End: 1950
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q312028)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500027014)
+## Dates
+### Object: 1935
+### Begin: 1935
+### End: 1935
+## Medium: Electro-plated nickel silver
+## Size
+### Dimensions: 6 3/4 × 6 × 3 7/8 in. (17.1 × 15.2 × 9.8 cm)
+## Credit Line: Purchase, Mr. and Mrs. Ronald Saarinen Swanson and John C. Waddell Gifts, and Gift of Susan Dwight Bliss, by exchange, 1999
+## Geography
+## Classification: Metalwork
+## Metadata Date: 2021-03-25T04:38:15.3Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 903

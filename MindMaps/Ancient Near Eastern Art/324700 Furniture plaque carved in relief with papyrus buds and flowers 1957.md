@@ -1,0 +1,41 @@
+# Title: Furniture plaque carved in relief with papyrus buds and flowers
+## Highlight: False
+## Accession
+### Number: 57.80.17
+### Year: 57.80.17
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/an/original/DP110617.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/an/web-large/DP110617.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/an/original/DP130772.jpg)
+## Constituents
+## Department: Ancient Near Eastern Art
+## Object Name: Furniture element
+## Culture: Assyrian
+## History
+### Period: Neo-Assyrian
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 9th–8th century B.C.
+### Begin: -900
+### End: -700
+## Medium: Ivory
+## Size
+### Dimensions: 4 1/8 × 3 1/8 × 3/16 in. (10.5 × 7.9 × 0.5 cm)
+## Credit Line: Fletcher Fund, 1957
+## Geography
+### Region: Syria
+### Sub-Region: probably from Arslan Tash (ancient Hadatu)
+## Metadata Date: 2020-09-25T04:35:54.317Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

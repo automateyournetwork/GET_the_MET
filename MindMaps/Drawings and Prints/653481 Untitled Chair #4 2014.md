@@ -1,0 +1,58 @@
+# Title: Untitled Chair #4
+## Highlight: False
+## Accession
+### Number: 2014.272.4
+### Year: 2014.272.4
+## Public Domain: False
+## Images
+## Constituents
+### Name: Sara Sanders
+### ID: 177993
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524575)
+### Gender: Female
+### Name: Phil Sanders
+### ID: 93631
+### Role: Printer
+### URLs
+### Name: Forth Estate
+### ID: 104847
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Sanders, Sara
+#### Display Name: Sara Sanders
+### Bio: American, born Dayton, Ohio, 1979
+### Nationality: American
+### Dates Active
+#### Begin: 1979
+#### End: 9999
+### Gender: Female
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524575)
+## Dates
+### Object: 2013
+### Begin: 2013
+### End: 2013
+## Medium: Lithograph
+## Size
+### Dimensions: Sheet: 10 × 8 in. (25.4 × 20.3 cm)
+## Credit Line: Purchase, Janice Carlson Oresman Gift, 2014
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Couches
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300038634)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,51 @@
+# Title: Evening dress
+## Highlight: False
+## Accession
+### Number: 1982.427.6a, b
+### Year: 1982.427.6a, b
+## Public Domain: False
+## Images
+## Constituents
+### Name: Simonetta
+### ID: 20247
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q67901344)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Evening dress
+## Culture: Italian
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Simonetta
+#### Display Name: Simonetta
+### Bio: Italian, born 1922
+### Nationality: Italian
+### Dates Active
+#### Begin: 1922
+#### End: 9999
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q67901344)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1950
+### Begin: 1950
+### End: 1950
+## Medium: silk, wool
+## Size
+## Credit Line: Gift of Janet A . Sloane, 1982
+## Geography
+## Metadata Date: 2022-01-11T04:42:13.55Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

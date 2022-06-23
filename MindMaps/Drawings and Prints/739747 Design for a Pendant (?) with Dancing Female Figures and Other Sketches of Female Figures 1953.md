@@ -1,0 +1,43 @@
+# Title: Design for a Pendant (?) with Dancing Female Figures and Other Sketches of Female Figures
+## Highlight: False
+## Accession
+### Number: 53.670.34
+### Year: 53.670.34
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anonymous, French, 19th century
+### ID: 73914
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+## Department: Drawings and Prints
+## Object Name: Album Drawings Ornaments & Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, French, 19th century
+#### Display Name: Anonymous, French, 19th century
+### Dates Active
+#### Begin: 1800
+#### End: 1900
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+## Dates
+### Object: ca. 1930
+### Begin: 1925
+### End: 1935
+## Medium: Graphite on brown, semi-transparent paper
+## Size
+### Dimensions: Sheet: 9 1/2 × 6 9/16 in. (24.2 × 16.6 cm)
+Album: 14 3/16 in. × 11 in. × 9/16 in. (36 × 28 × 1.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953
+## Geography
+## Classification: Albums
+## Metadata Date: 2020-07-23T04:32:54.41Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,37 @@
+# Title: Miniature Stone Vessel
+## Highlight: False
+## Accession
+### Number: 07.231.3
+### Year: 07.231.3
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Model vase
+## History
+### Period: Late Old Kingdom
+### Dynasty: Dynasty 8
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 2150–2100 B.C.
+### Begin: -2150
+### End: -2100
+## Medium: Travertine (Egyptian alabaster)
+## Size
+### Dimensions: H. 6.1 cm (2 3/8 in.); Diam. 3.5 cm (1 3/8 in.)
+## Credit Line: Gift of The Egyptian Research Account and British School of Archaeology in Egypt, 1907
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Middle Egypt
+### Sub-Region: Zaraby (near Deir Rifa)
+## Locus: Tomb 3
+## Excavation: BSAE excavations 1906-1907
+## Metadata Date: 2020-11-27T04:36:17.647Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 103

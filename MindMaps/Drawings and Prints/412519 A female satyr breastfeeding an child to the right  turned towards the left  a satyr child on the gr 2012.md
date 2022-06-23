@@ -1,0 +1,56 @@
+# Title: A female satyr breastfeeding an child to the right, turned towards the left, a satyr child on the ground to the left, from 'Landscapes and seaports' (Paysages et ports de mer, dans des ronds)
+## Highlight: False
+## Accession
+### Number: 2012.136.790
+### Year: 2012.136.790
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP829705.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP829705.jpg)
+## Constituents
+### Name: Stefano della Bella
+### ID: 163659
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: 'Landscapes and seaports' (Paysages et ports de mer, dans des ronds)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bella, Stefano della
+#### Display Name: Stefano della Bella
+### Bio: Italian, Florence 1610–1664 Florence
+### Nationality: Italian
+### Dates Active
+#### Begin: 1610
+#### End: 1664
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+## Dates
+### Object: 1639
+### Begin: 1639
+### End: 1639
+## Medium: Etching
+## Size
+### Dimensions: Sheet: 5 1/16 x 5 1/16 in. (12.8 x 12.8 cm)
+## Credit Line: Bequest of Phyllis Massar, 2011
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Satyrs
+#### Trees
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300379732)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132410)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

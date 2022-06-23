@@ -1,0 +1,54 @@
+# Title: Wall Bracket
+## Highlight: False
+## Accession
+### Number: Inst.65.1.2
+### Year: Inst.65.1.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: H. Van Buren Magonigle
+### ID: 1739
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500033029)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q15492791)
+### Name: Samuel Yellin
+### ID: 165882
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006910)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q7412975)
+## Department: The American Wing
+## Object Name: Wall bracket
+## Culture: American
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Magonigle, H. Van Buren
+#### Display Name: H. Van Buren Magonigle
+### Bio: 1867–1935
+### Dates Active
+#### Begin: 1867
+#### End: 1935
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q15492791)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500033029)
+## Dates
+### Object: 1915
+### Begin: 1915
+### End: 1915
+## Medium: Iron, glass
+## Size
+### Dimensions: 31 x 32 in. (78.7 x 81.3 cm)
+## Credit Line: Gift of Manuel Pollack and Morris Baris, 1965
+## Geography
+### Type: Made in
+### City: New York
+### State: New York
+### Country: United States
+### Region: Mid-Atlantic
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

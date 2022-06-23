@@ -1,0 +1,56 @@
+# Title: Snuffbox with miniature of a mother nursing a child
+## Highlight: False
+## Accession
+### Number: 17.190.1189
+### Year: 17.190.1189
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/ES7798.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/ES7798.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/39690.jpg)
+## Constituents
+### Name: Joseph Etienne Blerzy
+### ID: 165560
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524496)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q22661422)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Snuffbox, painting
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Blerzy, Joseph Etienne
+#### Display Name: Joseph Etienne Blerzy
+### Bio: French, active 1750–1806
+### Nationality: French
+### Dates Active
+#### Begin: 1750
+#### End: 1806
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q22661422)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524496)
+## Dates
+### Object: 1775–76
+### Begin: 1775
+### End: 1776
+## Medium: Gold, enamel
+## Size
+### Dimensions: 3 5/16 × 2 7/16 in. (8.4 × 6.2 cm)
+## Credit Line: Gift of J. Pierpont Morgan, 1917
+## Geography
+## Classification: Metalwork-Gold and Platinum
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Infants
+#### Mothers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189561)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025932)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

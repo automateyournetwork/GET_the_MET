@@ -1,0 +1,43 @@
+# Title: Cocktail ensemble
+## Highlight: False
+## Accession
+### Number: 2009.300.7289a, b
+### Year: 2009.300.7289a, b
+## Public Domain: False
+## Images
+## Constituents
+### Name: Lucien Lelong
+### ID: 20450
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2572377)
+## Department: Costume Institute
+## Object Name: Cocktail ensemble
+## Culture: French
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Lelong Lucien
+#### Display Name: Lucien Lelong
+### Bio: French, 1889–1958
+### Nationality: French
+### Dates Active
+#### Begin: 1889
+#### End: 1958
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2572377)
+#### [ULAN]((not assigned))
+## Dates
+### Object: ca. 1939
+### Begin: 1937
+### End: 1941
+## Medium: Cotton, wool
+## Size
+## Credit Line: Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Dorothy Baden Stamm, 1963
+## Geography
+## Metadata Date: 2021-06-05T04:45:37.2Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,57 @@
+# Title: Ein kräftiger Zusammenstoss
+## Highlight: False
+## Accession
+### Number: 2010.296
+### Year: 2010.296
+## Public Domain: False
+## Images
+## Constituents
+### Name: Unknown
+### ID: 169986
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+### Name: E. A. Schwerdtfeger &amp; Co, Berlin
+### ID: 60758
+### Role: Publisher
+### URLs
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Unknown
+#### Display Name: Unknown
+### Dates Active
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+## Dates
+### Object: 1914
+### Begin: 1914
+### End: 1914
+## Medium: Gelatin silver print
+## Size
+### Dimensions: Image: 8.7 x 13.7 cm (3 7/16 x 5 3/8 in.)
+Frame: 27.9 x 35.6 cm (11 x 14 in.) (Framed with 2010.193)
+## Credit Line: Twentieth-Century Photography Fund, 2010
+## Geography
+## Classification: Photographs
+## Metadata Date: 2021-10-16T04:35:55.477Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Soldiers
+#### World War I
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300185678)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901000143)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

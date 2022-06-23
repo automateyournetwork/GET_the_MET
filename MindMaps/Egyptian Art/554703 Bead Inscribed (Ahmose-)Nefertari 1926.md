@@ -1,0 +1,35 @@
+# Title: Bead Inscribed (Ahmose-)Nefertari
+## Highlight: False
+## Accession
+### Number: 26.7.740
+### Year: 26.7.740
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/26.7.740_EGDP011212.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/26.7.740_EGDP011212.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Bead, Ahmose-Nefertari, united with the white crown
+## History
+### Period: New Kingdom
+### Dynasty: early Dynasty 18
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1550–1479 B.C.
+### Begin: -1550
+### End: -1479
+## Medium: Steatite, glazed
+## Size
+### Dimensions: diam. 1 cm (3/8 in)
+## Credit Line: Purchase, Edward S. Harkness Gift, 1926
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2021-06-11T04:39:55.907Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 117

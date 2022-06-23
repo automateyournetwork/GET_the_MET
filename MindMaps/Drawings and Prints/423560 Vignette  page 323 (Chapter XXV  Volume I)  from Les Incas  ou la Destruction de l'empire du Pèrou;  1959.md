@@ -1,0 +1,62 @@
+# Title: Vignette, page 323 (Chapter XXV, Volume I), from Les Incas, ou la Destruction de l'empire du Pèrou; Par M. Marmontel, Historiographe de France, l'un des Quarante de l'Acadèmie Françoise. "Accordez à tous la tolérance civile, non en approuvant tout comme indifférent, mais en souffrant avec patience tout ce que Dieu souffre, & en tâchant de ramener les hommes par une douce persuasion." Fénelon, Direction pour la conscience d'un Roi, a Paris, Chez Lacombe, Libraire Rue de Tournon, près le Luxembourg MDCCLXXVII Avec Approbation et Privilege du Roi
+## Highlight: False
+## Accession
+### Number: 59.500.586(6)
+### Year: 59.500.586(6)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Nicolas de Launay
+### ID: 90382
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024572)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q19629062)
+### Name: After Jean Michel Moreau the Younger
+### ID: 163775
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028967)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q321972)
+### Name: Jean François Marmontel
+### ID: 84688
+### Role: Author
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q379923)
+### Name: Chez Lacombe
+### ID: 106064
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Les Incas, ou la Destruction de l'empire du Pèrou; Par M. Marmontel, Historiographe de France, l'un des Quarante de l'Acadèmie Françoise. "Accordez à tous la tolérance civile, non en approuvant tout comme indifférent, mais en souffrant avec patience tout ce que Dieu souffre, & en tâchant de ramener les hommes par une douce persuasion." Fénelon, Direction pour la conscience d'un Roi, a Paris, Chez Lacombe, Libraire Rue de Tournon, près le Luxembourg MDCCLXXVII Avec Approbation et Privilege du Roi
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Launay, Nicolas de
+#### Display Name: Nicolas de Launay
+### Bio: French, Paris, 1739–1792
+### Nationality: French
+### Dates Active
+#### Begin: 1739
+#### End: 1792
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q19629062)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024572)
+## Dates
+### Object: 1776
+### Begin: 1776
+### End: 1776
+## Medium: Etching and engraving; fourth state of four (Bocher)
+## Size
+### Dimensions: Sheet: 10 1/8 × 7 1/16 in. (25.7 × 17.9 cm)
+Plate: 9 1/4 × 5 13/16 in. (23.5 × 14.8 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-06-05T04:45:37.2Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

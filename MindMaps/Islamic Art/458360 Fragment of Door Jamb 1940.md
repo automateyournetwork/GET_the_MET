@@ -1,0 +1,31 @@
+# Title: Fragment of Door Jamb
+## Highlight: False
+## Accession
+### Number: 40.170.668
+### Year: 40.170.668
+## Public Domain: False
+## Images
+## Constituents
+## Department: Islamic Art
+## Object Name: Stucco fragment
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: probably 12th century
+### Begin: 1100
+### End: 1199
+## Medium: Plaster, mud; painted
+## Size
+## Credit Line: Rogers Fund, 1940
+## Geography
+### Type: Excavated in
+### City: Nishapur
+### Country: Iran
+## Classification: Stucco
+## Metadata Date: 2022-01-13T04:42:57.68Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,35 @@
+# Title: Fragment of "Molar" Bottle
+## Highlight: False
+## Accession
+### Number: 48.101.282
+### Year: 48.101.282
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/is/original/48.101.282-D.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/is/web-large/48.101.282-D.jpg)
+## Constituents
+## Department: Islamic Art
+## Object Name: Fragment
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 9th–10th century
+### Begin: 800
+### End: 999
+## Medium: Glass, green; cut
+## Size
+### Dimensions: Max. dims. H. 13/16 in. (2 cm)
+                    W. 2 3/16 in. (5.5 cm)
+## Credit Line: Rogers Fund, 1948
+## Geography
+### Type: Excavated in
+### City: Nishapur
+### Country: Iran
+## Classification: Glass
+## Metadata Date: 2021-12-17T04:39:04.243Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

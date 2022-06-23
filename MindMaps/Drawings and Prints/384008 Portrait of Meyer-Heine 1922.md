@@ -1,0 +1,62 @@
+# Title: Portrait of Meyer-Heine
+## Highlight: False
+## Accession
+### Number: 22.1.8
+### Year: 22.1.8
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP814012.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP814012.jpg)
+## Constituents
+### Name: Félix Bracquemond
+### ID: 161711
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023048)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q633574)
+### Name: Jacob Meyer-Heine
+### ID: 33986
+### Role: Sitter
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524760)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q99199319)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bracquemond, Félix
+#### Display Name: Félix Bracquemond
+### Bio: French, Paris 1833–1914 Sèvres
+### Nationality: French
+### Dates Active
+#### Begin: 1833
+#### End: 1914
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q633574)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023048)
+## Dates
+### Object: 1872
+### Begin: 1872
+### End: 1872
+## Medium: Etching and drypoint; first state of three
+## Size
+### Dimensions: Sheet: 10 15/16 × 14 7/16 in. (27.8 × 36.7 cm)
+Plate: 8 1/2 × 9 1/2 in. (21.6 × 24.2 cm)
+## Credit Line: Gift of David Keppel, 1922
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-17T04:42:43.467Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

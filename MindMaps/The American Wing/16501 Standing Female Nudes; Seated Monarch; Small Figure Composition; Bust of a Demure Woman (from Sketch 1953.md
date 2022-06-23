@@ -1,0 +1,55 @@
+# Title: Standing Female Nudes; Seated Monarch; Small Figure Composition; Bust of a Demure Woman (from Sketchbook)
+## Highlight: False
+## Accession
+### Number: 53.182.72 recto
+### Year: 53.182.72 recto
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/266529.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/266529.jpg)
+## Constituents
+### Name: Thomas Sully
+### ID: 162494
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006873)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q786545)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Sully, Thomas
+#### Display Name: Thomas Sully
+### Bio: American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania
+### Nationality: American
+### Dates Active
+#### Begin: 1783
+#### End: 1872
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q786545)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006873)
+## Dates
+### Object: 1810–20
+### Begin: 1810
+### End: 1820
+## Medium: Ink, wash, on paper
+## Size
+### Dimensions: 9 x 11 1/2 in. (22.9 x 29.2 cm)
+## Credit Line: Rogers Fund, 1953
+## Geography
+## Metadata Date: 2021-04-27T04:42:00.93Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Female Nudes
+#### Horse Riding
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249313)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

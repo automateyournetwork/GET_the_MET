@@ -1,0 +1,231 @@
+# Title: Mantiq al-tair (Language of the Birds)
+## Highlight: False
+## Accession
+### Number: 63.210
+### Year: 63.210
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/is/original/DP256447.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/is/web-large/DP256447.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256452.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257562.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256456.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256461.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256463.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256465.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257303.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256459.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257308.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256460.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256462.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256464.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256466.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257392.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257413.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257563.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256471.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256472.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256473.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257305.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256470.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256474.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256477.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256479.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257306.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256476.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256478.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256480.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256482.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256453.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256481.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256483.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256497.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256484.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256486.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256488.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256492.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256494.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256496.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256499.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256501.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256503.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257412.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256454.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256468.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256485.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256487.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256493.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256495.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256498.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256500.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256502.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256504.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256507.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256505.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256506.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256509.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256455.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256458.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP257368.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP256508.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-1r.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP135137.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP135138.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/DP135139.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-1v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-2r.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-2v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-5.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-5v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-6.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-6v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-7.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-7v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-9.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-9v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-10r.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-10v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-12v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-13v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-14v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-15v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-16v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-17v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-19v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-20v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-23v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-24v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-25v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-26v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-27v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-29v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-30.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-30v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-31.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-31v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-32.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-32v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-33.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-33v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-34.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-34v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-36.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-36v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-37.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-37v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-38.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-38v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-39.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-39v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-40.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-40v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-41.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-41v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-42.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-42v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-43.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-43v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-45.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-45v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-46.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-46v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-48.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-48v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-50.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-50v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-51.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-51v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-52.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-52v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-53.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-53v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-55.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-55v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-56.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-56v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-57.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-57v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-58.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-58v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-59.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-59v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-60.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-60v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-61.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-61v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-62.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-62v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-63.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-63v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-64.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-64v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-65.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-65v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-66.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210-66v.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210backcov.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210backinsidecov.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210frontcov.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210frontinsidecov.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf63-210rabat.jpg)
+## Constituents
+### Name: Farid al-Din `Attar
+### ID: 130655
+### Role: Author
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q194091)
+### Name: Sultan &#39;Ali al-Mashhadi
+### ID: 130146
+### Role: Calligrapher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500116608)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5922231)
+## Department: Islamic Art
+## Object Name: Illustrated manuscript
+## History
+## Artist
+### Role: Author
+### Name
+#### Alpha Sort: Farid al-Din `Attar
+#### Display Name: Farid al-Din `Attar
+### Bio: Iranian, Nishapur ca. 1142–ca. 1220 Nishapur
+### Dates Active
+#### Begin: 1142
+#### End: 1220
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q194091)
+#### [ULAN]((not assigned))
+## Dates
+### Object: ca. 1600
+### Begin: 1575
+### End: 1625
+## Medium: Opaque watercolor and gold on paper
+## Size
+### Dimensions: H. 12 7/8 in. (32.7 cm)
+W. 8 5/16 in. (21.1 cm)
+## Credit Line: Fletcher Fund, 1963
+## Geography
+### Type: Attributed to
+### City: Isfahan
+### Country: Iran
+## Classification: Codices
+## Metadata Date: 2021-10-07T04:36:13.837Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: True
+## Gallery Number: 455

@@ -1,0 +1,46 @@
+# Title: Design for Architectural Ornament; verso: Two Designs for Architectural Ornament
+## Highlight: False
+## Accession
+### Number: 61.636.39
+### Year: 61.636.39
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP808791.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP808791.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP808790.jpg)
+## Constituents
+### Name: Anonymous, French, 18th century
+### ID: 73905
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, French, 18th century
+#### Display Name: Anonymous, French, 18th century
+### Nationality: French
+### Dates Active
+#### Begin: 1700
+#### End: 1800
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+## Dates
+### Object: 18th century
+### Begin: 1700
+### End: 1799
+## Medium: Graphite
+## Size
+### Dimensions: sheet: 4 13/16 x 7 5/16 in. (12.3 x 18.5 cm) irregular
+## Credit Line: Gift of Janos Scholz, 1961
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-07-23T04:32:54.41Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

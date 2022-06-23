@@ -1,0 +1,39 @@
+# Title: Trade Catalogues [Stoves]
+## Highlight: False
+## Accession
+### Number: 52.601.2(5)
+### Year: 52.601.2(5)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Bridge &amp; Beach Manufacturing Co.
+### ID: 218988
+### Role: Author
+### URLs
+## Department: Drawings and Prints
+## Object Name: Book
+## History
+## Artist
+### Role: Author
+### Name
+#### Alpha Sort: Bridge & Beach Manufacturing Co.
+#### Display Name: Bridge & Beach Manufacturing Co.
+### Bio: American, established 1837
+### Dates Active
+#### Begin: 1837
+#### End: 1900
+### URLs
+## Dates
+### Object: 1883(?)–86
+### Begin: 1883
+### End: 1886
+## Medium: Illustrations: wood engraving
+## Size
+### Dimensions: 12 5/8 × 10 1/16 in. (32 × 25.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956
+## Geography
+## Classification: Books
+## Metadata Date: 2022-03-04T10:32:13.587Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

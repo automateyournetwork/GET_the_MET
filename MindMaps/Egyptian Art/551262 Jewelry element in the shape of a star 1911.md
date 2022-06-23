@@ -1,0 +1,45 @@
+# Title: Jewelry element in the shape of a star
+## Highlight: False
+## Accession
+### Number: 11.215.201
+### Year: 11.215.201
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/LC_11_215_201_BB.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/LC_11_215_201_BB.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Jewelry element in the shape of a star
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18
+### Reign: reign of Amenhotep III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1390–1353 B.C.
+### Begin: -1390
+### End: -1390
+## Medium: Faience
+## Size
+### Dimensions: H. 1.7 cm (11/16 in)
+## Credit Line: Rogers Fund, 1911
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Malqata
+### Locale: Palace of Amenhotep III
+## Excavation: MMA excavations, 1911–12
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Stars
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300387654)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

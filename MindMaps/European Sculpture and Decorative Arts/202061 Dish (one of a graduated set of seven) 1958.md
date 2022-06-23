@@ -1,0 +1,46 @@
+# Title: Dish (one of a graduated set of seven)
+## Highlight: False
+## Accession
+### Number: 58.7.23
+### Year: 58.7.23
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/166406.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/166406.jpg)
+## Constituents
+### Name: Paul de Lamerie
+### ID: 34470
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025790)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1751768)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Dish
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Lamerie, Paul
+#### Display Name: Paul de Lamerie
+### Bio: British, 1688–1751, active 1712–51
+### Nationality: British
+### Dates Active
+#### Begin: 1688
+#### End: 1751
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1751768)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025790)
+## Dates
+### Object: 1741–42
+### Begin: 1741
+### End: 1742
+## Medium: Silver
+## Size
+### Dimensions: Width: 19 3/4 in. (50.2 cm)
+## Credit Line: Gift of George D. Widener and Mrs. Eleanor Widener Dixon, 1958
+## Geography
+## Classification: Metalwork-Silver
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

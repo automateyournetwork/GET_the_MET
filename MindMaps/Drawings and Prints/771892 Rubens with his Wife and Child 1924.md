@@ -1,0 +1,82 @@
+# Title: Rubens with his Wife and Child
+## Highlight: False
+## Accession
+### Number: 24.63.107
+### Year: 24.63.107
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP879940.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP879940.jpg)
+## Constituents
+### Name: James McArdell
+### ID: 165554
+### Role: Engraver
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500031163)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6138610)
+### Name: After Peter Paul Rubens
+### ID: 162350
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500002921)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5599)
+### Name: Peter Paul Rubens
+### ID: 162350
+### Role: Sitter
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500002921)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5599)
+### Name: Helena Fourment
+### ID: 202099
+### Role: Sitter
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1965732)
+### Name: Frans Rubens
+### ID: 202100
+### Role: Sitter
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q15872698)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Engraver
+### Name
+#### Alpha Sort: McArdell, James
+#### Display Name: James McArdell
+### Bio: Irish, Dublin 1729–1765 London
+### Dates Active
+#### Begin: 1729
+#### End: 1765
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6138610)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500031163)
+## Dates
+### Object: 1746–65
+### Begin: 1746
+### End: 1770
+## Medium: Mezzotint; second state of two
+## Size
+### Dimensions: Plate: 20 1/8 × 14 1/8 in. (51.1 × 35.8 cm)
+Sheet: 21 3/16 × 15 3/16 in. (53.8 × 38.5 cm)
+## Credit Line: Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Children
+#### Men
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025945)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

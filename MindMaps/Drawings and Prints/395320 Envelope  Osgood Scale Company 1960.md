@@ -1,0 +1,40 @@
+# Title: Envelope, Osgood Scale Company
+## Highlight: False
+## Accession
+### Number: 60.609.38b
+### Year: 60.609.38b
+## Public Domain: False
+## Images
+## Constituents
+### Name: Osgood Scale Company
+### ID: 85605
+### Role: Author
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Author
+### Name
+#### Alpha Sort: Osgood Scale Company
+#### Display Name: Osgood Scale Company
+### Bio: Binghamton, New York
+### Nationality: American
+### Dates Active
+#### Begin: 1850
+#### End: 1950
+### URLs
+## Dates
+### Object: ca. 1901
+### Begin: 1896
+### End: 1906
+## Medium: Lithography
+## Size
+### Dimensions: sheet: 3 5/8 x 6 7/16 in. (9.2 x 16.4 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-08T04:34:31.223Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

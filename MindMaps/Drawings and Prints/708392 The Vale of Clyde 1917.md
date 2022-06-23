@@ -1,0 +1,44 @@
+# Title: The Vale of Clyde
+## Highlight: False
+## Accession
+### Number: 17.3.2234
+### Year: 17.3.2234
+## Public Domain: False
+## Images
+## Constituents
+### Name: Sir David Young Cameron
+### ID: 166317
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007560)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3703382)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Cameron, David Young, Sir
+#### Display Name: Sir David Young Cameron
+### Bio: British, Glasgow, Scotland 1865–1945 Perth, Scotland
+### Dates Active
+#### Begin: 1865
+#### End: 1945
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3703382)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007560)
+## Dates
+### Object: 1898
+### Begin: 1898
+### End: 1898
+## Medium: Etching; only state
+## Size
+### Dimensions: Sheet: 7 15/16 × 12 15/16 in. (20.2 × 32.9 cm)
+Plate: 6 15/16 × 12 in. (17.7 × 30.5 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1917
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,33 @@
+# Title: Sheet Fragment
+## Highlight: False
+## Accession
+### Number: 33.10.49
+### Year: 33.10.49
+## Public Domain: False
+## Images
+## Constituents
+## Department: Medieval Art
+## Object Name: Fragment
+## Culture: Coptic
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 4th century
+### Begin: 300
+### End: 400
+## Medium: Linen, wool
+## Size
+### Dimensions: Overall: 35 7/16 × 23 5/8 in. (90 × 60 cm)
+## Credit Line: Rogers Fund, 1933
+## Geography
+### Type: Made in
+### State: Kharga Oasis
+### Country: Byzantine Egypt
+## Classification: Textiles-Woven
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

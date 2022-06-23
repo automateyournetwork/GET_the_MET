@@ -1,0 +1,65 @@
+# Title: St. Bavo, from the series Saints of North and South Netherlands
+## Highlight: False
+## Accession
+### Number: 51.501.6645(2)
+### Year: 51.501.6645(2)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP809920.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP809920.jpg)
+## Constituents
+### Name: Pieter Soutman
+### ID: 87696
+### Role: Artist and publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028313)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q577842)
+### Name: Engraved by Cornelis Visscher
+### ID: 79711
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500001547)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q542383)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Saints of North and South Netherlands
+## Artist
+### Role: Artist and publisher
+### Name
+#### Alpha Sort: Soutman, Pieter
+#### Display Name: Pieter Soutman
+### Bio: Dutch, Haarlem, ca. 1580–1657 Haarlem
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1580
+#### End: 1657
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q577842)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028313)
+## Dates
+### Object: 1650
+### Begin: 1650
+### End: 1650
+## Medium: Engraving and etching
+## Size
+### Dimensions: sheet: 17 1/8 x 11 13/16 in. (43.5 x 30 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Swords
+#### Saints
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300037048)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300150555)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

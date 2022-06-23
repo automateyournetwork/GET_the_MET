@@ -1,0 +1,34 @@
+# Title: Jar with a long neck
+## Highlight: False
+## Accession
+### Number: 14.4.17
+### Year: 14.4.17
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Jar, unbored
+## History
+### Period: Roman Period
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 30 B.C.–A.D. 364
+### Begin: -30
+### End: 364
+## Medium: Travertine (Egyptian alabaster)
+## Size
+### Dimensions: H. 0.13m x Diam. 0.08m
+## Credit Line: Gift of The Egyptian Research Account and British School of Archaeology in Egypt, 1914
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Memphite Region
+### Sub-Region: Memphis (Mit Rahina)
+## Excavation: BSAE excavations
+## Metadata Date: 2022-01-20T04:40:26.6Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

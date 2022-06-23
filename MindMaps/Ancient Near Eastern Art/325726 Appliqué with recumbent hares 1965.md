@@ -1,0 +1,38 @@
+# Title: Appliqué with recumbent hares
+## Highlight: False
+## Accession
+### Number: 65.162.3
+### Year: 65.162.3
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/an/original/ME65_162_1,2,3.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/an/web-large/ME65_162_1,2,3.jpg)
+## Constituents
+## Department: Ancient Near Eastern Art
+## Object Name: Appliqué
+## Culture: Scythian
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 7th–6th century B.C.
+### Begin: -700
+### End: -500
+## Medium: Gold
+## Size
+### Dimensions: 5/16 × 7/16 × 1/8 in. (0.79 × 1.1 × 0.25 cm)
+## Credit Line: Rogers Fund, 1965
+## Geography
+### Region: Eurasian steppes, Dniepr region
+## Metadata Date: 2020-09-25T04:35:54.317Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Rabbits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250218)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

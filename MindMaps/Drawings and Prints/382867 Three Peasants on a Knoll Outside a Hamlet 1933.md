@@ -1,0 +1,44 @@
+# Title: Three Peasants on a Knoll Outside a Hamlet
+## Highlight: False
+## Accession
+### Number: 33.57.12
+### Year: 33.57.12
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anthonie Waterloo
+### ID: 162692
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004986)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q194820)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Waterloo, Anthonie
+#### Display Name: Anthonie Waterloo
+### Bio: Dutch, Lille 1609–1690 Utrecht
+### Nationality: Dutch
+### Dates Active
+#### Begin: 1609
+#### End: 1690
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q194820)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004986)
+## Dates
+### Object: 17th century
+### Begin: 1620
+### End: 1690
+## Medium: Etching; first state
+## Size
+### Dimensions: sheet: 5 x 7 1/4 in. (12.7 x 18.4 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1933
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

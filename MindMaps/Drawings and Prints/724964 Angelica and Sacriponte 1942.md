@@ -1,0 +1,56 @@
+# Title: Angelica and Sacriponte
+## Highlight: False
+## Accession
+### Number: 42.119.266
+### Year: 42.119.266
+## Public Domain: False
+## Images
+## Constituents
+### Name: Thomas Burke
+### ID: 102575
+### Role: Engraver
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018745)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3990592)
+### Name: After Angelica Kauffmann
+### ID: 162023
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115055)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q123098)
+### Gender: Female
+### Name: John &amp; Josiah Boydell
+### ID: 90085
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q26879556)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Engraver
+### Name
+#### Alpha Sort: Burke, Thomas
+#### Display Name: Thomas Burke
+### Bio: Irish, Dublin 1749–1815 London
+### Dates Active
+#### Begin: 1749
+#### End: 1815
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3990592)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018745)
+## Dates
+### Object: 1792
+### Begin: 1792
+### End: 1792
+## Medium: Stipple engraving and etching
+## Size
+### Dimensions: Plate: 19 7/16 × 15 1/2 in. (49.4 × 39.3 cm)
+## Credit Line: Gertrude and Thomas J. Mumford Collection, Gift of Dorothy Quick Mayer, 1942
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

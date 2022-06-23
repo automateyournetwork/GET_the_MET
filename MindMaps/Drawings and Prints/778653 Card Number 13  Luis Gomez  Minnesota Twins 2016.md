@@ -1,0 +1,37 @@
+# Title: Card Number 13, Luis Gomez, Minnesota Twins
+## Highlight: False
+## Accession
+### Number: 2016.402.802
+### Year: 2016.402.802
+## Public Domain: False
+## Images
+## Constituents
+### Name: Topps Chewing Gum Company
+### ID: 164259
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Baseball card, print
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Alpha Sort: Topps Chewing Gum Company
+#### Display Name: Topps Chewing Gum Company
+### Bio: American, Brooklyn
+### Dates Active
+### URLs
+## Dates
+### Object: 1977
+### Begin: 1977
+### End: 1977
+## Medium: Commercial Color Lithograph
+## Size
+### Dimensions: Sheet: 3 1/2 × 2 1/2 in. (8.9 × 6.4 cm)
+## Credit Line: Gift of George R. Goldner, in honor of Stewart Goldner, 2016
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-06-15T04:37:52.723Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

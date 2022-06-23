@@ -1,0 +1,38 @@
+# Title: Cover for toilet vase
+## Highlight: False
+## Accession
+### Number: 09.180.1256b
+### Year: 09.180.1256b
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Cosmetic jar, cover
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18–20
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1550–1070 B.C. probably
+### Begin: -1550
+### End: -1550
+## Medium: Hippopotamus Ivory
+## Size
+### Dimensions: W. 4.5 × H. 4.5 cm (1 3/4 × 1 3/4 in.)
+## Credit Line: Rogers Fund, 1909
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Memphite Region
+### Sub-Region: Lisht North
+### Locale: cemetery north of the tomb of Senwosret (758)
+## Locus: Pit 808, south upper chamber
+## Excavation: MMA excavations, 1908–09
+## Metadata Date: 2021-07-29T04:41:18.383Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 109

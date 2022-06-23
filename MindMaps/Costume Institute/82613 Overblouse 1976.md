@@ -1,0 +1,50 @@
+# Title: Overblouse
+## Highlight: False
+## Accession
+### Number: 1976.29.7
+### Year: 1976.29.7
+## Public Domain: False
+## Images
+## Constituents
+### Name: House of Chanel
+### ID: 20184
+### Role: Design House
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500329589)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q218115)
+### Name: Gabrielle Chanel
+### ID: 161765
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500072500)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q45661)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Overblouse
+## Culture: French
+## History
+## Artist
+### Role: Design House
+### Name
+#### Alpha Sort: Chanel, House of
+#### Display Name: House of Chanel
+### Bio: French, founded 1913
+### Nationality: French
+### Dates Active
+#### Begin: 1913
+#### End: 2099
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q218115)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500329589)
+## Dates
+### Object: 1930–35
+### Begin: 1930
+### End: 1935
+## Medium: wool
+## Size
+## Credit Line: Gift of Mrs. Michael Blankfort, in memory of her mother, Mrs. William Constable Breed, 1976
+## Geography
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: True

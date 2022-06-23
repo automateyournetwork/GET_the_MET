@@ -1,0 +1,32 @@
+# Title: Dish (one of a pair)
+## Highlight: False
+## Accession
+### Number: 24.80.404
+### Year: 24.80.404
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/24_80_404-405.JPG)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/24_80_404-405.JPG)
+## Constituents
+## Department: Asian Art
+## Object Name: Dish
+## Culture: China
+## History
+### Period: Qing dynasty (1644–1911), Qianlong period (1736–95)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Begin: 1736
+### End: 1795
+## Medium: Painted enamel
+## Size
+### Dimensions: Diam. 10 3/8 in. (26.4 cm)
+## Credit Line: Bequest of Mary Clark Thompson, 1923
+## Geography
+## Classification: Enamels
+## Metadata Date: 2021-10-28T04:38:52.167Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

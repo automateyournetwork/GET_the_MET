@@ -1,0 +1,52 @@
+# Title: Gladiator (from Sketchbook)
+## Highlight: False
+## Accession
+### Number: 1970.121.11
+### Year: 1970.121.11
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/196250.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/196250.jpg)
+## Constituents
+### Name: James McNeill Whistler
+### ID: 162723
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012432)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q203643)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Whistler, James McNeill
+#### Display Name: James McNeill Whistler
+### Bio: American, Lowell, Massachusetts 1834–1903 London
+### Nationality: American
+### Dates Active
+#### Begin: 1834
+#### End: 1903
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q203643)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012432)
+## Dates
+### Object: 1850–51
+### Begin: 1850
+### End: 1851
+## Medium: Brown ink on off-white wove paper
+## Size
+### Dimensions: 2 15/16 x 6 3/4 in. (7.5 x 17.1 cm)
+## Credit Line: Gift of Margaret C. Buell, Helen L. King, and Sybil A. Walk, 1970
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,58 @@
+# Title: Girdle of Ares
+## Highlight: False
+## Accession
+### Number: 14.17
+### Year: 14.17
+## Public Domain: False
+## Images
+## Constituents
+### Name: Arthur B. Davies
+### ID: 161812
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013464)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q708502)
+## Department: The American Wing
+## Object Name: Painting
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Davies, Arthur B.
+#### Display Name: Arthur B. Davies
+### Bio: American, Utica, New York 1862–1928 Florence
+### Nationality: American
+### Dates Active
+#### Begin: 1862
+#### End: 1928
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q708502)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013464)
+## Dates
+### Object: ca. 1908–14
+### Begin: 1905
+### End: 1914
+## Medium: Oil on canvas
+## Size
+### Dimensions: 26 x 40 1/8 in. (66 x 101.9 cm)
+## Credit Line: George A. Hearn Fund, 1914
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Battles
+#### Ares
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300185692)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901001848)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q20176052)
+## Timeline Work: False
+## Gallery Number: 774

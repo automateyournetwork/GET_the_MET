@@ -1,0 +1,45 @@
+# Title: Study for "Flat Surfaces"
+## Highlight: False
+## Accession
+### Number: 1984.536.2
+### Year: 1984.536.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Arthur Dove
+### ID: 161845
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018046)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q709461)
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Dove, Arthur
+#### Display Name: Arthur Dove
+### Bio: American, Canandaigua, New York 1880–1946 Huntington, New York
+### Nationality: American
+### Dates Active
+#### Begin: 1880
+#### End: 1946
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q709461)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018046)
+## Dates
+### Object: ca. 1946
+### Begin: 1946
+### End: 1946
+## Medium: Tempera on paper
+## Size
+### Dimensions: H. 4, W. 3 inches
+(10.2 x 7.6 cm.)
+## Credit Line: Gift of William C. Dove, 1984
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

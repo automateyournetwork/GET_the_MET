@@ -1,0 +1,46 @@
+# Title: Standing cup with cover
+## Highlight: False
+## Accession
+### Number: 27.185.44a, b
+### Year: 27.185.44a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/69810.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/69810.jpg)
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Standing cup with cover
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1720
+### Begin: 1715
+### End: 1725
+## Medium: Glass
+## Size
+### Dimensions: Overall (with cover): 13 1/8 × 3 7/8 in. (33.3 × 9.8 cm)
+## Credit Line: Munsey Fund, 1927
+## Geography
+## Classification: Glass
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dogs
+#### Human Figures
+#### Hunting
+#### Boars
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300265714)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300404114)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300239666)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250112)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

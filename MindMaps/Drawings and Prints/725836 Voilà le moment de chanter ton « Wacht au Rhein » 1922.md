@@ -1,0 +1,44 @@
+# Title: Voilà le moment de chanter ton « Wacht au Rhein »
+## Highlight: False
+## Accession
+### Number: 22.60.41
+### Year: 22.60.41
+## Public Domain: False
+## Images
+## Constituents
+### Name: Jean-Louis Forain
+### ID: 161892
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115211)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q719614)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Forain, Jean-Louis
+#### Display Name: Jean-Louis Forain
+### Bio: French, Reims 1852–1931 Paris
+### Dates Active
+#### Begin: 1852
+#### End: 1931
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q719614)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500115211)
+## Dates
+### Object: 1918
+### Begin: 1918
+### End: 1918
+## Medium: Collotype
+## Size
+### Dimensions: Image: 11 1/4 in. × 16 in. (28.5 × 40.6 cm)
+Sheet: 14 15/16 × 21 9/16 in. (38 × 54.8 cm)
+## Credit Line: Rogers Fund, 1922
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-17T04:42:43.467Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

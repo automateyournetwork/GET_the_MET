@@ -1,0 +1,51 @@
+# Title: Rinceaux with Child Frightened by Dogs
+## Highlight: False
+## Accession
+### Number: 27.88.1(68a)
+### Year: 27.88.1(68a)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Etched by Stefano della Bella
+### ID: 163659
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+### Name: Published by ? Pierre François Basan
+### ID: 165549
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500042976)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3383022)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Ornamenti di fregi e fogliami no.  8
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Etched by
+#### Alpha Sort: Bella, Stefano della
+#### Display Name: Stefano della Bella
+### Bio: Italian, Florence 1610–1664 Florence
+### Nationality: Italian
+### Dates Active
+#### Begin: 1610
+#### End: 1664
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+## Dates
+### Object: ca. 1648
+### Begin: 1643
+### End: 1653
+## Medium: Etching
+## Size
+## Credit Line: Gift of Carl Joseph Ulmann, 1927
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

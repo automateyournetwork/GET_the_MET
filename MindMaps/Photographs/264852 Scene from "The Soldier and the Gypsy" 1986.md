@@ -1,0 +1,60 @@
+# Title: Scene from "The Soldier and the Gypsy"
+## Highlight: False
+## Accession
+### Number: 1986.1110.7
+### Year: 1986.1110.7
+## Public Domain: False
+## Images
+## Constituents
+### Name: George Platt Lynes
+### ID: 164400
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003292)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q474144)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Lynes, George Platt
+#### Display Name: George Platt Lynes
+### Bio: American, East Orange, New Jersey 1907–1955 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1907
+#### End: 1955
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q474144)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003292)
+## Dates
+### Object: 1936, printed ca. 1953
+### Begin: 1936
+### End: 1936
+## Medium: Gelatin silver print
+## Size
+### Dimensions: 33.5 x 26.7 cm. (13  3/16  x 10  1/2  in.)
+## Credit Line: Gift of Lincoln Kirstein, 1986
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © Estate of George Platt Lynes
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dancers
+#### Men
+#### Women
+#### Dancing
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025653)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300389779)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

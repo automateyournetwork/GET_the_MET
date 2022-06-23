@@ -1,0 +1,58 @@
+# Title: Plate 47 from 'The Disasters of War' (Los Desastres de la Guerra): 'This is how it happened.' (Así sucedió.)
+## Highlight: False
+## Accession
+### Number: 22.60.25(47)
+### Year: 22.60.25(47)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP817402.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP817402.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/270260.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/22ZZ_BG029R2M.jpg)
+## Constituents
+### Name: Goya (Francisco de Goya y Lucientes)
+### ID: 161953
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500118936)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5432)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Goya (Francisco de Goya y Lucientes)
+#### Display Name: Goya (Francisco de Goya y Lucientes)
+### Bio: Spanish, Fuendetodos 1746–1828 Bordeaux
+### Nationality: Spanish
+### Dates Active
+#### Begin: 1746
+#### End: 1828
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5432)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500118936)
+## Dates
+### Object: 1810 (published 1863)
+### Begin: 1863
+### End: 1863
+## Medium: Etching,burnished lavis, drypoint, burin, burnisher
+## Size
+### Dimensions: Plate: 6 1/16 × 8 1/16 in. (15.4 × 20.4 cm)
+Sheet: 9 13/16 × 13 1/2 in. (25 × 34.3 cm)
+## Credit Line: Purchase, Jacob H. Schiff Bequest, 1922
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-12-03T04:38:59.333Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Suffering
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300055184)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

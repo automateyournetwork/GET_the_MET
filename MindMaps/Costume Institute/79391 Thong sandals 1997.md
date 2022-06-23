@@ -1,0 +1,47 @@
+# Title: Thong sandals
+## Highlight: False
+## Accession
+### Number: 1997.38.2a, b
+### Year: 1997.38.2a, b
+## Public Domain: False
+## Images
+## Constituents
+### Name: Gucci
+### ID: 20234
+### Role: Design House
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q178516)
+### Name: Tom Ford
+### ID: 20626
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q318149)
+## Department: Costume Institute
+## Object Name: Thong sandals
+## Culture: Italian
+## History
+## Artist
+### Role: Design House
+### Name
+#### Alpha Sort: Gucci
+#### Display Name: Gucci
+### Bio: Italian, founded 1921
+### Nationality: Italian
+### Dates Active
+#### Begin: 1921
+#### End: 2112
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q178516)
+## Dates
+### Object: spring/summer 1996
+### Begin: 1996
+### End: 1996
+## Medium: leather, wood, metal
+## Size
+## Credit Line: Gift of Ms. Mayumi Fujitani, 1997
+## Geography
+## Metadata Date: 2020-11-25T04:35:32.35Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

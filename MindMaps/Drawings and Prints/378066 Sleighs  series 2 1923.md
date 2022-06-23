@@ -1,0 +1,38 @@
+# Title: Sleighs, series 2
+## Highlight: False
+## Accession
+### Number: 23.112.8
+### Year: 23.112.8
+## Public Domain: False
+## Images
+## Constituents
+### Name: Brewster &amp; Co.
+### ID: 165171
+### Role: Manufacturer
+### URLs
+## Department: Drawings and Prints
+## Object Name: Album
+## History
+## Artist
+### Role: Manufacturer
+### Name
+#### Alpha Sort: Brewster & Co.
+#### Display Name: Brewster & Co.
+### Bio: American, New York
+### Nationality: American
+### Dates Active
+### URLs
+## Dates
+### Object: 1856–1914
+### Begin: 1856
+### End: 1914
+## Medium: Ink and watercolor on glazed silk  tracing paper
+## Size
+### Dimensions: 8 1/4 × 1 1/4 × 12 3/4 in. (21 × 3.2 × 32.4 cm)
+## Credit Line: Gift of William Brewster, 1923
+## Geography
+## Classification: Albums
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

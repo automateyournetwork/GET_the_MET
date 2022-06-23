@@ -1,0 +1,51 @@
+# Title: The Graces and Mars
+## Highlight: False
+## Accession
+### Number: 22.81.84
+### Year: 22.81.84
+## Public Domain: False
+## Images
+## Constituents
+### Name: Lorenzo Tiepolo
+### ID: 70559
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500014862)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2530113)
+### Name: After Giovanni Battista Tiepolo
+### ID: 162537
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018523)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q186202)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Tiepolo, Lorenzo
+#### Display Name: Lorenzo Tiepolo
+### Bio: Italian, Venice 1736–1776 Madrid
+### Nationality: Italian
+### Dates Active
+#### Begin: 1736
+#### End: 1776
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2530113)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500014862)
+## Dates
+### Object: ca. 1759
+### Begin: 1754
+### End: 1764
+## Medium: Etching; second state of three
+## Size
+### Dimensions: Plate: 22 1/16 × 15 13/16 in. (56 × 40.1 cm)
+Sheet: 25 9/16 × 20 1/16 in. (64.9 × 50.9 cm)
+## Credit Line: Rogers Fund, 1922
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-07T04:41:24.047Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,50 @@
+# Title: Samson and the Lion
+## Highlight: False
+## Accession
+### Number: 49.95.1645
+### Year: 49.95.1645
+## Public Domain: False
+## Images
+## Constituents
+### Name: After David Vinckboons
+### ID: 166031
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015966)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1176989)
+### Name: Pieter Serwouters
+### ID: 69182
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013507)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q19569743)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: After
+#### Alpha Sort: Vinckboons, David
+#### Display Name: David Vinckboons
+### Bio: Netherlandish, Mechelen 1576–1629 Amsterdam
+### Dates Active
+#### Begin: 1576
+#### End: 1629
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1176989)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500015966)
+## Dates
+### Object: 1614
+### Begin: 1614
+### End: 1614
+## Medium: Etching
+## Size
+### Dimensions: Sheet: 11 9/16 × 14 1/4 in. (29.3 × 36.2 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-03-04T10:34:46.977Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

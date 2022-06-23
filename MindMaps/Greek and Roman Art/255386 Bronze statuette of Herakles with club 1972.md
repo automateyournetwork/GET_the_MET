@@ -1,0 +1,31 @@
+# Title: Bronze statuette of Herakles with club
+## Highlight: False
+## Accession
+### Number: 1972.118.73
+### Year: 1972.118.73
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Statuette of Herakles with club
+## Culture: Greek
+## History
+### Period: Classical
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 5th century B.C.
+### Begin: -499
+### End: -400
+## Medium: Bronze
+## Size
+### Dimensions: H.: 3 7/16 x 2 3/16 x 5/8 in. (8.7 x 5.6 x 1.6 cm)
+## Credit Line: Bequest of Walter C. Baker, 1971
+## Geography
+## Classification: Bronzes
+## Metadata Date: 2021-07-07T04:42:57.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

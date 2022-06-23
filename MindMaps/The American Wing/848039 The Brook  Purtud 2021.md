@@ -1,0 +1,51 @@
+# Title: The Brook, Purtud
+## Highlight: False
+## Accession
+### Number: 2021.110.1
+### Year: 2021.110.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Emily Sargent
+### ID: 3807
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500449087)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q29913557)
+### Gender: Female
+### Name: John Singer Sargent
+### ID: 162377
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023972)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q155626)
+## Department: The American Wing
+## Object Name: Watercolor
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Sargent, Emily
+#### Display Name: Emily Sargent
+### Bio: 1857–1936
+### Dates Active
+#### Begin: 1857
+#### End: 1936
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q29913557)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500449087)
+## Dates
+### Object: 1906-08
+### Begin: 1906
+### End: 1908
+## Medium: Watercolor
+## Size
+### Dimensions: 14 x 10 in.
+## Credit Line: Anonymous gift at the request of members of the artist's family
+## Geography
+## Metadata Date: 2021-06-24T04:38:26.973Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

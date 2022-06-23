@@ -1,0 +1,57 @@
+# Title: Broadside with 48 scenes representing the kings and queens of Spain
+## Highlight: False
+## Accession
+### Number: 1978.643.31(2)
+### Year: 1978.643.31(2)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP875606.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP875606.jpg)
+## Constituents
+### Name: Antonio Bosch
+### ID: 199642
+### Role: Publisher
+### URLs
+### Name: Pedro Corominas
+### ID: 199732
+### Role: Printer
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Alpha Sort: Bosch, Antonio
+#### Display Name: Antonio Bosch
+### Bio: Spanish, active Barcelona, ca. 1860–1880
+### Dates Active
+#### Begin: 1860
+#### End: 1880
+### URLs
+## Dates
+### Object: 1864
+### Begin: 1864
+### End: 1864
+## Medium: Wood engraving
+## Size
+### Dimensions: Sheet: 19 5/16 × 13 3/16 in. (49 × 33.5 cm)
+## Credit Line: Max G. Wildnauer Fund, 1978
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Kings
+#### Queens
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025481)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025483)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

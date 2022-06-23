@@ -1,0 +1,55 @@
+# Title: Baluster from the Chicago Stock Exchange Building, Chicago
+## Highlight: False
+## Accession
+### Number: 1972.50.6
+### Year: 1972.50.6
+## Public Domain: False
+## Images
+## Constituents
+### Name: Louis Henry Sullivan
+### ID: 162493
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013453)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q243240)
+### Name: Dankmar Adler
+### ID: 178034
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000517)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q76573)
+## Department: The American Wing
+## Object Name: Baluster
+## Culture: American
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Sullivan, Louis Henry
+#### Display Name: Louis Henry Sullivan
+### Bio: American, Boston, Massachusetts 1856–1924 Chicago, Illinois
+### Nationality: American
+### Dates Active
+#### Begin: 1856
+#### End: 1924
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q243240)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500013453)
+## Dates
+### Object: 1893
+### Begin: 1893
+### End: 1893
+## Medium: Copper-plated cast iron
+## Size
+### Dimensions: 31 3/4 x 10 7/8 x 1 1/8 in. (80.6 x 27.6 x 2.9 cm)
+## Credit Line: Purchase, Emily Crane Chadbourne Bequest and Mr. and Mrs. James Biddle Gift, by exchange, 1972
+## Geography
+### Type: Made in
+### City: Chicago
+### State: Illinois
+### Country: United States
+### Region: Midwest
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

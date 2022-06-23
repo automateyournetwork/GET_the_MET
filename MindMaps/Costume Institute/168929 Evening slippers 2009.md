@@ -1,0 +1,38 @@
+# Title: Evening slippers
+## Highlight: False
+## Accession
+### Number: 2009.300.4724a, b
+### Year: 2009.300.4724a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ci/original/54.61.23a-b_CP2.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ci/web-large/54.61.23a-b_CP2.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ci/original/BM54.61.23_label.jpg)
+## Constituents
+### Name: Despa
+### ID: 31204
+### Role: Maker
+### URLs
+## Department: Costume Institute
+## Object Name: Evening slippers
+## Culture: British
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Despa
+#### Display Name: Despa
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1815
+### Begin: 1812
+### End: 1817
+## Medium: Silk
+## Size
+## Credit Line: Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954
+## Geography
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

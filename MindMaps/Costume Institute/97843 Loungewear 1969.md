@@ -1,0 +1,54 @@
+# Title: Loungewear
+## Highlight: False
+## Accession
+### Number: C.I.69.20.2a–d
+### Year: C.I.69.20.2a–d
+## Public Domain: False
+## Images
+## Constituents
+### Name: (a, d) House of Givenchy
+### ID: 22442
+### Role: Design House
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500331799)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q759210)
+### Name: (a, d) Hubert de Givenchy
+### ID: 161942
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004811)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q167318)
+### Name: (b, c) Roger Vivier
+### ID: 20216
+### Role: Designer
+### URLs
+## Department: Costume Institute
+## Object Name: Loungewear
+## Culture: French
+## History
+## Artist
+### Role: Design House
+### Name
+#### Prefix: (a, d)
+#### Alpha Sort: Givenchy House of
+#### Display Name: House of Givenchy
+### Bio: French, founded 1952
+### Nationality: French
+### Dates Active
+#### Begin: 1952
+#### End: 9999
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q759210)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500331799)
+## Dates
+### Object: 1966
+### Begin: 1966
+### End: 1966
+## Medium: silk, fur
+## Size
+## Credit Line: Gift of Mrs. Charles B. Wrightsman, 1969
+## Geography
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

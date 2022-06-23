@@ -1,0 +1,54 @@
+# Title: Houses of Parliament
+## Highlight: False
+## Accession
+### Number: 2005.100.990.17
+### Year: 2005.100.990.17
+## Public Domain: False
+## Images
+## Constituents
+### Name: Alvin Langdon Coburn
+### ID: 161778
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500010929)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q449156)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Coburn, Alvin Langdon
+#### Display Name: Alvin Langdon Coburn
+### Bio: British, Boston, Massachusetts 1882–1966 Wales
+### Dates Active
+#### Begin: 1882
+#### End: 1966
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q449156)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500010929)
+## Dates
+### Object: 1909
+### Begin: 1909
+### End: 1909
+## Medium: Photogravure
+## Size
+### Dimensions: Image: 8 7/16 × 6 3/16 in. (21.5 × 15.7 cm)
+Sheet: 9 in. × 6 5/8 in. (22.9 × 16.9 cm)
+Mount: 15 15/16 × 12 1/2 in. (40.5 × 31.8 cm)
+## Credit Line: Gilman Collection, Purchase, Joyce F. Menschel Photography Library Fund, 2005
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Buildings
+#### Boats
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300004789)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300178749)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

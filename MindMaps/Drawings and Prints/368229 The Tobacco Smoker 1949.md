@@ -1,0 +1,60 @@
+# Title: The Tobacco Smoker
+## Highlight: False
+## Accession
+### Number: 49.21.23
+### Year: 49.21.23
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP824259.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP824259.jpg)
+## Constituents
+### Name: Johann Christoph Erhard
+### ID: 163883
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012017)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1693016)
+### Name: After Ferdinand Kettner
+### ID: 94207
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Erhard, Johann Christoph
+#### Display Name: Johann Christoph Erhard
+### Bio: German, Nuremberg 1795–1822 Rome
+### Nationality: German
+### Dates Active
+#### Begin: 1795
+#### End: 1822
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1693016)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012017)
+## Dates
+### Object: 1817
+### Begin: 1817
+### End: 1817
+## Medium: Etching; third state
+## Size
+### Dimensions: plate: 4 1/4 x 3 13/16 in. 
+sheet: 6 5/16 x 5 3/8 in.
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Smoking
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300380156)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

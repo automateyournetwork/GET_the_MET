@@ -1,0 +1,56 @@
+# Title: Guillame-Égon, Cardinal de Fürstenberg
+## Highlight: False
+## Accession
+### Number: 26.29.1
+### Year: 26.29.1
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP833022.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP833022.jpg)
+## Constituents
+### Name: Robert Nanteuil
+### ID: 75121
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023363)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1356084)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Nanteuil, Robert
+#### Display Name: Robert Nanteuil
+### Bio: French, Reims 1623–1678 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1623
+#### End: 1678
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1356084)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023363)
+## Dates
+### Object: 1671
+### Begin: 1671
+### End: 1671
+## Medium: Engraving; first state of two (Petitjean & Wickert)
+## Size
+### Dimensions: Sheet: 20 13/16 × 17 15/16 in. (52.8 × 45.5 cm)
+Plate: 19 3/4 × 16 3/4 in. (50.2 × 42.5 cm)
+## Credit Line: Gift of Loius R. Metcalfe, 1926
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

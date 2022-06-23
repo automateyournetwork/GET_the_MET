@@ -1,0 +1,64 @@
+# Title: Tapestry "Recollection Pond"
+## Highlight: False
+## Accession
+### Number: 1996.551.1
+### Year: 1996.551.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Romare Bearden
+### ID: 161661
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007871)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1291679)
+### Name: Pinton S.A.
+### ID: 146213
+### Role: Manufacturer
+### URLs
+## Department: Modern and Contemporary Art
+## Object Name: Textile
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Bearden, Romare
+#### Display Name: Romare Bearden
+### Bio: American, Charlotte, North Carolina 1911–1988 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1911
+#### End: 1988
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1291679)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500007871)
+## Dates
+### Object: designed 1974; executed 1990
+### Begin: 1974
+### End: 1990
+## Medium: Wool and cotton
+## Size
+### Dimensions: 61 1/4 × 79 1/4 in. (155.6 × 201.3 cm)
+## Credit Line: Gift of Gloria F. Ross, 1996
+## Geography
+## Classification: Textiles-Tapestries
+## Metadata Date: 2022-03-23T05:07:39.667Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Ducks
+#### Fish
+#### Female Nudes
+#### Landscapes
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250047)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266085)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132294)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q96357669)
+## Timeline Work: False

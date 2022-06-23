@@ -1,0 +1,43 @@
+# Title: Jar with archaistic patterns
+## Highlight: False
+## Accession
+### Number: 79.2.890a, b
+### Year: 79.2.890a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/79_2_890ab_O1_sf.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/79_2_890ab_O1_sf.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/79_2_890ab_O3_sf.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/79_2_890ab_O2_sf.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/79_2_890ab_O4_sf.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/79_2_890ab_Bm_sf.jpg)
+## Constituents
+## Department: Asian Art
+## Object Name: Jar
+## Culture: China
+## History
+### Period: Qing dynasty (1644–1911)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: first half of the 19th century
+### Begin: 1800
+### End: 1849
+## Medium: Porcelain with relief brown slip ornaments and crackled glaze (Jingdezhen ware), wooden cover
+## Size
+### Dimensions: H. (with cover) 13 in. (33.0 cm); Diam. 6 1/8 in. (15.6 cm)
+## Credit Line: Purchase by subscription, 1879
+## Geography
+## Classification: Ceramics
+## Metadata Date: 2021-07-23T04:42:45.293Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

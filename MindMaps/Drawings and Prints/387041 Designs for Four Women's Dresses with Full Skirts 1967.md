@@ -1,0 +1,50 @@
+# Title: Designs for Four Women's Dresses with Full Skirts
+## Highlight: False
+## Accession
+### Number: 67.566.18a
+### Year: 67.566.18a
+## Public Domain: False
+## Images
+## Constituents
+### Name: Attributed to A. Foa
+### ID: 101694
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Attributed to
+#### Alpha Sort: Foa, A.
+#### Display Name: A. Foa
+### Bio: French, active 1900–1918
+### Nationality: French
+### Dates Active
+#### Begin: 1900
+#### End: 1918
+### URLs
+## Dates
+### Object: ca. 1915
+### Begin: 1910
+### End: 1920
+## Medium: Black and white gouache, pen and ink and brush
+## Size
+### Dimensions: sheet: 16 15/16 x 10 7/8 in. (43 x 27.6 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Women
+#### Fashion
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300055811)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

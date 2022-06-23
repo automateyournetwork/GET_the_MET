@@ -1,0 +1,34 @@
+# Title: Bifacial Sickle Insert
+## Highlight: False
+## Accession
+### Number: 26.10.9
+### Year: 26.10.9
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: sickle, element, denticulate, bifacial, tool
+## History
+### Period: Neolithic–Predynastic Period
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 6900–3100 B.C.
+### Begin: -6900
+### End: -3100
+## Medium: Flint
+## Size
+### Dimensions: L. 10.7 × W. 2.8 × Th. 0.8 cm, Wt. 27.4g (4 3/16 × 1 1/8 × 5/16 in., 0.966oz.)
+## Credit Line: Gift of Herbert E. Winlock, 1926
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Fayum
+### Locale: along the road between the Fayum and the Giza pyramids
+## Metadata Date: 2021-11-18T04:35:36.747Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 101

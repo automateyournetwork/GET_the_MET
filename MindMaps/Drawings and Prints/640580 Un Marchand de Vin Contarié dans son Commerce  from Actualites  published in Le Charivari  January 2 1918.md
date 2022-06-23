@@ -1,0 +1,54 @@
+# Title: Un Marchand de Vin Contarié dans son Commerce, from Actualites, published in Le Charivari, January 23, 1844
+## Highlight: False
+## Accession
+### Number: 18.35.23
+### Year: 18.35.23
+## Public Domain: False
+## Images
+## Constituents
+### Name: Honoré Daumier
+### ID: 161808
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500117998)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q187506)
+### Name: Aubert et Cie
+### ID: 78944
+### Role: Printer
+### URLs
+### Name: Pannier et Cie.
+### ID: 79772
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Actualites
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Daumier, Honoré
+#### Display Name: Honoré Daumier
+### Bio: French, Marseilles 1808–1879 Valmondois
+### Nationality: French
+### Dates Active
+#### Begin: 1808
+#### End: 1879
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q187506)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500117998)
+## Dates
+### Object: January 23, 1844
+### Begin: 1844
+### End: 1844
+## Medium: Lithograph; third state of four (Delteil)
+## Size
+### Dimensions: Sheet: 11 3/4 × 8 11/16 in. (29.8 × 22.1 cm)
+Image: 10 1/16 × 8 3/8 in. (25.6 × 21.2 cm)
+## Credit Line: Gift of Mrs. Schuyler Van Rensselaer, 1918
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-07-10T04:40:18.983Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

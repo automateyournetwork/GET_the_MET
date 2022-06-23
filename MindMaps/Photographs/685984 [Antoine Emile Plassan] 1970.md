@@ -1,0 +1,46 @@
+# Title: [Antoine Emile Plassan]
+## Highlight: False
+## Accession
+### Number: 1970.659.645
+### Year: 1970.659.645
+## Public Domain: False
+## Images
+## Constituents
+### Name: Portraits Mechanostares Brevetés
+### ID: 183964
+### Role: Photography Studio
+### URLs
+### Name: Person in photograph Antoine-Emile Plassan
+### ID: 108178
+### Role: Person in Photograph
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500014110)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q18507783)
+## Department: Photographs
+## Object Name: Carte-de-visite
+## History
+## Artist
+### Role: Photography Studio
+### Name
+#### Alpha Sort: Portraits Mechanostares Brevetés
+#### Display Name: Portraits Mechanostares Brevetés
+### Bio: French, active 1860s
+### Nationality: French
+### Dates Active
+#### Begin: 1850
+#### End: 1870
+### URLs
+## Dates
+### Object: 1860s
+### Begin: 1860
+### End: 1869
+## Medium: Albumen silver print
+## Size
+### Dimensions: Approx. 10.2 x 6.3 cm (4 x 2 1/2 in.)
+## Credit Line: The Albert Ten Eyck Gardner Collection, Gift of the Centennial Committee, 1970
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

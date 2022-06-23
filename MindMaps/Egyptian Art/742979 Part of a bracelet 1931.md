@@ -1,0 +1,37 @@
+# Title: Part of a bracelet
+## Highlight: False
+## Accession
+### Number: 31.3.49i
+### Year: 31.3.49i
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Necklace, bracelets
+## History
+### Period: Middle Kingdom
+### Dynasty: Dynasty 11
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 2030–1640 B.C.
+### Begin: -2030
+### End: -1640
+## Medium: Straw
+## Size
+## Credit Line: Rogers Fund, 1931
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Asasif
+### Locale: Tomb MMA 816
+## Locus: pit
+## Excavation: MMA excavations, 1929–30
+## Metadata Date: 2021-06-11T04:39:55.907Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 106

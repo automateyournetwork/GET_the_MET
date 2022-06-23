@@ -1,0 +1,29 @@
+# Title: Pair of children
+## Highlight: False
+## Accession
+### Number: 07.225.510.125a, b
+### Year: 07.225.510.125a, b
+## Public Domain: False
+## Images
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Figurines
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: first quarter 18th century
+### Begin: 1700
+### End: 1725
+## Medium: Gilt bronze
+## Size
+### Dimensions: Length (each): 6 1/4 in. (15.9 cm)
+## Credit Line: Gift of J. Pierpont Morgan, 1906
+## Geography
+## Classification: Metalwork-Gilt Bronze
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

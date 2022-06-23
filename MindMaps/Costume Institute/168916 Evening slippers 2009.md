@@ -1,0 +1,38 @@
+# Title: Evening slippers
+## Highlight: False
+## Accession
+### Number: 2009.300.4711a, b
+### Year: 2009.300.4711a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ci/original/54.61.2a-b_CP2.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ci/web-large/54.61.2a-b_CP2.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ci/original/BM54.61.2_label.jpg)
+## Constituents
+### Name: Borsley
+### ID: 31203
+### Role: Maker
+### URLs
+## Department: Costume Institute
+## Object Name: Evening slippers
+## Culture: British
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Borsley
+#### Display Name: Borsley
+### Dates Active
+### URLs
+## Dates
+### Object: 1825–35
+### Begin: 1825
+### End: 1835
+## Medium: Silk
+## Size
+## Credit Line: Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954
+## Geography
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

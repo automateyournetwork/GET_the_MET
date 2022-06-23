@@ -1,0 +1,30 @@
+# Title: Textile swatch (one of 12)
+## Highlight: False
+## Accession
+### Number: 1985.151.5h
+### Year: 1985.151.5h
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP7454.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP7454.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP7453.jpg)
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Sample
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: early 19th century
+### Begin: 1800
+### End: 1815
+## Size
+## Credit Line: Purchase, 1985, Funds From Various Donors
+## Geography
+## Classification: Textiles-Woven
+## Metadata Date: 2022-02-17T04:42:43.467Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

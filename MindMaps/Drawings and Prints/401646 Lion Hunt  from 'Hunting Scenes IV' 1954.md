@@ -1,0 +1,65 @@
+# Title: Lion Hunt, from 'Hunting Scenes IV'
+## Highlight: False
+## Accession
+### Number: 54.501.1(3)
+### Year: 54.501.1(3)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/MM39510.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/MM39510.jpg)
+## Constituents
+### Name: Antonio Tempesta
+### ID: 162518
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500027888)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q605447)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Tempesta, Antonio
+#### Display Name: Antonio Tempesta
+### Bio: Italian, Florence 1555–1630 Rome
+### Nationality: Italian
+### Dates Active
+#### Begin: 1555
+#### End: 1630
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q605447)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500027888)
+## Dates
+### Object: late 16th century
+### Begin: 1595
+### End: 1630
+## Medium: Etching
+## Size
+### Dimensions: Sheet: 7 9/16 × 10 7/8 in. (19.2 × 27.7 cm)
+Plate: 5 3/16 × 7 13/16 in. (13.2 × 19.8 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1954
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Lions
+#### Spears
+#### Men
+#### Hunting
+#### Horse Riding
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310388)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300037038)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300239666)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300249313)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

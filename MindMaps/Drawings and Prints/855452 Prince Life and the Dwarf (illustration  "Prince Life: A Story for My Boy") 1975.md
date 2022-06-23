@@ -1,0 +1,53 @@
+# Title: Prince Life and the Dwarf (illustration, "Prince Life: A Story for My Boy")
+## Highlight: False
+## Accession
+### Number: 1975.613.44
+### Year: 1975.613.44
+## Public Domain: False
+## Images
+## Constituents
+### Name: Samuel Putnam Avery Sr.
+### ID: 161451
+### Role: Engraver
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500313673)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3819081)
+### Name: After John McLenan
+### ID: 164310
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524381)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6248088)
+### Name: Related author George Payne Rainsford James
+### ID: 217706
+### Role: Author
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Engraver
+### Name
+#### Alpha Sort: Avery, Samuel Putnam, Sr.
+#### Display Name: Samuel Putnam Avery Sr.
+### Bio: American, New York 1822–1904 New York
+### Dates Active
+#### Begin: 1822
+#### End: 1904
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3819081)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500313673)
+## Dates
+### Object: 1855
+### Begin: 1855
+### End: 1855
+## Medium: Wood engraving, proof
+## Size
+### Dimensions: Sheet: 7 7/16 × 6 7/16 in. (18.9 × 16.3 cm)
+## Credit Line: Gift of Emma Avery Welcher and Amy Ogden Welcher, 1975
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,44 @@
+# Title: The Lewis family: Mr. and Mrs. Charles H. Lewis and their son, Benjamin Francklin Lewis
+## Highlight: False
+## Accession
+### Number: 50.602.534
+### Year: 50.602.534
+## Public Domain: False
+## Images
+## Constituents
+### Name: Auguste Edouart
+### ID: 161861
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500119964)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2870949)
+## Department: Drawings and Prints
+## Object Name: Cut paper
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Edouart, Auguste
+#### Display Name: Auguste Edouart
+### Bio: French, 1789–1861
+### Dates Active
+#### Begin: 1789
+#### End: 1861
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2870949)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500119964)
+## Dates
+### Object: 1844
+### Begin: 1844
+### End: 1844
+## Medium: Cut paper silhouette
+## Size
+### Dimensions: Image: 8 3/16 × 10 1/4 in. (20.8 × 26 cm)
+Sheet: 10 7/8 × 11 15/16 in. (27.6 × 30.3 cm)
+## Credit Line: Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950
+## Geography
+## Classification: Cut Paper
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

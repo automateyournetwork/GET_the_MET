@@ -1,0 +1,55 @@
+# Title: Dish (one of a pair)
+## Highlight: False
+## Accession
+### Number: 42.30.10
+### Year: 42.30.10
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/126972.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/126972.jpg)
+## Constituents
+### Name: Worcester factory
+### ID: 35110
+### Role: Factory
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500332804)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q668894)
+### Name: Probably Jeffreyes Hammet O&#39;Neale
+### ID: 34135
+### Role: Decorator
+### URLs
+## Department: European Sculpture and Decorative Arts
+## Object Name: Dish
+## History
+## Artist
+### Role: Factory
+### Name
+#### Alpha Sort: Worcester factory
+#### Display Name: Worcester factory
+### Bio: British, 1751–2008
+### Dates Active
+#### Begin: 1751
+#### End: 2008
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q668894)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500332804)
+## Dates
+### Object: ca. 1770
+### Begin: 1765
+### End: 1775
+## Medium: Soft-paste porcelain
+## Size
+### Dimensions: Overall: 1 3/4 × 9 1/4 × 11 1/2 in. (4.4 × 23.5 × 29.2 cm)
+## Credit Line: Gift of Mr. and Mrs. Luke Vincent Lockwood, 1942
+## Geography
+## Classification: Ceramics-Porcelain
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Horses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250148)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

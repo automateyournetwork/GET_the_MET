@@ -1,0 +1,42 @@
+# Title: Model Chisel from the Foundation Deposit for Hatshepsut's Tomb
+## Highlight: False
+## Accession
+### Number: 30.8.5
+### Year: 30.8.5
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/30.8.5.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/30.8.5.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/30.8.5_inscription.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Model chisel
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18
+### Reign: Joint reign of Hatshepsut and Thutmose III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1479–1458 B.C.
+### Begin: -1473
+### End: -1458
+## Medium: Bronze or copper alloy, wood
+## Size
+### Dimensions: L. 15.8 cm (6 1/4 in)
+## Credit Line: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Valley of the Kings
+### Locale: Tomb of Hatshepsut (KV 20)
+## Locus: Foundation deposit
+## Excavation: Davis/Carter excavations, 1903–04
+## Metadata Date: 2021-12-17T04:39:04.243Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 116

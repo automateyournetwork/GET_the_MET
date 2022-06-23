@@ -1,0 +1,45 @@
+# Title: Tenor Valve Trombone in B-flat
+## Highlight: False
+## Accession
+### Number: 89.4.2144
+### Year: 89.4.2144
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/mi/original/219924.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/mi/web-large/219924.jpg)
+## Constituents
+### Name: Pietro Borsari
+### ID: 155619
+### Role: Maker
+### URLs
+## Department: Musical Instruments
+## Object Name: Tenor Valve Trombone in B-flat
+## Culture: Italian
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Borsari Pietro
+#### Display Name: Pietro Borsari
+### Bio: active late 19th century
+### Nationality: Italian
+### Dates Active
+#### Begin: 1850
+#### End: 1900
+### URLs
+## Dates
+### Object: late 19th century
+### Begin: 1880
+### End: 1899
+## Medium: Brass, nickel-silver
+## Size
+### Dimensions: Length: 95cm (37 3/8in.)  Diameter of bell:  17cm (6 11/16in.)
+## Credit Line: The Crosby Brown Collection of Musical Instruments, 1889
+## Geography
+### City: Bologna
+### Country: Italy
+## Classification: Aerophone-Lip Vibrated-trumpet / trombone
+## Metadata Date: 2021-07-20T04:41:37.74Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

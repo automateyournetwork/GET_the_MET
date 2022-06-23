@@ -1,0 +1,222 @@
+# Title: The Mustard Seed Garden Painting Manual (Japanese reprint)
+## Highlight: False
+## Accession
+### Number: 2013.746a–e
+### Year: 2013.746a–e
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_05_crd.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/2013_746_a_e_b_05_crd.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_01.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_02.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_03.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_04.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_05.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_06.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_07.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_08.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_09.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_10.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_11.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_18.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_21.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_22.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_28.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_30.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_31.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_32.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_33.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_a_34.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_01.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_02.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_03.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_04.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_05.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_06.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_07.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_08.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_09.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_10.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_11.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_18.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_21.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_22.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_28.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_30.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_31.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_32.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_b_33.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_01.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_02.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_03.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_04.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_05.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_06.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_07.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_08.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_09.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_10.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_11.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_18.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_21.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_22.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_28.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_30.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_31.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_32.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_33.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_34.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_c_35.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_01.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_02.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_03.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_04.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_05.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_06.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_07.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_08.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_09.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_10.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_11.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_18.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_21.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_22.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_28.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_d_29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_01.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_02.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_03.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_04.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_05.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_06.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_07.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_08.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_09.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_10.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_11.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_12.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_13.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_14.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_15.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_16.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_17.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_18.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_19.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_20.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_21.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_22.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_23.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_24.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_25.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_26.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_27.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_28.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_29.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_30.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_31.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_32.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_33.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_34.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/2013_746_a_e_e_35.jpg)
+## Constituents
+### Name: Wang Gai
+### ID: 19460
+### Role: Artist
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3566056)
+## Department: Asian Art
+## Object Name: Illustrated books
+## Culture: Japan
+## History
+### Period: Edo period (1615–1868)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Wang Gai
+#### Display Name: Wang Gai
+### Bio: Chinese, 1645–1710
+### Dates Active
+#### Begin: 1645
+#### End: 1710
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3566056)
+#### [ULAN]((not assigned))
+## Dates
+### Object: ca. 1753
+### Begin: 1743
+### End: 1763
+## Medium: Set of five woodblock printed books; ink and color on paper
+## Size
+### Dimensions: each: 11 1/8 × 7 1/8 in. (28.3 × 18.1 cm)
+## Credit Line: Purchase, Mary and James G. Wallach Foundation Gift, 2013
+## Geography
+## Classification: Illustrated Books
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Books
+#### Trees
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300028051)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132410)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,61 @@
+# Title: [La Comtesse décolletée; Roses mousseuses]
+## Highlight: False
+## Accession
+### Number: 1975.548.272
+### Year: 1975.548.272
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ph/original/DP278747.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ph/web-large/DP278747.jpg)
+## Constituents
+### Name: Pierre-Louis Pierson
+### ID: 55615
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005033)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3383295)
+### Name: Countess Virginia Oldoini Verasis di Castiglione
+### ID: 41092
+### Role: Person in Photograph
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q276035)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Pierson, Pierre-Louis
+#### Display Name: Pierre-Louis Pierson
+### Bio: French, 1822–1913
+### Nationality: French
+### Dates Active
+#### Begin: 1822
+#### End: 1913
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3383295)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005033)
+## Dates
+### Object: 1861–67
+### Begin: 1861
+### End: 1867
+## Medium: Salted paper print from glass negative
+## Size
+### Dimensions: 44.8 x 29.2 cm (17 5/8 x 11 1/2 in.)
+## Credit Line: David Hunter McAlpin Fund, 1975
+## Geography
+## Classification: Photographs
+## Metadata Date: 2021-09-17T04:35:35.247Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Portraits
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

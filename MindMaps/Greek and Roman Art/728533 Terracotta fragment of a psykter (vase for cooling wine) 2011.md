@@ -1,0 +1,34 @@
+# Title: Terracotta fragment of a psykter (vase for cooling wine)
+## Highlight: False
+## Accession
+### Number: 2011.604.2.19
+### Year: 2011.604.2.19
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/gr/original/DVB08746_1_ff.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/gr/web-large/DVB08746_1_ff.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/gr/original/DVB08746_2_ff.jpg)
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Psykter fragment
+## Culture: Greek, Attic
+## History
+### Period: Archaic
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 520–500 B.C.
+### Begin: -530
+### End: -400
+## Medium: Terracotta
+## Size
+## Credit Line: Gift of Dietrich von Bothmer, Distinguished Research Curator, Greek and Roman Art, 2011
+## Geography
+## Classification: Vases
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 157

@@ -1,0 +1,60 @@
+# Title: Partie de la Piramide de Caius Cestius, Colonne Milliaire, Barque antique de marbre connue sous le nom de la Navicella, Colonne Rostrale, from Les Plus Beaux Monuments de Rome Ancienne ou Recueil des plus beaux Morceaux de l'Antiquité Romaine qui existent encore
+## Highlight: False
+## Accession
+### Number: 52.519.87(60)
+### Year: 52.519.87(60)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Probably after Jean Barbault
+### ID: 77414
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028029)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3170589)
+### Name: Dominico Montagu
+### ID: 99776
+### Role: Engraver
+### URLs
+### Name: Giunchi Heritiers de Komarek
+### ID: 99780
+### Role: Printer
+### URLs
+### Name: Bouchard &amp; Gravier
+### ID: 77415
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Probably after
+#### Alpha Sort: Barbault, Jean
+#### Display Name: Jean Barbault
+### Bio: French, Viarmes 1718–1762 Rome
+### Nationality: French
+### Dates Active
+#### Begin: 1718
+#### End: 1762
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3170589)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028029)
+## Dates
+### Object: 1761
+### Begin: 1761
+### End: 1761
+## Medium: Etching
+## Size
+### Dimensions: Plate: 9 × 11 7/16 in. (22.8 × 29 cm)
+## Credit Line: Rogers Fund, 1952
+## Geography
+### Type: Published in
+### City: Rome
+### Country: Italy
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

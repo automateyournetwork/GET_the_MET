@@ -1,0 +1,51 @@
+# Title: Girl in Mourning
+## Highlight: False
+## Accession
+### Number: 1984.315.61
+### Year: 1984.315.61
+## Public Domain: False
+## Images
+## Constituents
+### Name: Paul Klee
+### ID: 162035
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500010493)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q44007)
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Klee, Paul
+#### Display Name: Paul Klee
+### Bio: German (born Switzerland), Münchenbuchsee 1879–1940 Muralto-Locarno
+### Nationality: German, born Switzerland
+### Dates Active
+#### Begin: 1879
+#### End: 1940
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q44007)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500010493)
+## Dates
+### Object: 1939
+### Begin: 1939
+### End: 1939
+## Medium: Gouache, pastel, and charcoal on paper mounted on cardboard
+## Size
+### Dimensions: 26 1/8 × 19 3/4 in. (66.4 × 50.2 cm)
+## Credit Line: The Berggruen Klee Collection, 1984
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-12-02T04:36:26.17Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Girls
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300247581)
+### Wikipedia
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q19921073)
+## Timeline Work: False

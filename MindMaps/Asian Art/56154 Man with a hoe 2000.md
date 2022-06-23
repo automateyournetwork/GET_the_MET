@@ -1,0 +1,41 @@
+# Title: Man with a hoe
+## Highlight: False
+## Accession
+### Number: 2000.349.2
+### Year: 2000.349.2
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/DP-17390-001.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/DP-17390-001.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/DP-17390-002.jpg)
+## Constituents
+## Department: Asian Art
+## Object Name: Figure
+## Culture: China
+## History
+### Period: Tang dynasty (618–907)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 7th century
+### Begin: 618
+### End: 699
+## Medium: Earthenware with pigment
+## Size
+### Dimensions: H. 9 5/8 in. (24.4 cm); Gr. W.  3 1/4 in. (8.3 cm)
+## Credit Line: Rogers and Seymour Funds, 2000
+## Geography
+## Classification: Tomb Pottery
+## Metadata Date: 2021-03-16T15:35:04.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 207

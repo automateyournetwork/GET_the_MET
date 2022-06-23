@@ -1,0 +1,50 @@
+# Title: Copy of a Perspective Depiction of a Garden at Voorst with a Fountain Decorated with a Satyr and Nymph, from Liure de Fontaines
+## Highlight: False
+## Accession
+### Number: 67.539.99
+### Year: 67.539.99
+## Public Domain: False
+## Images
+## Constituents
+### Name: after Daniel Marot the Elder
+### ID: 164106
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500001794)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1161686)
+## Department: Drawings and Prints
+## Object Name: Prints Collection Ornament & Architecture
+## History
+## Portfolio: Liure de Fontaines
+## Artist
+### Role: Artist
+### Name
+#### Prefix: after
+#### Alpha Sort: Marot, Daniel, the Elder
+#### Display Name: Daniel Marot the Elder
+### Bio: French, Paris 1661–1752 The Hague
+### Nationality: French
+### Dates Active
+#### Begin: 1661
+#### End: 1752
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1161686)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500001794)
+## Dates
+### Object: after 1701–3
+### Begin: 1703
+### End: 1750
+## Medium: Etching
+## Size
+### Dimensions: Sheet: 7 11/16 × 11 11/16 in. (19.5 × 29.7 cm)
+Plate: 6 7/8 × 10 7/8 in. (17.5 × 27.6 cm)
+## Credit Line: Purchase, Harry G. Friedman Bequest, 1967
+## Geography
+### Type: Published in
+### City: The Hague
+### Country: The Netherlands
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

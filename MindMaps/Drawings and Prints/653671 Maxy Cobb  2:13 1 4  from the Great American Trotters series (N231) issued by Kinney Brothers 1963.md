@@ -1,0 +1,40 @@
+# Title: Maxy Cobb, 2:13 1/4, from the Great American Trotters series (N231) issued by Kinney Brothers
+## Highlight: False
+## Accession
+### Number: 63.350.218.231.3
+### Year: 63.350.218.231.3
+## Public Domain: False
+## Images
+## Constituents
+### Name: Issued by Kinney Brothers Tobacco Company
+### ID: 175376
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Prefix: Issued by
+#### Alpha Sort: Kinney Brothers Tobacco Company
+#### Display Name: Kinney Brothers Tobacco Company
+### Nationality: American
+### Dates Active
+#### Begin: 1869
+#### End: 2011
+### URLs
+## Dates
+### Object: 1889–90
+### Begin: 1889
+### End: 1890
+## Medium: Commercial color lithograph
+## Size
+### Dimensions: Sheet: 1 7/16 × 2 3/4 in. (3.6 × 7 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-12-30T04:37:58.547Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

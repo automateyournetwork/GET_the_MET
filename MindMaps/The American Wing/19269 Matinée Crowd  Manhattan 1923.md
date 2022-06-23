@@ -1,0 +1,57 @@
+# Title: Matinée Crowd, Manhattan
+## Highlight: False
+## Accession
+### Number: 23.230.5
+### Year: 23.230.5
+## Public Domain: False
+## Images
+## Constituents
+### Name: Everett Shinn
+### ID: 162410
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004443)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1254856)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Shinn, Everett
+#### Display Name: Everett Shinn
+### Bio: American, Woodstown, New Jersey 1876–1953 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1876
+#### End: 1953
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1254856)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500004443)
+## Dates
+### Object: 1904
+### Begin: 1904
+### End: 1904
+## Medium: Pastel and gouache on illustration board
+## Size
+### Dimensions: 18 1/4 x 11 in. (46.4 x 27.9 cm)
+## Credit Line: Gift of A. E. Gallatin, 1923
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Buildings
+#### Streets
+#### Crowd
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300004789)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008247)
+#### [AAT URL](None)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q19923768)
+## Timeline Work: False

@@ -1,0 +1,31 @@
+# Title: Bone or ivory fragments
+## Highlight: False
+## Accession
+### Number: 2011.604.23.3a, b
+### Year: 2011.604.23.3a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/gr/original/DVB16251_1_ff.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/gr/web-large/DVB16251_1_ff.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/gr/original/DVB16251_2_ff.jpg)
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Bone or ivory fragments
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 6th–4th centuries? B.C.
+### Begin: -700
+### End: -300
+## Medium: Bone
+## Size
+## Credit Line: Gift of Dietrich von Bothmer, Distinguished Research Curator, Greek and Roman Art, 2011
+## Geography
+## Classification: Miscellaneous-Bone, Ivory
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

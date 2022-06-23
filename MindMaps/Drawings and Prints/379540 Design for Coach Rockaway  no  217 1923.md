@@ -1,0 +1,50 @@
+# Title: Design for Coach Rockaway, no. 217
+## Highlight: False
+## Accession
+### Number: 23.112.1473
+### Year: 23.112.1473
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP878039.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP878039.jpg)
+## Constituents
+### Name: Brewster &amp; Co.
+### ID: 165171
+### Role: Manufacturer
+### URLs
+### Name: John W. Britton
+### ID: 99193
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Manufacturer
+### Name
+#### Alpha Sort: Brewster & Co.
+#### Display Name: Brewster & Co.
+### Bio: American, New York
+### Nationality: American
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1865
+### Begin: 1860
+### End: 1870
+## Medium: Graphite and ink
+## Size
+### Dimensions: 6 x 10 in. (15.2 x 25.4 cm)
+## Credit Line: Gift of William Brewster, 1923
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Carriages
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300185335)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

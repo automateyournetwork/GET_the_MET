@@ -1,0 +1,42 @@
+# Title: Colonial Virginia Currency Six Dollars
+## Highlight: False
+## Accession
+### Number: 24.90.1560
+### Year: 24.90.1560
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anonymous, American, 18th century
+### ID: 100039
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, American, 18th century
+#### Display Name: Anonymous, American, 18th century
+### Dates Active
+#### Begin: 1700
+#### End: 1800
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4233718)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500397994)
+## Dates
+### Object: 1777
+### Begin: 1772
+### End: 1782
+## Medium: Engraving and letterpress
+## Size
+### Dimensions: Sheet: 3 3/4 × 2 11/16 in. (9.5 × 6.9 cm)
+## Credit Line: Bequest of Charles Allen Munn, 1924
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-03-02T04:41:59.5Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

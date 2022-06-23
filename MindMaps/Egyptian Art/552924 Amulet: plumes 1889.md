@@ -1,0 +1,35 @@
+# Title: Amulet: plumes
+## Highlight: False
+## Accession
+### Number: 89.2.302
+### Year: 89.2.302
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/89.2.302_acc.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/89.2.302_acc.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulet, plumes
+## History
+### Period: Late Period
+### Dynasty: Dynasty 26–30
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 664–332 B.C.
+### Begin: -664
+### End: -343
+## Medium: Serpentinite
+## Size
+### Dimensions: L. 2.2 cm (7/8 in)
+## Credit Line: Gift of Joseph W. Drexel, 1889
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2021-06-11T04:39:55.907Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 130

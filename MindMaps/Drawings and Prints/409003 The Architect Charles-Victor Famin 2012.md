@@ -1,0 +1,55 @@
+# Title: The Architect Charles-Victor Famin
+## Highlight: False
+## Accession
+### Number: 2012.150.15
+### Year: 2012.150.15
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP823929.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP823929.jpg)
+## Constituents
+### Name: Jean Auguste Dominique Ingres
+### ID: 162005
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028037)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q23380)
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Ingres, Jean Auguste Dominique
+#### Display Name: Jean Auguste Dominique Ingres
+### Bio: French, Montauban 1780–1867 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1780
+#### End: 1867
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q23380)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028037)
+## Dates
+### Object: 1836
+### Begin: 1836
+### End: 1836
+## Medium: Graphite on wove paper
+## Size
+### Dimensions: Sheet: 8 3/4 x 6 15/16 in. (22.3 x 17.7 cm)
+## Credit Line: Gift of Mrs. Charles Wrightsman, 2012
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,34 @@
+# Title: Fragment with bird
+## Highlight: False
+## Accession
+### Number: 08.256.307
+### Year: 08.256.307
+## Public Domain: False
+## Images
+## Constituents
+## Department: Islamic Art
+## Object Name: Fragment
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 12th–13th century
+### Begin: 1100
+### End: 1299
+## Medium: Earthenware; molded
+## Size
+### Dimensions: H. 11/16 in. (1.7 cm)
+W. 4 1/8 in. (10.5 cm)
+D. 3 1/8 in. (7.9 cm)
+Wt. 1.9 oz. (53.87 g)
+## Credit Line: Rogers Fund, 1908
+## Geography
+### Type: Attributed to
+### Country: Syria
+## Classification: Ceramics
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,46 @@
+# Title: Concentric Circles, NYC
+## Highlight: False
+## Accession
+### Number: 2012.277.1
+### Year: 2012.277.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Louis Stettner
+### ID: 54803
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500346951)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3263136)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Stettner, Louis
+#### Display Name: Louis Stettner
+### Bio: American, New York 1922–2016 Saint-Ouen, France
+### Nationality: American
+### Dates Active
+#### Begin: 1922
+#### End: 2016
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3263136)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500346951)
+## Dates
+### Object: 1951, printed 2012
+### Begin: 1951
+### End: 1951
+## Medium: Gelatin silver print
+## Size
+### Dimensions: Image: 29.1 x 43.5 cm (11 7/16 x 17 1/8 in.)
+Sheet: 40.6 x 50.8 cm (16 x 20 in.)
+## Credit Line: Gift of Louis Stettner, 2012
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © Louis Stettner
+## Metadata Date: 2021-09-17T04:35:35.247Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

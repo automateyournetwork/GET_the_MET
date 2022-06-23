@@ -1,0 +1,33 @@
+# Title: Scarab of Sebekhotep
+## Highlight: False
+## Accession
+### Number: 03.5.24
+### Year: 03.5.24
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Scarab, Sebekhotep
+## History
+### Period: Middle Kingdom–Second Intermediate Period
+### Dynasty: Dynasty 13
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1802–1575 B.C.
+### Begin: -1807
+### End: -1797
+## Medium: Steatite
+## Size
+### Dimensions: L. 1.6 cm (5/8 in.)
+## Credit Line: Gift of John L. Cadwalader, 1903
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2021-07-29T04:41:18.383Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 109

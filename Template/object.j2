@@ -1,0 +1,218 @@
+# Title: {{ art_to_template.title }}
+{%- if art_to_template.isHighlight != "" %}
+## Highlight: {{ art_to_template.isHighlight }}
+{%- endif %}
+## Accession
+{%- if art_to_template.accessionNumber != "" %}
+### Number: {{ art_to_template.accessionNumber }}
+{%- endif %}
+{%- if art_to_template.accessionNumber != "" %}
+### Year: {{ art_to_template.accessionNumber }}
+{%- endif %}
+{%- if art_to_template.isPublicDomain != "" %}
+## Public Domain: {{ art_to_template.isPublicDomain }}
+{%- endif %}
+## Images
+{%- if art_to_template.primaryImage != "" %}
+### [Primary]({{ art_to_template.primaryImage }})
+{%- endif %}
+{%- if art_to_template.primaryImageSmall != "" %}
+### [Small Primary]({{ art_to_template.primaryImageSmall }})
+{%- endif %}
+{%- if art_to_template.additionalImages is not none %}
+{%-     for image in art_to_template.additionalImages %}
+### [Additional Image]({{ image }})
+{%-     endfor %}
+{%- endif %}
+## Constituents
+{%- if art_to_template.constituents is not none %}
+{%-     for image in art_to_template.constituents %}
+{%-         if image.name != "" %}
+### Name: {{ image.name }}
+{%-         endif %}
+{%-         if image.constituentID != "" %}
+### ID: {{ image.constituentID }}
+{%-         endif %}
+{%-         if image.role != "" %}
+### Role: {{ image.role }}
+{%-         endif %}
+### URLs
+{%-         if image.constituentULAN_URL != "" %}
+#### [ULAN]({{ image.constituentULAN_URL }})
+{%-         endif %}
+{%-         if image.constituentWikidata_URL != "" %}
+#### [Wikipedia]({{ image.constituentWikidata_URL }})
+{%-         endif %}
+{%-         if image.gender != "" %}
+### Gender: {{ image.gender }}
+{%-         endif %}
+{%-     endfor %}
+{%- endif %}
+## Department: {{ art_to_template.department }}
+{%- if art_to_template.objectName != "" %}
+## Object Name: {{ art_to_template.objectName }}
+{%- endif %}
+{%- if art_to_template.culture != "" %}
+## Culture: {{ art_to_template.culture }}
+{%- endif %}
+## History
+{%- if art_to_template.period != "" %}
+### Period: {{ art_to_template.period }}
+{%- endif %}
+{%- if art_to_template.dynasty != "" %}
+### Dynasty: {{ art_to_template.dynasty }}
+{%- endif %}
+{%- if art_to_template.reign != "" %}
+### Reign: {{ art_to_template.reign }}
+{%- endif %}
+{%- if art_to_template.portfolio != "" %}
+## Portfolio: {{ art_to_template.portfolio }}
+{%- endif %}
+## Artist
+{%- if art_to_template.artistRole != "" %}
+### Role: {{ art_to_template.artistRole }}
+{%- endif %}
+### Name
+{%- if art_to_template.artistPrefix != "" %}
+#### Prefix: {{ art_to_template.artistPrefix }}
+{%- endif %}
+{%- if art_to_template.artistSuffix != "" %}
+#### Suffix: {{ art_to_template.artistSuffix }}
+{%- endif %}
+{%- if art_to_template.artistAlphaSort != "" %}
+#### Alpha Sort: {{ art_to_template.artistAlphaSort }}
+{%- endif %}
+{%- if art_to_template.artistDisplayName != "" %}
+#### Display Name: {{ art_to_template.artistDisplayName }}
+{%- endif %}
+{%- if art_to_template.artistDisplayBio != "" %}
+### Bio: {{ art_to_template.artistDisplayBio }}
+{%- endif %}
+{%- if art_to_template.artistNationality != "" %}
+### Nationality: {{ art_to_template.artistNationality }}
+{%- endif %}
+### Dates Active
+{%- if art_to_template.artistBeginDate != "" %}
+#### Begin: {{ art_to_template.artistBeginDate }}
+{%- endif %}
+{%- if art_to_template.artistEndDate != "" %}
+#### End: {{ art_to_template.artistEndDate }}
+{%- endif %}
+{%- if art_to_template.artistGender != "" %}
+### Gender: {{ art_to_template.artistGender }}
+{%- endif %}
+### URLs
+{%- if art_to_template.artistWikidata_URL != "" %}
+#### [Wikipedia]({{ art_to_template.artistWikidata_URL }})
+{%- endif %}
+{%- if art_to_template.artistULAN_URL != "" %}
+#### [ULAN]({{ art_to_template.artistULAN_URL }})
+{%- endif %}
+## Dates
+{%- if art_to_template.objectDate != "" %}
+### Object: {{ art_to_template.objectDate }}
+{%- endif %}
+{%- if art_to_template.objectBeginDate != "" %}
+### Begin: {{ art_to_template.objectBeginDate }}
+{%- endif %}
+{%- if art_to_template.objectEndDate != "" %}
+### End: {{ art_to_template.objectEndDate }}
+{%- endif %}
+{%- if art_to_template.medium != "" %}
+## Medium: {{ art_to_template.medium }}
+{%- endif %}
+## Size
+{%- if art_to_template.dimensions != "" %}
+### Dimensions: {{ art_to_template.dimensions }}
+{%- endif %}
+{%- if art_to_template.measurements.elementMeasurements is defined %}
+### Measurements
+{%-     if art_to_template.elementMeasurements.Depth != "" %}
+#### Depth: {{ art_to_template.measurements.elementMeasurements.Depth }}
+{%-     endif %}
+{%-     if art_to_template.elementMeasurements.Height != "" %}
+#### Height: {{ art_to_template.measurements.elementMeasurements.Height }}
+{%-     endif %}
+{%- endif %}
+{%- if art_to_template.creditLine != "" %}
+## Credit Line: {{ art_to_template.creditLine }}
+{%- endif %}
+## Geography
+{%- if art_to_template.geographyType != "" %}
+### Type: {{ art_to_template.geographyType }}
+{%- endif %}
+{%- if art_to_template.city != "" %}
+### City: {{ art_to_template.city }}
+{%- endif %}
+{%- if art_to_template.state != "" %}
+### State: {{ art_to_template.state }}
+{%- endif %}
+{%- if art_to_template.county != "" %}
+### County: {{ art_to_template.county }}
+{%- endif %}
+{%- if art_to_template.country != "" %}
+### Country: {{ art_to_template.country }}
+{%- endif %}
+{%- if art_to_template.region != "" %}
+### Region: {{ art_to_template.region }}
+{%- endif %}
+{%- if art_to_template.subregion != "" %}
+### Sub-Region: {{ art_to_template.subregion }}
+{%- endif %}
+{%- if art_to_template.locale != "" %}
+### Locale: {{ art_to_template.locale }}
+{%- endif %}
+{%- if art_to_template.locus != "" %}
+## Locus: {{ art_to_template.locus }}
+{%- endif %}
+{%- if art_to_template.excavation != "" %}
+## Excavation: {{ art_to_template.excavation }}
+{%- endif %}
+{%- if art_to_template.river != "" %}
+## River: {{ art_to_template.river }}
+{%- endif %}
+{%- if art_to_template.classification != "" %}
+## Classification: {{ art_to_template.classification }}
+{%- endif %}
+{%- if art_to_template.rightsAndReproduction != "" %}
+## Rights and Reproduction: {{ art_to_template.rightsAndReproduction }}
+{%- endif %}
+{%- if art_to_template.linkResource != "" %}
+## [Link to Resource]({{ art_to_template.linkResource }})
+{%- endif %}
+{%- if art_to_template.metadataDate != "" %}
+## Metadata Date: {{ art_to_template.metadataDate }}
+{%- endif %}
+{%- if art_to_template.repository != "" %}
+## Respository: {{ art_to_template.repository }}
+{%- endif %}
+## Tags
+{%- if art_to_template.tags is not none %}
+### Terms
+{%-     for tag in art_to_template.tags %}
+{%-         if tag.term != "" %}
+#### {{ tag.term }}
+{%-         endif %}
+{%-     endfor %}
+### AAT
+{%-     for tag in art_to_template.tags %}
+{%-         if tag.AAT_URL != "" %}
+#### [AAT URL]({{ tag.AAT_URL }})
+{%-         endif %}
+{%-     endfor %}
+### Wikipedia
+{%-     for tag in art_to_template.tags %}
+{%-         if tag.Wikipedia_URL != "" %}
+#### [Wikipedia]({{ tag.Wikipedia_URL }})
+{%-         endif %}
+{%-     endfor %}
+{%- endif %}
+{%- if art_to_template.objectWikidata_URL != "" %}
+## [Wikipedia]({{ art_to_template.objectWikidata_URL }})
+{%- endif %}
+{%- if art_to_template.isTimelineWork != "" %}
+## Timeline Work: {{ art_to_template.isTimelineWork }}
+{%- endif %}
+{%- if art_to_template.GalleryNumber != "" %}
+## Gallery Number: {{ art_to_template.GalleryNumber }}
+{%- endif %}

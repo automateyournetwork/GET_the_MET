@@ -1,0 +1,31 @@
+# Title: Dagger with Hilt
+## Highlight: False
+## Accession
+### Number: 1998.544.14
+### Year: 1998.544.14
+## Public Domain: False
+## Images
+## Constituents
+## Department: Asian Art
+## Object Name: Dagger with hilt
+## Culture: Indonesia (Java)
+## History
+### Period: Central Javanese period
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: Second half of the 8th–second half of the 10th century
+### Begin: 750
+### End: 935
+## Medium: Iron and gold
+## Size
+### Dimensions: H. 7 3/4 in. (19.7 cm)
+## Credit Line: The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998.
+## Geography
+## Classification: Metalwork
+## Metadata Date: 2020-04-02T14:22:10.83Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

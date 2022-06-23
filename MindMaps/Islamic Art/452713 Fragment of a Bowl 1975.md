@@ -1,0 +1,41 @@
+# Title: Fragment of a Bowl
+## Highlight: False
+## Accession
+### Number: 1975.31.8
+### Year: 1975.31.8
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/is/original/sf1975-31-8a.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/is/web-large/sf1975-31-8a.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf1975-31-8b.jpg)
+## Constituents
+## Department: Islamic Art
+## Object Name: Fragment of a bowl
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 10th–12th century
+### Begin: 900
+### End: 1199
+## Medium: Stonepaste; luster-painted
+## Size
+### Dimensions: Gr. H. 3 1/8 in. (7.9 cm)
+Gr. W. 3 11/16 in. (9.4 cm)
+## Credit Line: Fletcher Fund, 1975
+## Geography
+### Type: Made in
+### Country: Egypt
+## Classification: Ceramics
+## Metadata Date: 2021-07-16T04:41:38.683Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

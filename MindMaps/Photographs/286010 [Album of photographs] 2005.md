@@ -1,0 +1,46 @@
+# Title: [Album of photographs]
+## Highlight: False
+## Accession
+### Number: 2005.100.372.1–.32
+### Year: 2005.100.372.1–.32
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ph/original/DP132549.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ph/web-large/DP132549.jpg)
+## Constituents
+### Name: Louis-Pierre-Théophile Dubois de Nehaut
+### ID: 56342
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500084627)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q38041043)
+## Department: Photographs
+## Object Name: Album
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Dubois de Nehaut, Louis-Pierre-Théophile
+#### Display Name: Louis-Pierre-Théophile Dubois de Nehaut
+### Bio: French, active Belgium, 1799–1872
+### Nationality: Belgian
+### Dates Active
+#### Begin: 1799
+#### End: 1872
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q38041043)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500084627)
+## Dates
+### Object: 1854–56
+### Begin: 1854
+### End: 1856
+## Medium: 32 salted paper prints, waxed salted paper prints, and albumen silver prints from paper and glass negatives
+## Size
+### Dimensions: 5 3/4 x 7 5/8 to 9 1/4 x 12
+## Credit Line: Gilman Collection, Gift of The Howard Gilman Foundation, 2005
+## Geography
+## Classification: Albums
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

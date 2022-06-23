@@ -1,0 +1,66 @@
+# Title: Decorated Roman alphabet
+## Highlight: False
+## Accession
+### Number: 63.513.3
+### Year: 63.513.3
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP855611.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP855611.jpg)
+## Constituents
+### Name: Jeremias Wachsmuth
+### ID: 75893
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500047610)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q38120604)
+### Name: Martin Engelbrecht
+### ID: 77559
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500008821)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1903690)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Wachsmuth, Jeremias
+#### Display Name: Jeremias Wachsmuth
+### Bio: German, 1712–1771
+### Dates Active
+#### Begin: 1712
+#### End: 1771
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q38120604)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500047610)
+## Dates
+### Object: 18th century
+### Begin: 1700
+### End: 1799
+## Medium: Engraving
+## Size
+### Dimensions: Sheet: 6 15/16 × 9 7/16 in. (17.6 × 24 cm)
+## Credit Line: Purchase, Mrs. John D. Gordon Gift, in memory of William M. Ivins Jr., 1963
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Women
+#### Insects
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300310470)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,44 @@
+# Title: Montagnain: The Departure for the Hunt
+## Highlight: False
+## Accession
+### Number: 46.49.25
+### Year: 46.49.25
+## Public Domain: False
+## Images
+## Constituents
+### Name: Arthur Burdett Frost
+### ID: 163667
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003202)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2865030)
+## Department: Drawings and Prints
+## Object Name: Block
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Frost, Arthur Burdett
+#### Display Name: Arthur Burdett Frost
+### Bio: American, Philadelphia, Pennsylvania 1851–1928 Pasadena, California
+### Nationality: American
+### Dates Active
+#### Begin: 1851
+#### End: 1928
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2865030)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500003202)
+## Dates
+### Object: 1870–1928
+### Begin: 1870
+### End: 1928
+## Medium: Woodblock
+## Size
+### Dimensions: block: 2 1/4 x 5 13/16 x 7/8 in. (5.7 x 14.8 x 2.2 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1946
+## Geography
+## Classification: Blocks
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

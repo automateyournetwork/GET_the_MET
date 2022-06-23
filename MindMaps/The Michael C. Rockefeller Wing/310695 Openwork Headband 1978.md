@@ -1,0 +1,33 @@
+# Title: Openwork Headband
+## Highlight: False
+## Accession
+### Number: 1978.412.251
+### Year: 1978.412.251
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ao/original/221102.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ao/web-large/221102.jpg)
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Headband
+## Culture: Chancay
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 12th–15th century
+### Begin: 1100
+### End: 1500
+## Medium: Cotton
+## Size
+### Dimensions: H. 61 1/2 x W. 90 1/2 in. (156.2 x 229.9 cm)
+## Credit Line: The Michael C. Rockefeller Memorial Collection, Gift of Arthur M. Bullowa, 1975
+## Geography
+### Country: Peru
+## Classification: Textiles-Non-Woven
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

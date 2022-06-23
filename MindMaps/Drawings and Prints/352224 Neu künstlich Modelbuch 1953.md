@@ -1,0 +1,101 @@
+# Title: Neu künstlich Modelbuch
+## Highlight: False
+## Accession
+### Number: 53.566.1(1-47)
+### Year: 53.566.1(1-47)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP364110.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP364110.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364113.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364119.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364120.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364121.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364122.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364148.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364150.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364152.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364173.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364174.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364172.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364175.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364176.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364177.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364178.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364179.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364180.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP359637.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364181.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364182.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364183.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364184.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364185.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364186.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364187.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364188.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364189.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364190.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364191.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364192.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364193.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364194.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364195.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364196.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364197.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364198.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364199.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364200.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364201.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364202.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364203.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364204.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364205.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364206.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364207.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364208.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364209.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364210.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP364211.jpg)
+## Constituents
+### Name: Bernhard Jobin
+### ID: 83419
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2660980)
+## Department: Drawings and Prints
+## Object Name: Books Prints Ornament & Architecture
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Alpha Sort: Jobin, Bernhard
+#### Display Name: Bernhard Jobin
+### Bio: Swiss, Porrentruy (Jura) before 1545–1593/1597 Strasbourg
+### Nationality: Swiss
+### Dates Active
+#### Begin: 1535
+#### End: 1597
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2660980)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1598 (?)
+### Begin: 1598
+### End: 1598
+## Medium: Woodcut
+## Size
+### Dimensions: Overall: 6 1/8 x 7 7/8 in. (15.5 x 20 cm)
+## Credit Line: Gift of Mary M. Greenwood, in memory of Eliza Rudd Greenwood, 1953
+## Geography
+## Classification: Books
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Books
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300028051)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,51 @@
+# Title: Cocktail dress
+## Highlight: False
+## Accession
+### Number: 1979.424.1
+### Year: 1979.424.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Ceil Chapman
+### ID: 20558
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5057360)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Cocktail Dress
+## Culture: American
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Chapman Ceil
+#### Display Name: Ceil Chapman
+### Bio: American, born 1912
+### Nationality: American
+### Dates Active
+#### Begin: 1912
+#### End: 1979
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q5057360)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1950–53
+### Begin: 1950
+### End: 1953
+## Medium: rayon
+## Size
+## Credit Line: Gift of Ann M. Kivlan, 1979
+## Geography
+## Metadata Date: 2021-09-18T04:35:34.043Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

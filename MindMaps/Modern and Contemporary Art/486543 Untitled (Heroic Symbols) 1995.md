@@ -1,0 +1,58 @@
+# Title: Untitled (Heroic Symbols)
+## Highlight: False
+## Accession
+### Number: 1995.14.2
+### Year: 1995.14.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anselm Kiefer
+### ID: 162033
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500047395)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q170344)
+## Department: Modern and Contemporary Art
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Kiefer, Anselm
+#### Display Name: Anselm Kiefer
+### Bio: German, born Donaueschingen, 1945
+### Nationality: German
+### Dates Active
+#### Begin: 1945
+#### End: 2045
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q170344)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500047395)
+## Dates
+### Object: ca. 1969
+### Begin: 1964
+### End: 1974
+## Medium: Watercolor, gouache, and charcoal on paper
+## Size
+### Dimensions: 14 7/8 x 17 7/8 in. (37.8 x 45.4 cm)
+## Credit Line: Purchase, Lila Acheson Wallace Gift, 1995
+## Geography
+## Classification: Drawings
+## Rights and Reproduction: © Anselm Kiefer
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Landscapes
+#### Trees
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132294)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132410)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q19922173)
+## Timeline Work: False

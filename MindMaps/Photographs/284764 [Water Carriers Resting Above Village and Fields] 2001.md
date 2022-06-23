@@ -1,0 +1,46 @@
+# Title: [Water Carriers Resting Above Village and Fields]
+## Highlight: False
+## Accession
+### Number: 2001.618.6
+### Year: 2001.618.6
+## Public Domain: False
+## Images
+## Constituents
+### Name: Marc Riboud
+### ID: 55894
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500067675)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q702625)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Riboud, Marc
+#### Display Name: Marc Riboud
+### Bio: French, St.-Genis-Laval 1923–2016 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1923-06-24
+#### End: 2016-08-30
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q702625)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500067675)
+## Dates
+### Object: 1965–72
+### Begin: 1965
+### End: 1972
+## Medium: Gelatin silver print
+## Size
+### Dimensions: Image: 73 x 111 cm (28 3/4 x 43 11/16 in.)
+Sheet: 33 3/4 in. × 50 in. (85.7 × 127 cm)
+## Credit Line: Gift of the artist, 1996
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © Marc Riboud
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

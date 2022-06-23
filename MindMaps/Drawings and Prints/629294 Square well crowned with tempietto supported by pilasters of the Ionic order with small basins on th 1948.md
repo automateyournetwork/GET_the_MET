@@ -1,0 +1,67 @@
+# Title: Square well crowned with tempietto supported by pilasters of the Ionic order with small basins on the corners, from Small Wells, plate 1
+## Highlight: False
+## Accession
+### Number: 48.13.4(7)
+### Year: 48.13.4(7)
+## Public Domain: False
+## Images
+## Constituents
+### Name: after Hans Vredeman de Vries
+### ID: 165065
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006358)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q944332)
+### Name: Johannes van Doetecum I
+### ID: 72154
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500055787)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q18129846)
+### Name: Lucas van Doetecum
+### ID: 72155
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500055788)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q18516699)
+### Name: Philips Galle
+### ID: 164037
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500016136)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1379395)
+## Department: Drawings and Prints
+## Object Name: Print ornament & architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: after
+#### Alpha Sort: Vredeman de Vries, Hans
+#### Display Name: Hans Vredeman de Vries
+### Bio: Netherlandish, Leeuwarden 1527–1606 (?)  Antwerp (?)
+### Nationality: Netherlandish
+### Dates Active
+#### Begin: 1527
+#### End: 1606
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q944332)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006358)
+## Dates
+### Object: ca. 1574
+### Begin: 1569
+### End: 1579
+## Medium: Etching; second state of three (Hollstein)
+## Size
+### Dimensions: Plate: 8 × 5 11/16 in. (20.3 × 14.5 cm)
+Sheet: 10 9/16 × 7 3/8 in. (26.9 × 18.8 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948
+## Geography
+### Type: Published in
+### City: Antwerp
+### Country: Belgium
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

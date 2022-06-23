@@ -1,0 +1,52 @@
+# Title: Scarab Inscribed for the Female Horus Wosretkau (Hatshepsut)
+## Highlight: False
+## Accession
+### Number: 27.3.283
+### Year: 27.3.283
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/27.3.283_bot.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/27.3.283_bot.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/27.3.283_side.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/27.3.283_top.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Scarab; Wosretkau, female Horus; simple back
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18, early
+### Reign: Joint reign of Hatshepsut and Thutmose III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1479–1458 B.C.
+### Begin: -1473
+### End: -1458
+## Medium: Steatite (glazed)
+## Size
+### Dimensions: L. 1.5 × W. 1.1 cm (9/16 × 7/16 in.)
+## Credit Line: Rogers Fund, 1927
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Deir el-Bahri
+### Locale: Temple of Hatshepsut
+## Locus: Foundation Deposit 7 (G)
+## Excavation: MMA excavations, 1926–27
+## Metadata Date: 2021-04-04T04:57:29.037Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Scarabs
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300230813)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 116

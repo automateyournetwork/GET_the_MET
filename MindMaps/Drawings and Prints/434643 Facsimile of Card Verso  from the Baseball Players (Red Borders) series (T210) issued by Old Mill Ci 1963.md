@@ -1,0 +1,37 @@
+# Title: Facsimile of Card Verso, from the Baseball Players (Red Borders) series (T210) issued by Old Mill Cigarettes
+## Highlight: False
+## Accession
+### Number: 63.350.246.210.1
+### Year: 63.350.246.210.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Issued by Old Mill Cigarettes, Virginia
+### ID: 107109
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Baseball card, print
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Prefix: Issued by
+#### Alpha Sort: Old Mill Cigarettes
+#### Display Name: Old Mill Cigarettes, Virginia
+### Dates Active
+### URLs
+## Dates
+### Object: 1910
+### Begin: 1910
+### End: 1910
+## Medium: Photolithograph
+## Size
+### Dimensions: Sheet: 2 5/8 × 1 1/2 in. (6.7 × 3.8 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

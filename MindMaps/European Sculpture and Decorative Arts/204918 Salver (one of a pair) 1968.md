@@ -1,0 +1,48 @@
+# Title: Salver (one of a pair)
+## Highlight: False
+## Accession
+### Number: 68.141.110
+### Year: 68.141.110
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP-16452-025.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP-16452-025.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/193521.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/193522.jpg)
+## Constituents
+### Name: Paul de Lamerie
+### ID: 34470
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025790)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1751768)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Salver
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Lamerie, Paul
+#### Display Name: Paul de Lamerie
+### Bio: British, 1688–1751, active 1712–51
+### Nationality: British
+### Dates Active
+#### Begin: 1688
+#### End: 1751
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1751768)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500025790)
+## Dates
+### Object: 1730
+### Begin: 1730
+### End: 1730
+## Medium: Silver
+## Size
+### Dimensions: each: 8 3/8 × 8 3/8 in. (21.3 × 21.3 cm)
+## Credit Line: Gift of Irwin Untermyer, 1968
+## Geography
+## Classification: Metalwork-Silver
+## Metadata Date: 2021-05-01T04:39:30.07Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

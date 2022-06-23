@@ -1,0 +1,48 @@
+# Title: View of Sintra with the Castanheiros hills in the background
+## Highlight: False
+## Accession
+### Number: 2020.145
+### Year: 2020.145
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP-19561-001.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP-19561-001.jpg)
+## Constituents
+### Name: Clementine de Brelaz
+### ID: 211306
+### Role: Artist
+### URLs
+### Gender: Female
+### Name: Manuel Luis
+### ID: 211374
+### Role: Lithographer
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Brelaz, Clementine de
+#### Display Name: Clementine de Brelaz
+### Bio: Portuguese, 1811–1892
+### Dates Active
+#### Begin: 1811
+#### End: 1892
+### Gender: Female
+### URLs
+## Dates
+### Object: 1840
+### Begin: 1840
+### End: 1840
+## Medium: Lithograph on chinecollé on a larger support sheet
+## Size
+### Dimensions: Sheet (Support sheet): 13 9/16 in. × 21 in. (34.5 × 53.4 cm)
+Sheet (Sheet with image): 7 7/8 in. × 12 in. (20 × 30.5 cm)
+## Credit Line: Purchase, Friends of Drawings and Prints Acquisition Gift Fund, 2020
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

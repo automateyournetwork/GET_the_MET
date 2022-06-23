@@ -1,0 +1,54 @@
+# Title: Valentina, The Fastest
+## Highlight: False
+## Accession
+### Number: 1997.230.1
+### Year: 1997.230.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Vik Muniz
+### ID: 164463
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500114657)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1288454)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Muniz, Vik
+#### Display Name: Vik Muniz
+### Bio: Brazilian, born Sao Paulo, 1961
+### Nationality: Brazilian
+### Dates Active
+#### Begin: 1961
+#### End: 9999
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1288454)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500114657)
+## Dates
+### Object: 1996
+### Begin: 1996
+### End: 1996
+## Medium: Gelatin silver print
+## Size
+### Dimensions: 33.9 x 26.7 cm (13 3/8 x 10 1/2 in. )
+## Credit Line: Purchase, Anonymous Gift, 1997
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © Vik Muniz
+## Metadata Date: 2021-09-17T04:35:35.247Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Girls
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300247581)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,51 @@
+# Title: "Transat" Serving Dish
+## Highlight: False
+## Accession
+### Number: 1985.430.5
+### Year: 1985.430.5
+## Public Domain: False
+## Images
+## Constituents
+### Name: Luc Lanel
+### ID: 149502
+### Role: Designer
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q37999505)
+### Name: Christofle
+### ID: 149496
+### Role: Manufacturer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500254218)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q877056)
+## Department: Modern and Contemporary Art
+## Object Name: Serving dish
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Lanel, Luc
+#### Display Name: Luc Lanel
+### Bio: French, 1894–1966
+### Nationality: French
+### Dates Active
+#### Begin: 1894
+#### End: 1966
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q37999505)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1933
+### Begin: 1933
+### End: 1933
+## Medium: Silver-plated metal
+## Size
+### Dimensions: H.1-1/2, W.6-3/4, D.5-1/4 inches
+(3.8 x 17.1 x 13.3 cm.)
+## Credit Line: Gift of Mr. and Mrs. Michael Chow, 1985
+## Geography
+## Classification: Metalwork-Silver
+## Metadata Date: 2020-11-25T04:35:32.35Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

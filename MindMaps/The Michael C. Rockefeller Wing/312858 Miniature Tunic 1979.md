@@ -1,0 +1,35 @@
+# Title: Miniature Tunic
+## Highlight: False
+## Accession
+### Number: 1979.206.671
+### Year: 1979.206.671
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ao/original/DP18380.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ao/web-large/DP18380.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ao/original/DP18381.jpg)
+## Constituents
+## Department: The Michael C. Rockefeller Wing
+## Object Name: Miniature tunic
+## Culture: Ica
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 12th–13th century
+### Begin: 1100
+### End: 1300
+## Medium: Cotton, feathers
+## Size
+### Dimensions: H. 7 3/8 x  W. 6 7/8 in. (18.8 x 17.5 cm)
+## Credit Line: The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979
+## Geography
+### Country: Peru
+### Region: Ica Valley
+## Classification: Textiles-Featherwork
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

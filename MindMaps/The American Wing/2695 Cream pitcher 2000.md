@@ -1,0 +1,56 @@
+# Title: Cream pitcher
+## Highlight: False
+## Accession
+### Number: 2000.509.1
+### Year: 2000.509.1
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/DP207754.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/DP207754.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ad/original/2000.509.1;.2a,b.jpg)
+## Constituents
+### Name: Attributed to New England Glass Company
+### ID: 1087
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500356007)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q17083157)
+### Name: Possibly South Boston Flint Glass Works
+### ID: 1474
+### Role: Maker
+### URLs
+## Department: The American Wing
+## Object Name: Cream pitcher
+## Culture: American
+## History
+## Artist
+### Role: Maker
+### Name
+#### Prefix: Attributed to
+#### Alpha Sort: New England Glass Company
+#### Display Name: New England Glass Company
+### Bio: American, East Cambridge, Massachusetts, 1818–1888
+### Dates Active
+#### Begin: 1818
+#### End: 1888
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q17083157)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500356007)
+## Dates
+### Object: 1815–35
+### Begin: 1815
+### End: 1835
+## Medium: Free-blown glass with applied decoration
+## Size
+### Dimensions: 6 1/16 x 5 9/16 in. (15.4 x 14.1 cm)
+## Credit Line: Gift of Mr. and Mrs. Robert Keller, in memory of Gretchen Keller, 2000
+## Geography
+### Type: Made in
+### State: Massachusetts
+### Country: United States
+### Region: New England
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 704

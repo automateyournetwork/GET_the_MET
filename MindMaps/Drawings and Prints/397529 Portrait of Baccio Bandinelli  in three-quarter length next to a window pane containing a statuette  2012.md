@@ -1,0 +1,77 @@
+# Title: Portrait of Baccio Bandinelli, in three-quarter length next to a window pane containing a statuette and statuette fragments, the artist grasps with his right hand the head of a statuette resting at his left side
+## Highlight: False
+## Accession
+### Number: 2012.136.322
+### Year: 2012.136.322
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP832212.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP832212.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/DP883171.jpg)
+## Constituents
+### Name: Niccolò della Casa
+### ID: 90329
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500019377)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16666530)
+### Name: After Baccio Bandinelli
+### ID: 161647
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500008366)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q358348)
+### Name: Baccio Bandinelli
+### ID: 161647
+### Role: Sitter
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500008366)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q358348)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Casa, Niccolò della
+#### Display Name: Niccolò della Casa
+### Bio: French, active Italy, ca. 1543–48
+### Nationality: French
+### Dates Active
+#### Begin: 1543
+#### End: 1548
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16666530)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500019377)
+## Dates
+### Object: ca. 1540–48
+### Begin: 1535
+### End: 1545
+## Medium: Engraving; first state of two
+## Size
+### Dimensions: Sheet (Trimmed): 11 9/16 × 8 3/8 in. (29.4 × 21.2 cm)
+## Credit Line: Bequest of Phyllis Massar, 2011
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Sculpture
+#### Men
+#### Male Nudes
+#### Portraits
+#### Artists
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300047090)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300189568)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025103)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

@@ -1,0 +1,47 @@
+# Title: Textile sample
+## Highlight: False
+## Accession
+### Number: 1970.75.10a,b
+### Year: 1970.75.10a,b
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anni Albers
+### ID: 142541
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012591)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q86078)
+### Gender: Female
+## Department: Modern and Contemporary Art
+## Object Name: Textile sample
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Albers, Anni
+#### Display Name: Anni Albers
+### Bio: American (born Germany), Berlin 1899–1994 Orange, Connecticut
+### Nationality: American, born Germany
+### Dates Active
+#### Begin: 1899
+#### End: 1994
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q86078)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012591)
+## Dates
+### Object: ca. 1952
+### Begin: 1952
+### End: 1952
+## Medium: Plastic, copper foil, chenille
+## Size
+### Dimensions: a) L. 39, W. 35-5/8 in. (99 x 90.5 cm.); b) L. 31-1/2, W. 17-1/2 in. (80 x 44.5 cm.)
+## Credit Line: Gift of Anni Albers, 1970
+## Geography
+## Classification: Textiles-Woven
+## Rights and Reproduction: © 2022 Artists Rights Society (ARS), New York
+## Metadata Date: 2022-01-04T04:40:20.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

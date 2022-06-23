@@ -1,0 +1,34 @@
+# Title: Henu barque amulet
+## Highlight: False
+## Accession
+### Number: 17.194.2496
+### Year: 17.194.2496
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/17.194.2496_EGDP023203.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/17.194.2496_EGDP023203.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulet, henu barque
+## History
+### Period: Ptolemaic Period
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 400–30 BC
+### Begin: -400
+### End: -30
+## Medium: Glass
+## Size
+### Dimensions: H. 2.2 × W. 3.5 cm (7/8 × 1 3/8 in.)
+## Credit Line: Gift of J. Pierpont Morgan, 1917
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 134

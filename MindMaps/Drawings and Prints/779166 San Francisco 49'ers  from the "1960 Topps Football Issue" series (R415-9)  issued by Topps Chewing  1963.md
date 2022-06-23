@@ -1,0 +1,38 @@
+# Title: San Francisco 49'ers, from the "1960 Topps Football Issue" series (R415-9), issued by Topps Chewing Gum Company
+## Highlight: False
+## Accession
+### Number: 63.350.329.415-9.5
+### Year: 63.350.329.415-9.5
+## Public Domain: False
+## Images
+## Constituents
+### Name: Issued by Topps Chewing Gum Company
+### ID: 164259
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Baseball card
+## History
+## Artist
+### Role: Publisher
+### Name
+#### Prefix: Issued by
+#### Alpha Sort: Topps Chewing Gum Company
+#### Display Name: Topps Chewing Gum Company
+### Bio: American, Brooklyn
+### Dates Active
+### URLs
+## Dates
+### Object: 1960
+### Begin: 1960
+### End: 1960
+## Medium: Commercial color lithograph
+## Size
+### Dimensions: Sheet: 3 1/2 × 2 1/2 in. (8.9 × 6.3 cm)
+## Credit Line: The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

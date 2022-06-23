@@ -1,0 +1,36 @@
+# Title: The Jeweler's Circular. 1925. Vol. XC, no. l
+## Highlight: False
+## Accession
+### Number: 64.661.3
+### Year: 64.661.3
+## Public Domain: False
+## Images
+## Constituents
+### Name: Anonymous, American, 20th century
+### ID: 74326
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Book
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, American, 20th century
+#### Display Name: Anonymous, American, 20th century
+### Dates Active
+#### Begin: 1900
+#### End: 1999
+### URLs
+## Dates
+### Object: 1925
+### Begin: 1925
+### End: 1925
+## Size
+## Credit Line: Gift of Commercial Museum Division Trade and Convention Center
+## Geography
+## Classification: Books
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

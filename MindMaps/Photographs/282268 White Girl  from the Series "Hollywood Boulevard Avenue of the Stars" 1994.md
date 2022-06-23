@@ -1,0 +1,53 @@
+# Title: White Girl, from the Series "Hollywood Boulevard Avenue of the Stars"
+## Highlight: False
+## Accession
+### Number: 1994.263.46
+### Year: 1994.263.46
+## Public Domain: False
+## Images
+## Constituents
+### Name: Dennis Feldman
+### ID: 56350
+### Role: Artist
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16107303)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Feldman, Dennis
+#### Display Name: Dennis Feldman
+### Bio: American, born 1946
+### Nationality: American
+### Dates Active
+#### Begin: 1946
+#### End: 9999
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q16107303)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1970
+### Begin: 1970
+### End: 1970
+## Medium: Gelatin silver print
+## Size
+### Dimensions: 16.6 x 16.4 cm (6 9/16 x 6 7/16 in. )
+## Credit Line: Walker Evans Archive, 1994
+## Geography
+## Classification: Photographs
+## Metadata Date: 2021-06-05T04:45:37.2Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Girls
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300247581)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

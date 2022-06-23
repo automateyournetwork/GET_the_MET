@@ -1,0 +1,94 @@
+# Title: Creation of Eve, from The Dance of Death
+## Highlight: False
+## Accession
+### Number: 19.57.1
+### Year: 19.57.1
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP-23021-001.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP-23021-001.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/MM89754.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/dp/original/MM89754.jpg)
+## Constituents
+### Name: Designed by Hans Holbein the Younger
+### ID: 161994
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005259)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q48319)
+### Name: Hans Lützelburger
+### ID: 87611
+### Role: Printmaker
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q691938)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Prefix: Designed by
+#### Alpha Sort: Holbein, Hans, the Younger
+#### Display Name: Hans Holbein the Younger
+### Bio: German, Augsburg 1497/98–1543 London
+### Nationality: German
+### Dates Active
+#### Begin: 1497
+#### End: 1543
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q48319)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500005259)
+## Dates
+### Object: ca. 1526, published 1538
+### Begin: 1521
+### End: 1538
+## Medium: Woodcut
+## Size
+### Dimensions: Sheet: 2 5/8 x 1 15/16 in. (6.6 x 4.9 cm)
+## Credit Line: Rogers Fund, 1919
+## Geography
+## Classification: Prints
+## Metadata Date: 2022-02-23T04:41:26.867Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Dogs
+#### Gods
+#### Eve
+#### Boars
+#### Deer
+#### Fish
+#### Rabbits
+#### Moon
+#### Sun
+#### Adam
+#### Ox
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300265714)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300343851)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901000205)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250112)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250308)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266085)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250218)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300386951)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300379806)
+#### [AAT URL](http://vocab.getty.edu/page/ia/901000219)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300250282)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

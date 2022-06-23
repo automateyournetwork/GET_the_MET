@@ -1,0 +1,50 @@
+# Title: Equivalent, Set C2 No. 5
+## Highlight: False
+## Accession
+### Number: 49.55.34
+### Year: 49.55.34
+## Public Domain: False
+## Images
+## Constituents
+### Name: Alfred Stieglitz
+### ID: 162479
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024301)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q313055)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Stieglitz, Alfred
+#### Display Name: Alfred Stieglitz
+### Bio: American, Hoboken, New Jersey 1864–1946 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1864
+#### End: 1946
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q313055)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024301)
+## Dates
+### Object: 1929
+### Begin: 1929
+### End: 1929
+## Medium: Gelatin silver print
+## Size
+### Dimensions: 11.7 x 9.3 cm. (4  5/8  x 3  11/16  in.)
+## Credit Line: Alfred Stieglitz Collection, 1949
+## Geography
+## Classification: Photographs
+## Metadata Date: 2022-01-21T04:40:41.503Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Clouds
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300343840)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

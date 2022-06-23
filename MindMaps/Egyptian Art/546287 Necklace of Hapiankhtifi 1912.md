@@ -1,0 +1,40 @@
+# Title: Necklace of Hapiankhtifi
+## Highlight: False
+## Accession
+### Number: 12.183.13a, b
+### Year: 12.183.13a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/12.183.13a_b_0016.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/12.183.13a_b_0016.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Necklace, Hapiankhtifi
+## History
+### Period: Middle Kingdom
+### Dynasty: Dynasty 12
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1981–1802 B.C.
+### Begin: -1981
+### End: -1981
+## Medium: Black obsidian ball beads; silver caps
+Silver
+## Size
+## Credit Line: Gift of J. Pierpont Morgan, 1912
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Middle Egypt
+### Sub-Region: Meir
+### Locale: Tomb of Hapiankhtifi
+## Locus: Mummy
+## Excavation: Khashaba excavations, 1910–12
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 112

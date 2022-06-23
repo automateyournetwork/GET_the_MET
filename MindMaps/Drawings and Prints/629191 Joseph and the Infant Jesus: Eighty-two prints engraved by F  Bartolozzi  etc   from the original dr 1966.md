@@ -1,0 +1,63 @@
+# Title: Joseph and the Infant Jesus: Eighty-two prints engraved by F. Bartolozzi, etc., from the original drawings of Guercino in the collection of His Majesty, vol. I
+## Highlight: False
+## Accession
+### Number: 66.659(68)
+### Year: 66.659(68)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Giovanni Vitalba
+### ID: 83314
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500050271)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q30018214)
+### Name: After Guercino (Giovanni Francesco Barbieri)
+### ID: 161968
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500021925)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q334262)
+### Name: John Boydell
+### ID: 68957
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000875)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q321419)
+### Name: Josiah Boydell
+### ID: 73917
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500000714)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6290431)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Vitalba, Giovanni
+#### Display Name: Giovanni Vitalba
+### Bio: Italian, Venice 1738–ca. 1792 London
+### Nationality: Italian
+### Dates Active
+#### Begin: 1738
+#### End: 1792
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q30018214)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500050271)
+## Dates
+### Object: 1792–98
+### Begin: 1764
+### End: 1800
+## Medium: Etching, printed in brown ink
+## Size
+### Dimensions: Sheet: 20 5/16 × 13 3/4 in. (51.6 × 35 cm)
+Plate: 8 7/8 × 7 7/8 in. (22.6 × 20 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,64 @@
+# Title: Snuffbox with portrait of a woman
+## Highlight: False
+## Accession
+### Number: 17.190.1138
+### Year: 17.190.1138
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1138.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/LC-17_190_1138.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/ES5834.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/258497.jpg)
+## Constituents
+### Name: Joseph Etienne Blerzy
+### ID: 165560
+### Role: Maker
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524496)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q22661422)
+### Name: Miniature attributed to François Dumont
+### ID: 163874
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500061806)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1451015)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Snuffbox, painting
+## History
+## Artist
+### Role: Maker
+### Name
+#### Alpha Sort: Blerzy, Joseph Etienne
+#### Display Name: Joseph Etienne Blerzy
+### Bio: French, active 1750–1806
+### Nationality: French
+### Dates Active
+#### Begin: 1750
+#### End: 1806
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q22661422)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524496)
+## Dates
+### Object: 1773–74, miniature ca. 1778–80
+### Begin: 1773
+### End: 1780
+## Medium: Gold, enamel, ivory, glass
+## Size
+### Dimensions: Box: 3 1/4 × 2 7/16 in. (8.3 × 6.2 cm); Miniature, sight: 1 5/8 × 1 5/16 in. (4.1 × 3.3 cm)
+## Credit Line: Gift of J. Pierpont Morgan, 1917
+## Geography
+## Classification: Metalwork-Gold and Platinum
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Portraits
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 545

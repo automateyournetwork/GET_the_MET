@@ -1,0 +1,52 @@
+# Title: Evening dress
+## Highlight: False
+## Accession
+### Number: 1977.201.2
+### Year: 1977.201.2
+## Public Domain: False
+## Images
+## Constituents
+### Name: Attributed to Madeleine Vionnet
+### ID: 162653
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500097058)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q266934)
+### Gender: Female
+## Department: Costume Institute
+## Object Name: Evening dress
+## Culture: French
+## History
+## Artist
+### Role: Designer
+### Name
+#### Prefix: Attributed to
+#### Alpha Sort: Vionnet, Madeleine
+#### Display Name: Madeleine Vionnet
+### Bio: French, Chilleurs-aux-Bois 1876–1975 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1876
+#### End: 1975
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q266934)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500097058)
+## Dates
+### Object: 1928
+### Begin: 1928
+### End: 1928
+## Medium: silk, metal, glass
+## Size
+## Credit Line: Gift of Esmé O'Brien Hammond, 1977
+## Geography
+## Metadata Date: 2020-11-10T04:37:59.203Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

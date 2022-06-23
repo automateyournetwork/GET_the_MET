@@ -1,0 +1,31 @@
+# Title: Sake bottle with grapevine decoration
+## Highlight: False
+## Accession
+### Number: 2019.193.28a
+### Year: 2019.193.28a
+## Public Domain: False
+## Images
+## Constituents
+## Department: Asian Art
+## Object Name: Sake bottle (one of a pair)
+## Culture: Japan
+## History
+### Period: Edo period (1615–1868)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: second half of the 17th century
+### Begin: 1500
+### End: 1700
+## Medium: Gold and silver makie on black lacquer
+## Size
+### Dimensions: H. 8 1/8 in. (20.6 cm)
+## Credit Line: Gift of Florence and Herbert Irving, 2019
+## Geography
+## Classification: Lacquer
+## Metadata Date: 2020-09-10T04:35:10.13Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

@@ -1,0 +1,40 @@
+# Title: Tureen with cover
+## Highlight: False
+## Accession
+### Number: 67.191.1a, b
+### Year: 67.191.1a, b
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP-15624-159.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP-15624-159.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP-15624-162.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP-15624-160.jpg)
+## Constituents
+### Name: Thomas Whieldon factory, Stoke-on-Trent, Fenton Vivian, Staffordshire
+### ID: 39145
+### Role: Factory
+### URLs
+## Department: European Sculpture and Decorative Arts
+## Object Name: Tureen with cover
+## History
+## Artist
+### Role: Factory
+### Name
+#### Alpha Sort: Whieldon, Thomas, factory
+#### Display Name: Thomas Whieldon factory, Stoke-on-Trent, Fenton Vivian, Staffordshire
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1760
+### Begin: 1755
+### End: 1765
+## Medium: Tortoiseshell ware
+## Size
+### Dimensions: 9 × 12 in. (22.9 × 30.5 cm)
+## Credit Line: The Charles E. Sampson Memorial Fund, 1967
+## Geography
+## Classification: Ceramics-Pottery
+## Metadata Date: 2021-07-13T04:41:40.21Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

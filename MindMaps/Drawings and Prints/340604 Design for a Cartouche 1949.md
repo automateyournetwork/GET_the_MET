@@ -1,0 +1,47 @@
+# Title: Design for a Cartouche
+## Highlight: False
+## Accession
+### Number: 49.70.125
+### Year: 49.70.125
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP803748.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP803748.jpg)
+## Constituents
+### Name: Anonymous, Italian, first half of the 18th century
+### ID: 73216
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Italian, 18th century first half
+#### Display Name: Anonymous, Italian, first half of the 18th century
+### Nationality: Italian
+### Dates Active
+#### Begin: 1700
+#### End: 1750
+### URLs
+## Dates
+### Object: 18th century
+### Begin: 1700
+### End: 1800
+## Medium: Brush and pink, yellow, and mauve wash, over graphite, on cream laid paper
+## Size
+### Dimensions: 16-5/8 x 12-3/8 in.  (42.3 x 31.4 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Cartouches
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300010256)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

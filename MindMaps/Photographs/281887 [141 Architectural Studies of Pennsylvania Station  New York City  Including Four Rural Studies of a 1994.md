@@ -1,0 +1,57 @@
+# Title: [141 Architectural Studies of Pennsylvania Station, New York City, Including Four Rural Studies of a Barn, Commissioned by Life Magazine for "America's Heritage of Great Architecture is Doomed...It Must be Saved", Published July 5, 1963]
+## Highlight: False
+## Accession
+### Number: 1994.252.30.1–.141
+### Year: 1994.252.30.1–.141
+## Public Domain: False
+## Images
+## Constituents
+### Name: Walker Evans
+### ID: 161869
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+## Department: Photographs
+## Object Name: Negatives
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Evans, Walker
+#### Display Name: Walker Evans
+### Bio: American, St. Louis, Missouri 1903–1975 New Haven, Connecticut
+### Nationality: American
+### Dates Active
+#### Begin: 1903
+#### End: 1975
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q363308)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500012076)
+## Dates
+### Object: September 6, 1962
+### Begin: 1962
+### End: 1962
+## Medium: Film negative
+## Size
+### Dimensions: 2 1/4 x 2 1/4 in.
+## Credit Line: Walker Evans Archive, 1994
+## Geography
+## Classification: Negatives
+## Rights and Reproduction: © Walker Evans Archive, The Metropolitan Museum of Art
+## Metadata Date: 2021-09-17T04:35:35.247Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Architecture
+#### Train Stations
+#### Cities
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300263552)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300007783)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300008389)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

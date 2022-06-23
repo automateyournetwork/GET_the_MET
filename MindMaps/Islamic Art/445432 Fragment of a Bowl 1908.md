@@ -1,0 +1,37 @@
+# Title: Fragment of a Bowl
+## Highlight: False
+## Accession
+### Number: 08.256.133
+### Year: 08.256.133
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/is/original/sf08-256-133a.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/is/web-large/sf08-256-133a.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/is/original/sf08-256-133b.jpg)
+## Constituents
+## Department: Islamic Art
+## Object Name: Fragment
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 14th–15th century
+### Begin: 1300
+### End: 1499
+## Medium: Earthenware; incised decoration through white slip and coloring under transparent glaze
+## Size
+### Dimensions: H. 3 3/8 in. (8.6 cm)
+W. 5 5/8 in. (14.3 cm)
+D. 4 5/8 in. (11.7 cm)
+Wt. 14.9 oz. (422.5 g)
+## Credit Line: Rogers Fund, 1908
+## Geography
+### Type: Attributed to
+### Country: Egypt
+## Classification: Ceramics
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

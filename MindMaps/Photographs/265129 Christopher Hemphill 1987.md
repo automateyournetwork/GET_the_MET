@@ -1,0 +1,46 @@
+# Title: Christopher Hemphill
+## Highlight: False
+## Accession
+### Number: 1987.1092
+### Year: 1987.1092
+## Public Domain: False
+## Images
+## Constituents
+### Name: Robert Mapplethorpe
+### ID: 162097
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500090430)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q312786)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Mapplethorpe, Robert
+#### Display Name: Robert Mapplethorpe
+### Bio: American, New York 1947–1989 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1947
+#### End: 1989
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q312786)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500090430)
+## Dates
+### Object: 1977
+### Begin: 1977
+### End: 1977
+## Medium: Chromogenic print
+## Size
+### Dimensions: 32.9 x 32.8cm (12 15/16 x 12 15/16in.)
+Frame: 57.2 × 53.3 cm (22 1/2 × 21 in.)
+## Credit Line: Gift of Paul F. Walter, in memory of Christopher Hemphill, 1987
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © Robert Mapplethorpe Foundation. Used by permission.
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

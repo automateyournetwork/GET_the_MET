@@ -1,0 +1,42 @@
+# Title: Design for World War I Poster (?)
+## Highlight: False
+## Accession
+### Number: 58.605.1
+### Year: 58.605.1
+## Public Domain: False
+## Images
+## Constituents
+### Name: Edward B. Edwards
+### ID: 163502
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524289)
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Edwards, Edward B.
+#### Display Name: Edward B. Edwards
+### Bio: American, Columbia, Pennsylvania 1873–1948 Hasbrouck Heights, New Jersey
+### Nationality: American
+### Dates Active
+#### Begin: 1873
+#### End: 1948
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524289)
+## Dates
+### Object: n.d.
+### Begin: 1885
+### End: 1948
+## Medium: Graphite, pen, ink, and watercolor on paper
+## Size
+### Dimensions: sheet: 11 x 12 1/16 in. (27.9 x 30.6 cm)
+## Credit Line: Gift of Randolph Gunter, 1958
+## Geography
+## Classification: Drawings
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

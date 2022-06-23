@@ -1,0 +1,45 @@
+# Title: Bottom of Kohl Tube
+## Highlight: False
+## Accession
+### Number: 11.215.522
+### Year: 11.215.522
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/11.215.522.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/11.215.522.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Kohl tube
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18
+### Reign: reign of Amenhotep III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1390–1353 B.C.
+### Begin: -1390
+### End: -1390
+## Medium: Faience
+## Size
+### Dimensions: H. 3 cm (1 3/16 in)
+## Credit Line: Rogers Fund, 1911
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Malqata
+### Locale: Palace of Amenhotep III
+## Excavation: MMA excavations, 1910–12
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Cosmetic Containers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300197583)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

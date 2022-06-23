@@ -1,0 +1,31 @@
+# Title: Fragment of lace
+## Highlight: False
+## Accession
+### Number: 09.68.304
+### Year: 09.68.304
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP3696.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP3696.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP3696_09.68.304.jpg)
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Fragment
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 18th century
+### Begin: 1700
+### End: 1799
+## Size
+### Dimensions: 2 1/2 x 17 1/2 in. (6.4 x 44.5 cm)
+## Credit Line: Purchase by subscription, 1909
+## Geography
+## Classification: Textiles-Laces
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

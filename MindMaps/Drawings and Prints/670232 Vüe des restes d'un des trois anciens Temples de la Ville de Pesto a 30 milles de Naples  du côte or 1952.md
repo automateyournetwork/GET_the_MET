@@ -1,0 +1,55 @@
+# Title: Vüe des restes d'un des trois anciens Temples de la Ville de Pesto a 30 milles de Naples, du côte oriental, from Recueil de divers Monumens Anciens répandus en plusieurs endroits de L'Italie
+## Highlight: False
+## Accession
+### Number: 52.519.88(22)
+### Year: 52.519.88(22)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Dominico Montagu
+### ID: 99776
+### Role: Etcher
+### URLs
+### Name: After Jean Barbault
+### ID: 77414
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028029)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3170589)
+### Name: Giunchi Heritiers de Komarek
+### ID: 99780
+### Role: Printer
+### URLs
+### Name: Bouchard &amp; Gravier
+### ID: 77415
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Etcher
+### Name
+#### Alpha Sort: Montagu, Dominico
+#### Display Name: Dominico Montagu
+### Bio: Italian, active Rome, ca. 1750–76
+### Nationality: Italian
+### Dates Active
+### URLs
+## Dates
+### Object: 1770
+### Begin: 1770
+### End: 1770
+## Medium: Etching
+## Size
+### Dimensions: Plate: 10 11/16 × 12 in. (27.2 × 30.5 cm)
+## Credit Line: Rogers Fund, 1952
+## Geography
+### Type: Published in
+### City: Rome
+### Country: Italy
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

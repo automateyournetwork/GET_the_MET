@@ -1,0 +1,48 @@
+# Title: Group of 7 amulets
+## Highlight: False
+## Accession
+### Number: 25.3.169-related
+### Year: 25.3.169-related
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/25.3.169a-g_EGDP017236.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/25.3.169a-g_EGDP017236.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169a_EGDP017219.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169b_EGDP017215.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169c_EGDP017218.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169c_EGDP017217.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169d_EGDP017214.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169e_EGDP017216.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169f_EGDP017213.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/25.3.169g_EGDP017212.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulets, Djedmutesankh; plaque; heart (ib); wedjat; tit; uraeus plaque, wadj
+## History
+### Period: Third Intermediate Period
+### Dynasty: Dynasty 21
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1070–945 B.C.
+### Begin: -1070
+### End: -945
+## Medium: Lapis lazuli, hematite, carnelian
+## Size
+### Dimensions: H. 0.6 to 1.4 cm
+## Credit Line: Rogers Fund, 1925
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Deir el-Bahri
+### Locale: Tomb MMA 60, Chamber
+## Locus: Burial of Djedmutesankh (Ch5)
+## Excavation: MMA excavations, 1923–24
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 126

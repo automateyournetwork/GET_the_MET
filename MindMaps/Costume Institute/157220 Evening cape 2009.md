@@ -1,0 +1,28 @@
+# Title: Evening cape
+## Highlight: False
+## Accession
+### Number: 2009.300.2399
+### Year: 2009.300.2399
+## Public Domain: False
+## Images
+## Constituents
+## Department: Costume Institute
+## Object Name: Evening cape
+## Culture: probably French
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1938
+### Begin: 1936
+### End: 1940
+## Medium: wool, silk, metal
+## Size
+## Credit Line: Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous Gift, 1954
+## Geography
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

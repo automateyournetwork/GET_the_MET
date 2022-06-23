@@ -1,0 +1,42 @@
+# Title: Edward Ruscha (Ed-werd Rew-shay) young artist
+## Highlight: False
+## Accession
+### Number: 1972.605
+### Year: 1972.605
+## Public Domain: False
+## Images
+## Constituents
+### Name: Edward Ruscha
+### ID: 162355
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024159)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q430967)
+## Department: Photographs
+## Object Name: Artist's book
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Ruscha, Edward
+#### Display Name: Edward Ruscha
+### Bio: American, born Omaha, Nebraska, 1937
+### Nationality: American
+### Dates Active
+#### Begin: 1937
+#### End: 2037
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q430967)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500024159)
+## Dates
+### Object: 1972
+### Begin: 1972
+### End: 1972
+## Size
+## Credit Line: Purchase, Administrative Purchase Fund, 1972
+## Geography
+## Classification: Books
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

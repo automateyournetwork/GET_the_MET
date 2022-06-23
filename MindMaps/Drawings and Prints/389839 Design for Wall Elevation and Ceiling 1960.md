@@ -1,0 +1,41 @@
+# Title: Design for Wall Elevation and Ceiling
+## Highlight: False
+## Accession
+### Number: 60.625.5
+### Year: 60.625.5
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP803303.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP803303.jpg)
+## Constituents
+### Name: Anonymous, Italian, Bolognese 18th century artist
+### ID: 99017
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Italian, 18th century
+#### Display Name: Anonymous, Italian, Bolognese 18th century artist
+### Nationality: Italian
+### Dates Active
+#### Begin: 1700
+#### End: 1770
+### URLs
+## Dates
+### Object: 1740–50
+### Begin: 1740
+### End: 1750
+## Medium: Pen, brush, and brown ink
+## Size
+### Dimensions: 7-5/8 x 11 in
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-05-11T04:40:58.817Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

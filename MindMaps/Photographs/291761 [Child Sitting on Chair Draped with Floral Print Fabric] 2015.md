@@ -1,0 +1,57 @@
+# Title: [Child Sitting on Chair Draped with Floral Print Fabric]
+## Highlight: False
+## Accession
+### Number: 2015.400.8
+### Year: 2015.400.8
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ph/original/DP700020.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ph/web-large/DP700020.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ph/original/DP700021.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/ph/original/DP700022.jpg)
+## Constituents
+### Name: Unknown
+### ID: 169986
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+## Department: Photographs
+## Object Name: Daguerreotype
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Unknown
+#### Display Name: Unknown
+### Bio: American
+### Dates Active
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q24238356)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500125274)
+## Dates
+### Object: 1850s
+### Begin: 1850
+### End: 1859
+## Medium: Daguerreotype with applied color
+## Size
+### Dimensions: Image: 6.8 x 5.5 cm (2 11/16 x 2 3/16 in.)
+Plate: 8.1 x 7 cm (3 3/16 x 2 3/4 in.)
+Case: 1.6 x 9.4 x 8.1 cm (5/8 x 3 11/16 x 3 3/16 in.)
+## Credit Line: Bequest of Herbert Mitchell, 2008
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Children
+#### Portraits
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025945)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300015637)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## [Wikipedia](https://www.wikidata.org/wiki/Q97012742)
+## Timeline Work: False

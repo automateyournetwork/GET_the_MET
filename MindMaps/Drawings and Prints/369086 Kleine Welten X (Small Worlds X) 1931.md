@@ -1,0 +1,46 @@
+# Title: Kleine Welten X (Small Worlds X)
+## Highlight: False
+## Accession
+### Number: 31.10.13
+### Year: 31.10.13
+## Public Domain: False
+## Images
+## Constituents
+### Name: Vasily Kandinsky
+### ID: 162019
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500021093)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q61064)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Kleine Welten
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Kandinsky, Vasily
+#### Display Name: Vasily Kandinsky
+### Bio: French (born Russia), Moscow 1866–1944 Neuilly-sur-Seine
+### Nationality: French, born Russia
+### Dates Active
+#### Begin: 1866
+#### End: 1944
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q61064)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500021093)
+## Dates
+### Object: 1922
+### Begin: 1922
+### End: 1922
+## Medium: Drypoint
+## Size
+### Dimensions: Plate: 9 7/16 × 7 7/8 in. (24 × 20 cm)
+Sheet: 11 7/8 × 10 7/16 in. (30.2 × 26.5 cm)
+## Credit Line: Harris Brisbane Dick Fund, 1931
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-05-19T04:42:10.577Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

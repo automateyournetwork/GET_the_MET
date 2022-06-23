@@ -1,0 +1,71 @@
+# Title: Poster with two images, that left by Chávez Morado relating to when the USSR conquers imperialist interests (Hitler on his knees, Mussolini at left etc) and at right by Anguiano regarding the situation in Mexico and the reactions of her putative sons
+## Highlight: False
+## Accession
+### Number: 46.46.506
+### Year: 46.46.506
+## Public Domain: False
+## Images
+## Constituents
+### Name: José Chávez Morado
+### ID: 178813
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500078548)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1709105)
+### Name: Raúl Anguiano
+### ID: 195102
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500061635)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q325503)
+### Name: Taller de Gráfica Popular
+### ID: 102997
+### Role: Publisher
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2390547)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Chávez Morado, José
+#### Display Name: José Chávez Morado
+### Bio: Mexican, 1909–2002
+### Dates Active
+#### Begin: 1909
+#### End: 2002
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1709105)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500078548)
+## Dates
+### Object: 1939
+### Begin: 1939
+### End: 1939
+## Medium: Lithograph on buff paper backed with linen
+## Size
+### Dimensions: Sheet: 17 1/8 × 26 3/16 in. (43.5 × 66.5 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946
+## Geography
+## Classification: Prints
+## Rights and Reproduction: © 2022 Artists Rights Society (ARS), New York
+## Metadata Date: 2022-01-04T04:40:20.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Satire
+#### Men
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300055934)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

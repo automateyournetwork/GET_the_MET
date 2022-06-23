@@ -1,0 +1,47 @@
+# Title: Drawing for a Mantelpiece
+## Highlight: False
+## Accession
+### Number: 35.73.23
+### Year: 35.73.23
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP803022.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP803022.jpg)
+## Constituents
+### Name: Anonymous, Italian, Bolognese 18th century artist
+### ID: 99017
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Italian, 18th century
+#### Display Name: Anonymous, Italian, Bolognese 18th century artist
+### Nationality: Italian
+### Dates Active
+#### Begin: 1700
+#### End: 1770
+### URLs
+## Dates
+### Object: 1780–90
+### Begin: 1780
+### End: 1790
+## Medium: Ink and watercolor
+## Size
+### Dimensions: 9-1/2 x 11-3/16 in; sheet: 10 x 11-3/4 in
+## Credit Line: Harris Brisbane Dick Fund, 1935
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-05-11T04:40:58.817Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Fireplaces
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300052267)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

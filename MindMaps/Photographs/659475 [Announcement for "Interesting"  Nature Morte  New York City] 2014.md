@@ -1,0 +1,48 @@
+# Title: [Announcement for "Interesting", Nature Morte, New York City]
+## Highlight: False
+## Accession
+### Number: 2014.679.17
+### Year: 2014.679.17
+## Public Domain: False
+## Images
+## Constituents
+### Name: Louise Lawler
+### ID: 163724
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500088762)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q539270)
+### Gender: Female
+## Department: Photographs
+## Object Name: Postcard; Announcement
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Lawler, Louise
+#### Display Name: Louise Lawler
+### Bio: American, born Bronxville, New York, 1947
+### Nationality: American
+### Dates Active
+#### Begin: 1947
+#### End: 9999
+### Gender: Female
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q539270)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500088762)
+## Dates
+### Object: May 1985
+### Begin: 1985
+### End: 1985
+## Medium: Printed card
+## Size
+### Dimensions: 4 × 5 1/2 in. (10.2 × 14 cm)
+## Credit Line: Gift of the artist, 2014
+## Geography
+## Classification: Ephemera
+## Rights and Reproduction: © Louise Lawler
+## Metadata Date: 2020-10-17T04:34:58.84Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## [Wikipedia](https://www.wikidata.org/wiki/Q98823900)
+## Timeline Work: False

@@ -1,0 +1,36 @@
+# Title: Edging (two pieces)
+## Highlight: False
+## Accession
+### Number: 59.62.6a,b
+### Year: 59.62.6a,b
+## Public Domain: False
+## Images
+## Constituents
+## Department: European Sculpture and Decorative Arts
+## Object Name: Edging
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 19th century
+### Begin: 1800
+### End: 1899
+## Medium: Linen, bobbin lace
+## Size
+### Dimensions: a) L. 226 x W. 7 3/8 inches (574.0 x 18.7 cm)
+b) L. 147 x W. 7 3/8 inches (373.4 x 18.7 cm)
+## Credit Line: Gift of Charles Zadok, 1959
+## Geography
+## Classification: Textiles-Laces
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

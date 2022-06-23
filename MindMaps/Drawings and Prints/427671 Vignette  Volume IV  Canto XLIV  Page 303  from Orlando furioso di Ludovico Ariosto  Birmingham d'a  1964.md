@@ -1,0 +1,57 @@
+# Title: Vignette, Volume IV, Canto XLIV, Page 303, from Orlando furioso di Ludovico Ariosto. Birmingham d'a Torchj. di G. Baskerville Per P. Molini Librajo dell. Academia. Reale è G. Molini. MDCCLXXIII.
+## Highlight: False
+## Accession
+### Number: 64.542.243
+### Year: 64.542.243
+## Public Domain: False
+## Images
+## Constituents
+### Name: Isidore Stanislas Henri Helman
+### ID: 90325
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500057242)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3155327)
+### Name: After Jean Michel Moreau the Younger
+### ID: 163775
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500028967)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q321972)
+### Name: Ludovico Ariosto
+### ID: 77085
+### Role: Author
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500313522)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q48900)
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Orlando furioso di Ludovico Ariosto. Birmingham d'a Torchj. di G. Baskerville Per P. Molini Librajo dell. Academia. Reale è G. Molini. MDCCLXXIII.
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Helman, Isidore Stanislas Henri
+#### Display Name: Isidore Stanislas Henri Helman
+### Bio: French, Lille 1743–?1806/9 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1743
+#### End: 1809
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3155327)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500057242)
+## Dates
+### Object: 1774
+### Begin: 1774
+### End: 1774
+## Medium: Etching and engraving; third state of six (Bocher)
+## Size
+### Dimensions: Sheet: 8 1/8 × 5 in. (20.7 × 12.7 cm)
+## Credit Line: Gift of Joseph Verner Reed, 1964
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

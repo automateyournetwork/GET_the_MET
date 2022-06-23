@@ -1,0 +1,45 @@
+# Title: Jonathan Porter
+## Highlight: False
+## Accession
+### Number: 49.55.287
+### Year: 49.55.287
+## Public Domain: False
+## Images
+## Constituents
+### Name: Eliot Porter
+### ID: 54831
+### Role: Artist
+### URLs
+#### [ULAN]((not assigned))
+#### [Wikipedia](https://www.wikidata.org/wiki/Q762632)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Porter, Eliot
+#### Display Name: Eliot Porter
+### Bio: American, 1901–1990
+### Nationality: American
+### Dates Active
+#### Begin: 1901
+#### End: 1990
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q762632)
+#### [ULAN]((not assigned))
+## Dates
+### Object: 1938
+### Begin: 1938
+### End: 1938
+## Medium: Gelatin silver print
+## Size
+### Dimensions: 23.9 x 17.9 cm. (9  7/16  x 7  1/16  in.)
+## Credit Line: Alfred Stieglitz Collection, 1949
+## Geography
+## Classification: Photographs
+## Rights and Reproduction: © 1990 Amon Carter Museum, Fort Worth, Texas
+## Metadata Date: 2022-01-21T04:40:41.503Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

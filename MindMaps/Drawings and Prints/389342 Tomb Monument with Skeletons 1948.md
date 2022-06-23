@@ -1,0 +1,50 @@
+# Title: Tomb Monument with Skeletons
+## Highlight: False
+## Accession
+### Number: 48.148(30)
+### Year: 48.148(30)
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP802563.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP802563.jpg)
+## Constituents
+### Name: Anonymous, Italian, 17th century
+### ID: 74966
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing Collection Ornament & Architecture
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Italian, 17th century
+#### Display Name: Anonymous, Italian, 17th century
+### Nationality: Italian
+### Dates Active
+#### Begin: 1600
+#### End: 1700
+### URLs
+## Dates
+### Object: 17th century
+### Begin: 1600
+### End: 1699
+## Medium: Pen and brown ink, over graphite underdrawing
+## Size
+### Dimensions: image: 6 1/4 x 4 3/4 in. (15.8 x 12 cm)
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund,
+## Geography
+## Classification: Drawings
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Tombs
+#### Skeletons
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300005926)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300191778)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

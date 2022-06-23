@@ -1,0 +1,44 @@
+# Title: Dish with Phoenixes
+## Highlight: False
+## Accession
+### Number: 23.225.320
+### Year: 23.225.320
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/as/original/DP251157.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/as/web-large/DP251157.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/as/original/DP251166.jpg)
+## Constituents
+## Department: Asian Art
+## Object Name: Dish
+## Culture: Japan
+## History
+### Period: Edo period (1615–1868)
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1760–80
+### Begin: 1760
+### End: 1780
+## Medium: Porcelain painted with colored enamels over transparent glaze (Hizen ware)
+## Size
+### Dimensions: Diam. 7 1/8 in. (18.1 cm)
+## Credit Line: Gift of Mrs. V. Everit Macy, 1923
+## Geography
+## Classification: Ceramics
+## Metadata Date: 2022-03-04T10:34:46.977Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+#### Flowers
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132399)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 201

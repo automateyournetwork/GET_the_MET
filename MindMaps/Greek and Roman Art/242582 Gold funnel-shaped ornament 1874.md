@@ -1,0 +1,32 @@
+# Title: Gold funnel-shaped ornament
+## Highlight: False
+## Accession
+### Number: 74.51.3148
+### Year: 74.51.3148
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Ornament, funnel-shaped mount with recurved rim
+## Culture: Cypriot
+## History
+### Period: Late Bronze Age
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1600–1100 B.C.
+### Begin: -1600
+### End: -1100
+## Medium: Gold
+## Size
+### Dimensions: Other: 1 3/16 in. (3 cm)
+## Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+## Geography
+## Classification: Gold and Silver
+## Metadata Date: 2021-07-07T04:42:57.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 173

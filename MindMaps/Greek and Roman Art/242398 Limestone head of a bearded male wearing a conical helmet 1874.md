@@ -1,0 +1,31 @@
+# Title: Limestone head of a bearded male wearing a conical helmet
+## Highlight: False
+## Accession
+### Number: 74.51.2847
+### Year: 74.51.2847
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Head of a man in Assyrian helmet
+## Culture: Cypriot
+## History
+### Period: Archaic
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 6th–5th century B.C.
+### Begin: -599
+### End: -400
+## Medium: Limestone
+## Size
+### Dimensions: H. 12 1/4 in. (31.1 cm)
+## Credit Line: The Cesnola Collection, Purchased by subscription, 1874–76
+## Geography
+## Classification: Stone Sculpture
+## Metadata Date: 2021-07-07T04:42:57.957Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

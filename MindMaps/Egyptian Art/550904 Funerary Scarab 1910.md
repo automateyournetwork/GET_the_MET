@@ -1,0 +1,32 @@
+# Title: Funerary Scarab
+## Highlight: False
+## Accession
+### Number: 10.130.744
+### Year: 10.130.744
+## Public Domain: False
+## Images
+## Constituents
+## Department: Egyptian Art
+## Object Name: Scarab
+## History
+### Period: Late Period–Ptolemaic Period
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 664–30 B.C.
+### Begin: -664
+### End: -30
+## Medium: Green and black mottled stone
+## Size
+### Dimensions: L. 1.9 cm (3/4 in.), w. 1.4cm (9/16 in)
+## Credit Line: Gift of Helen Miller Gould, 1910
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2020-08-22T04:35:33.85Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 127

@@ -1,0 +1,41 @@
+# Title: One Half of a Design for a Wall With a Panel or a Mirror.
+## Highlight: False
+## Accession
+### Number: 65.653.23
+### Year: 65.653.23
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP803341.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP803341.jpg)
+## Constituents
+### Name: Anonymous, Italian, Piedmontese, 18th century
+### ID: 92787
+### Role: Artist
+### URLs
+## Department: Drawings and Prints
+## Object Name: Drawing
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Anonymous, Italian, Piedmontese, 18th century
+#### Display Name: Anonymous, Italian, Piedmontese, 18th century
+### Nationality: Italian
+### Dates Active
+#### Begin: 1700
+#### End: 1800
+### URLs
+## Dates
+### Object: 1700–1780
+### Begin: 1700
+### End: 1780
+## Medium: Pen and black ink, brush and gray wash, over leadpoint or graphite, with ruled and compass construction
+## Size
+### Dimensions: 13 1/8 x 9 5/8 in. (33.4 x 24.5 cm)
+## Credit Line: Purchase, Joseph Pulitzer Bequest, 1965
+## Geography
+## Classification: Drawings
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

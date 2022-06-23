@@ -1,0 +1,53 @@
+# Title: Enchanté, M'sieu de l'honneur de vous voir!, from Les Lorettes, published in Le Charivari, July 7, 1842, plate 23
+## Highlight: False
+## Accession
+### Number: 1980.1137.1(23)
+### Year: 1980.1137.1(23)
+## Public Domain: False
+## Images
+## Constituents
+### Name: Paul Gavarni [Chevalier]
+### ID: 163671
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006992)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1074290)
+### Name: Aubert et Cie
+### ID: 78944
+### Role: Printer
+### URLs
+### Name: Bauger et Cie
+### ID: 104162
+### Role: Publisher
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: Les Lorettes
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Gavarni, Paul
+#### Display Name: Paul Gavarni [Chevalier]
+### Bio: French, Paris 1804–1866 Paris
+### Nationality: French
+### Dates Active
+#### Begin: 1804
+#### End: 1866
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1074290)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500006992)
+## Dates
+### Object: July 7, 1842
+### Begin: 1842
+### End: 1842
+## Medium: Lithograph; third state of three (Armelhault & Bocher)
+## Size
+### Dimensions: Sheet: 13 7/8 x 9 9/16 in. (35.2 x 24.3 cm)
+## Credit Line: Gift of Michael G. Wilson, 1980
+## Geography
+## Classification: Prints
+## Metadata Date: 2020-11-14T04:40:04.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

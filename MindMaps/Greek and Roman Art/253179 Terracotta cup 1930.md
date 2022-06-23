@@ -1,0 +1,34 @@
+# Title: Terracotta cup
+## Highlight: False
+## Accession
+### Number: 30.118.47
+### Year: 30.118.47
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/gr/original/DP132656.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/gr/web-large/DP132656.jpg)
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Cup, one-handled
+## Culture: Greek, Attic
+## History
+### Period: Geometric
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: early 7th century B.C.
+### Begin: -699
+### End: -670
+## Medium: Terracotta
+## Size
+### Dimensions: H. 1 3/4 in. (4.4 cm)
+## Credit Line: Gift of the Greek Government, 1930
+## Geography
+## Classification: Vases
+## Metadata Date: 2021-07-21T04:40:08.58Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 171

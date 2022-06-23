@@ -1,0 +1,36 @@
+# Title: Heart amulet
+## Highlight: False
+## Accession
+### Number: 10.130.1796
+### Year: 10.130.1796
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/10.130.1796_EGDP019046.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/10.130.1796_EGDP019046.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/eg/original/10.130.1796_EGDP019045.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulet, Heart
+## History
+### Period: Late Period
+### Dynasty: Dynasty 26–30
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 664–332 B.C.
+### Begin: -664
+### End: -664
+## Medium: Hematite
+## Size
+### Dimensions: H. 2.2 cm (7/8 in), w. 1.6 cm (5/8 in)
+## Credit Line: Gift of Helen Miller Gould, 1910
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2020-03-02T21:50:01.377Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 127

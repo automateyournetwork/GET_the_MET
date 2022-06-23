@@ -1,0 +1,31 @@
+# Title: Glass beaker
+## Highlight: False
+## Accession
+### Number: 91.1.1403
+### Year: 91.1.1403
+## Public Domain: False
+## Images
+## Constituents
+## Department: Greek and Roman Art
+## Object Name: Beaker
+## Culture: Roman
+## History
+### Period: Late Imperial
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 3rd–4th century A.D.
+### Begin: 200
+### End: 399
+## Medium: Glass
+## Size
+### Dimensions: H.: 3 7/16 in. (8.7 cm)
+## Credit Line: Edward C. Moore Collection, Bequest of Edward C. Moore, 1891
+## Geography
+## Classification: Glass
+## Metadata Date: 2020-05-27T20:17:52.047Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False

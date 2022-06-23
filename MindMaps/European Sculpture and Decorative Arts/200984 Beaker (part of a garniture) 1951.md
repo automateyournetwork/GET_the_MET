@@ -1,0 +1,61 @@
+# Title: Beaker (part of a garniture)
+## Highlight: False
+## Accession
+### Number: 51.35.5
+### Year: 51.35.5
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/es/original/DP-15518-043.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/es/web-large/DP-15518-043.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP-15518-044.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/DP-15518-069.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/149319.jpg)
+### [Additional Image](https://images.metmuseum.org/CRDImages/es/original/210203.jpg)
+## Constituents
+### Name: Bow Porcelain Factory
+### ID: 34736
+### Role: Factory
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500332807)
+### Name: Probably decorated by James Giles
+### ID: 34014
+### Role: Decorator
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500091895)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q6134623)
+## Department: European Sculpture and Decorative Arts
+## Object Name: Beaker
+## History
+## Artist
+### Role: Factory
+### Name
+#### Alpha Sort: Bow Porcelain Factory
+#### Display Name: Bow Porcelain Factory
+### Bio: British, 1747–1776
+### Nationality: British
+### Dates Active
+#### Begin: 1747
+#### End: 1776
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500332807)
+## Dates
+### Object: ca. 1765–70
+### Begin: 1760
+### End: 1775
+## Medium: Soft-paste porcelain
+## Size
+### Dimensions: Height (wt. confirmed): 8 1/4 in., 2 lb. (21 cm, 0.9 kg)
+## Credit Line: Gift of Irwin Untermyer, 1951
+## Geography
+## Classification: Ceramics-Porcelain
+## Metadata Date: 2021-06-29T04:39:38.347Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Birds
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300266506)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False
+## Gallery Number: 512

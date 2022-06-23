@@ -1,0 +1,55 @@
+# Title: Evening dress
+## Highlight: False
+## Accession
+### Number: 2009.300.556
+### Year: 2009.300.556
+## Public Domain: False
+## Images
+## Constituents
+### Name: Norman Norell
+### ID: 164389
+### Role: Designer
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500100615)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1999630)
+### Name: Bonwit Teller &amp; Co.
+### ID: 163196
+### Role: Department Store
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500524271)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q4942680)
+## Department: Costume Institute
+## Object Name: Evening dress
+## Culture: American
+## History
+## Artist
+### Role: Designer
+### Name
+#### Alpha Sort: Norell, Norman
+#### Display Name: Norman Norell
+### Bio: American, Noblesville, Indiana 1900–1972 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1900
+#### End: 1972
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q1999630)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500100615)
+## Dates
+### Object: ca. 1963
+### Begin: 1961
+### End: 1965
+## Medium: silk, rhinestones
+## Size
+## Credit Line: Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Emmet Whitlock, 1985
+## Geography
+## Metadata Date: 2022-02-09T04:42:08.947Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Dresses
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300046159)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

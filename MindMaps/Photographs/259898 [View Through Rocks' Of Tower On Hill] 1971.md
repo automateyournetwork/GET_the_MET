@@ -1,0 +1,51 @@
+# Title: [View Through Rocks' Of Tower On Hill]
+## Highlight: False
+## Accession
+### Number: 1971.590.3
+### Year: 1971.590.3
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ph/original/DP112673.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ph/web-large/DP112673.jpg)
+## Constituents
+### Name: Francis Bedford
+### ID: 166256
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023245)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3504712)
+## Department: Photographs
+## Object Name: Photograph
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bedford, Francis
+#### Display Name: Francis Bedford
+### Bio: British, London 1816–1894 London
+### Nationality: British
+### Dates Active
+#### Begin: 1816
+#### End: 1894
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3504712)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023245)
+## Dates
+### Object: 1870s
+### Begin: 1870
+### End: 1879
+## Medium: Albumen silver print
+## Size
+## Credit Line: The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1971
+## Geography
+## Classification: Photographs
+## Metadata Date: 2020-09-16T18:35:19.457Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Landscapes
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300132294)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

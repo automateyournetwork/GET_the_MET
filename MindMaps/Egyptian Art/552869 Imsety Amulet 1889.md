@@ -1,0 +1,35 @@
+# Title: Imsety Amulet
+## Highlight: False
+## Accession
+### Number: 89.2.313
+### Year: 89.2.313
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/89.2.313_acc.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/89.2.313_acc.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Amulet, Imsety
+## History
+### Period: Late Period–Ptolemaic Period
+### Dynasty: Dynasty 26–30
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: 664–30 B.C.
+### Begin: -664
+### End: -30
+## Medium: Faience
+## Size
+### Dimensions: H. 6.2 cm (2 7/16 in)
+## Credit Line: Gift of Joseph W. Drexel, 1889
+## Geography
+### Type: From
+### Country: Egypt
+## Metadata Date: 2021-06-11T04:39:55.907Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 130

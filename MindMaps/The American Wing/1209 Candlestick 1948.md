@@ -1,0 +1,31 @@
+# Title: Candlestick
+## Highlight: False
+## Accession
+### Number: 48.135.73
+### Year: 48.135.73
+## Public Domain: False
+## Images
+## Constituents
+## Department: The American Wing
+## Object Name: Candlestick
+## History
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1910
+### Begin: 1907
+### End: 1910
+## Medium: Pewter
+## Size
+### Dimensions: H. 6 in. (15.2 cm)
+## Credit Line: Bequest of Adeline R. Brown, 1947
+## Geography
+### Type: Made in
+### Country: England
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+## Timeline Work: False
+## Gallery Number: 774

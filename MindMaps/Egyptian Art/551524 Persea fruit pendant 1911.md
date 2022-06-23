@@ -1,0 +1,45 @@
+# Title: Persea fruit pendant
+## Highlight: False
+## Accession
+### Number: 11.215.223
+### Year: 11.215.223
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/eg/original/11.215.223.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/eg/web-large/11.215.223.jpg)
+## Constituents
+## Department: Egyptian Art
+## Object Name: Pendant, Persea fruit
+## History
+### Period: New Kingdom
+### Dynasty: Dynasty 18
+### Reign: reign of Amenhotep III
+## Artist
+### Name
+### Dates Active
+### URLs
+## Dates
+### Object: ca. 1390–1353 B.C.
+### Begin: -1390
+### End: -1390
+## Medium: Faience, Yellow and violet
+## Size
+### Dimensions: Diam. 1.2 cm (1/2 in)
+## Credit Line: Rogers Fund, 1911
+## Geography
+### Type: From
+### Country: Egypt
+### Region: Upper Egypt, Thebes
+### Sub-Region: Malqata
+### Locale: Palace of Amenhotep III
+## Excavation: MMA excavations, 1911–12
+## Metadata Date: 2021-03-08T09:56:19.913Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Fruit
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300011868)
+### Wikipedia
+#### [Wikipedia]()
+## Timeline Work: False

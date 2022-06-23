@@ -1,0 +1,69 @@
+# Title: Naval combat, a ship at center, seen from behind, firing at four enemy ships, another ship entering from the right, a rowboat with nine people to left, from 'Peace and War' (Divers desseins tant pour la paix que pour la guerre)
+## Highlight: False
+## Accession
+### Number: 17.50.17-232
+### Year: 17.50.17-232
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/dp/original/DP817595.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/dp/web-large/DP817595.jpg)
+## Constituents
+### Name: Stefano della Bella
+### ID: 163659
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+### Name: Israël Henriet
+### ID: 91383
+### Role: Publisher
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500082521)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q3155663)
+### Name: Dedicated to Marquis de Maulevrier
+### ID: 98227
+### Role: Dedicatee
+### URLs
+## Department: Drawings and Prints
+## Object Name: Print
+## History
+## Portfolio: 'Peace and War' (Divers desseins tant pour la paix que pour la guerre)
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Bella, Stefano della
+#### Display Name: Stefano della Bella
+### Bio: Italian, Florence 1610–1664 Florence
+### Nationality: Italian
+### Dates Active
+#### Begin: 1610
+#### End: 1664
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q921242)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500018966)
+## Dates
+### Object: ca. 1641
+### Begin: 1636
+### End: 1646
+## Medium: Etching; second state of two
+## Size
+### Dimensions: Sheet (trimmed to plate): 4 1/16 × 9 15/16 in. (10.3 × 25.2 cm)
+## Credit Line: Purchase, Joseph Pulitzer Bequest, 1917
+## Geography
+## Classification: Prints
+## Metadata Date: 2021-08-20T04:36:13.79Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Wars
+#### Boats
+#### Ships
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300055314)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300178749)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300082981)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False

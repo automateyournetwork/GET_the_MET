@@ -1,0 +1,55 @@
+# Title: Study for a Memorial (from Sketchbook)
+## Highlight: False
+## Accession
+### Number: 1985.351.18 recto
+### Year: 1985.351.18 recto
+## Public Domain: True
+## Images
+### [Primary](https://images.metmuseum.org/CRDImages/ad/original/266099.jpg)
+### [Small Primary](https://images.metmuseum.org/CRDImages/ad/web-large/266099.jpg)
+## Constituents
+### Name: John Quincy Adams Ward
+### ID: 162686
+### Role: Artist
+### URLs
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023733)
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2069921)
+## Department: The American Wing
+## Object Name: Drawing
+## Culture: American
+## History
+## Artist
+### Role: Artist
+### Name
+#### Alpha Sort: Ward, John Quincy Adams
+#### Display Name: John Quincy Adams Ward
+### Bio: American, Urbana, Ohio 1830–1910 New York
+### Nationality: American
+### Dates Active
+#### Begin: 1830
+#### End: 1910
+### URLs
+#### [Wikipedia](https://www.wikidata.org/wiki/Q2069921)
+#### [ULAN](http://vocab.getty.edu/page/ulan/500023733)
+## Dates
+### Object: ca. 1860
+### Begin: 1857
+### End: 1860
+## Medium: Graphite on paper
+## Size
+### Dimensions: 8 13/16 × 6 in. (22.4 × 15.2 cm)
+## Credit Line: Gift of Edward R. Grove, 1985
+## Geography
+## Metadata Date: 2021-04-06T04:41:04.967Z
+## Respository: Metropolitan Museum of Art, New York, NY
+## Tags
+### Terms
+#### Men
+#### Women
+### AAT
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025928)
+#### [AAT URL](http://vocab.getty.edu/page/aat/300025943)
+### Wikipedia
+#### [Wikipedia]()
+#### [Wikipedia]()
+## Timeline Work: False
